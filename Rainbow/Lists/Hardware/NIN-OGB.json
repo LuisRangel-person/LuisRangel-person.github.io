@@ -26,12 +26,12 @@
         "Logo": "Missing"
     },
     {
-        "Title": "OG Yellow",
+        "Title": "Yellow",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "1989",
         "BGColor": "#efc402FF",
         "TitleColor": "#000000FF",
-        "SubTextColor": "#515151FF",
+        "SubTextColor": "#000000FF",
         "SubText": "Game Boy",
         "Info": "Part of the Play-It-Loud line.",
         "Extra": "N/A",
