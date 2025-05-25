@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Original",
+        "Manufacturer": "Magnavox",
+        "ReleaseDate": "1972",
+        "BGColor": "#fffef2FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#473220FF",
+        "SubText": "Launch Console",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "The Brown Box",
+        "Manufacturer": "Magnavox",
+        "ReleaseDate": "1967",
+        "BGColor": "#4a2918FF",
+        "TitleColor": "#b5b5b5FF",
+        "SubTextColor": "#000000FF",
+        "SubText": "Prototype",
+        "Info": "",
+        "Extra": "DEV",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
