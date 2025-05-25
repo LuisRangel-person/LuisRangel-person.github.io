@@ -1,0 +1,15 @@
+[
+    {
+        "Title": "Red&Black",
+        "Manufacturer": "Nintendo",
+        "ReleaseDate": "1995",
+        "BGColor": "#370000FF",
+        "TitleColor": "#FF0000FF",
+        "SubTextColor": "#FF0000FF",
+        "SubText": "Launch Console",
+        "Info": "INFO_NIN-VRT",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "NIN_VRT"
+    }
+]
