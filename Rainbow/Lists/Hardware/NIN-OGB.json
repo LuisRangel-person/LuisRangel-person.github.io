@@ -26,6 +26,19 @@
         "Logo": "Missing"
     },
     {
+        "Title": "Yellow",
+        "Manufacturer": "Nintendo",
+        "ReleaseDate": "1989",
+        "BGColor": "#efc402FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#515151FF",
+        "SubText": "Game Boy",
+        "Info": "Part of the Play-It-Loud line.",
+        "Extra": "N/A",
+        "BGEffect": "None",
+        "Logo": "Missing"
+    },
+    {
         "Title": "High Tech",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "1989",
