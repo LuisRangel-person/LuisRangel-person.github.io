@@ -1,0 +1,16 @@
+[
+    {
+        "Title": "Daihei Hawks",
+        "Manufacturer": "Nintendo",
+        "ReleaseDate": "1995",
+        "BGColor": "#f56c42FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#f56c42FF",
+        "dualToneColor": "#171717FF"
+        "SubText": "Standard",
+        "Info": "Special Release for the Daihei Hawks",
+        "Extra": "",
+        "BGEffect": "Dual",
+        "Logo": "NIN_VRT"
+    }
+]
