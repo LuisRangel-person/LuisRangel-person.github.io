@@ -1,0 +1,266 @@
+[
+    {
+        "Title" : "Table Tennis (Card #1)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Ski (Card #2)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Simon Says (Card #2)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Tennis (Card #3)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Analogic (Card #3)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Hockey (Card #3)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Football (Cards #3&4)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Cat and Mouse (Card #4)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Haunted House (Card #4)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Submarine (Card #5)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Roulette (Card #6)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "States (Card #6)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Fun Zoo (Card #2)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Baseball (Card #3)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Invasion (Cards #4,5,6)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Wipeout (Card #5)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Volleyball (Card #7)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Soccer (Card #8)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Handball (Card #8)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Prehistoric Safari (Card #9)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Dogfight! (Card #9)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Shootout! (Card #9)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Shooting Gallery (Card #10)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1972",
+        "JPN" : "1974",
+        "PAL" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Percepts (Card #2)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Brain Wave (Card #3)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "W.I.N. (Card #4)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Basketball (Card #8)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    },
+    {
+        "Title" : "Interplanetary Voyage (Card #12)",
+        "Developer" : "Magnavox",
+        "Publisher" : "Magnavox",
+        "NA" : "1973",
+        "BGART" : "",
+        "BGART_SMALL" : ""
+    }
+]
