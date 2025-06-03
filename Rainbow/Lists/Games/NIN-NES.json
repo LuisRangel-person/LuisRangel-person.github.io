@@ -3615,8 +3615,8 @@
     "Title" : "Mighty Final Fight"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17477-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17477-1.jpg",
+    "BGART" : "REVIEW",
+      "BGART_SMALL" : "REVIEW",
     "Developer" : "Nintendo Research & Development 3",
     "JPN" : "November 21, 1987",
     "NA" : "October 1987",
