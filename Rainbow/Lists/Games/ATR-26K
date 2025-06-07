@@ -1,0 +1,4585 @@
+[
+  {
+    "BGART" : "",
+    "BGART_SMALL" : "",
+    "Developer" : "Atari",
+    "JPN" : "2023",
+    "NA" : "2023",
+    "Publisher" : "Atari",
+    "Title" : "4 Games in 1 Cartridge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/121865-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/121865-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "2023",
+    "NA" : "2023",
+    "Publisher" : "Atari",
+    "Title" : "10 Games in 1"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19891-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19891-1.jpg",
+    "Developer" : "Atari",
+    "PAL" : "1988",
+    "Publisher" : "Atari",
+    "Title" : "32 in 1"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/43512-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/43512-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1980",
+    "NA" : "July 1980",
+    "Publisher" : "Atari",
+    "Title" : "3-D Tic-Tac-Toe"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2570-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2570-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1980",
+    "NA" : "March 1980",
+    "Publisher" : "Atari",
+    "Title" : "Adventure"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/104857-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/104857-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 2025",
+    "NA" : "July 2025",
+    "Publisher" : "Atari",
+    "Title" : "Avalanche"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5296-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5296-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Air-Sea Battle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31122-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31122-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Atari",
+    "Title" : "Alpha Beam with Ernie"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1342-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1342-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1981",
+    "NA" : "August 1981",
+    "Publisher" : "Atari",
+    "Title" : "Asteroids"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17501-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17501-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Atari",
+    "Title" : "Atari Video Cube"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17502-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17502-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1979",
+    "NA" : "November 1979",
+    "Publisher" : "Atari",
+    "Title" : "Backgammon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10861-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10861-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Basic Math a.k.a. Fun with Numbers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17505-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17505-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1980",
+    "NA" : "April 1980",
+    "Publisher" : "Atari",
+    "Title" : "BASIC Programming"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22141-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22141-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Basketball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1343-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1343-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1983",
+    "NA" : "August 1983",
+    "Publisher" : "Atari",
+    "Title" : "BattleZone"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5297-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5297-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Atari",
+    "Title" : "Berzerk"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31842-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31842-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Atari",
+    "Title" : "Big Bird's Egg Catch"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1344-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1344-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Blackjack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17509-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17509-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "1990",
+    "NA" : "1990",
+    "Publisher" : "Atari",
+    "Title" : "BMX Air Master"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22144-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22144-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Bowling"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5298-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5298-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Brain Games"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5299-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5299-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Breakout"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22147-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22147-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Canyon Bomber"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1345-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1345-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Casino"
+  },
+  {
+    "BGART" : "",
+    "BGART_SMALL" : "",
+    "Developer" : "Atari",
+    "JPN" : "November 2024",
+    "NA" : "November 2024",
+    "Publisher" : "Atari",
+    "Title" : "Caverns of Mars"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1346-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1346-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Atari",
+    "Title" : "Centipede"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5301-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5301-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1980",
+    "NA" : "July 1980",
+    "Publisher" : "Atari",
+    "Title" : "Circus Atari"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31851-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31851-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Codebreaker"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4887-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4887-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1977",
+    "NA" : "August 1977",
+    "Publisher" : "Atari",
+    "Title" : "Combat"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17510-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17510-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Atari",
+    "Title" : "Cookie Monster Munch"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8352-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8352-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Atari",
+    "Title" : "Crazy Climber"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31855-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31855-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "May 1988",
+    "NA" : "May 1988",
+    "Publisher" : "Atari",
+    "Title" : "Crossbow"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8351-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8351-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1984",
+    "NA" : "April 1984",
+    "Publisher" : "Atari",
+    "Title" : "Crystal Castles"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1366-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1366-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "May 1989",
+    "NA" : "May 1989",
+    "Publisher" : "Atari",
+    "Title" : "Dark Chambers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/55061-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/55061-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Atari",
+    "Title" : "Defender"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/14689-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/14689-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "Atari",
+    "Title" : "Demons to Diamonds"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1368-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1368-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1987",
+    "NA" : "December 1987",
+    "Publisher" : "Atari",
+    "Title" : "Desert Falcon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/207-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/207-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Atari",
+    "Title" : "Dig Dug"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7946-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7946-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1980",
+    "NA" : "September 1980",
+    "Publisher" : "Atari",
+    "Title" : "Dodge 'Em"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31191-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31191-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Atari",
+    "Title" : "Donald Duck's Speedboat"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5302-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5302-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "May 1989",
+    "NA" : "May 1989",
+    "Publisher" : "Atari",
+    "Title" : "Double Dunk"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7611-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7611-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Atari",
+    "Title" : "E.T. the Extra-Terrestrial"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33504-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33504-1.jpg",
+    "Developer" : "Atari",
+    "PAL" : "1990",
+    "Publisher" : "Atari",
+    "Title" : "Fatal Run"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22158-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22158-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Flag Capture"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22201-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22201-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Football"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5305-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5305-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Atari",
+    "Title" : "Galaxian"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7947-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7947-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1980",
+    "NA" : "July 1980",
+    "Publisher" : "Atari",
+    "Title" : "Golf"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1348-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1348-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Atari",
+    "Title" : "Gravitar"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31843-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31843-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1984",
+    "NA" : "July 1984",
+    "Publisher" : "Atari",
+    "Title" : "Gremlins"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21034-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21034-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Hangman"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1370-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1370-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "February 1982",
+    "NA" : "February 1982",
+    "Publisher" : "Atari",
+    "Title" : "Haunted House"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9236-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9236-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Home Run"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7948-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7948-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Human Cannonball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/93951-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/93951-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Hunt & Score"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22162-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22162-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1991",
+    "NA" : "March 1991",
+    "Publisher" : "Atari",
+    "Title" : "Ikari Warriors"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1349-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1349-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Indy 500"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1350-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1350-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Atari",
+    "Title" : "Joust"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5306-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5306-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1986",
+    "NA" : "October 1986",
+    "Publisher" : "Atari",
+    "Title" : "Jr. Pac-Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1351-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1351-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Atari",
+    "Title" : "Jungle Hunt"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1352-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1352-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Atari",
+    "Title" : "Kangaroo"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5308-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5308-1.jpg",
+    "Developer" : "Atari",
+    "PAL" : "1990",
+    "Publisher" : "Atari",
+    "Title" : "Klax"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/15245-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15245-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Atari",
+    "Title" : "Krull"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5309-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5309-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Atari",
+    "Title" : "Mario Bros."
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17520-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17520-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "Atari",
+    "Title" : "Math Gran Prix"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5310-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5310-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1980",
+    "NA" : "September 1980",
+    "Publisher" : "Atari",
+    "Title" : "Maze Craze: A Game of Cops and Robbers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5311-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5311-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1986",
+    "NA" : "November 1986",
+    "Publisher" : "Atari",
+    "Title" : "Midnight Magic"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5312-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5312-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Atari",
+    "Title" : "Millipede"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17521-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17521-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Miniature Golf"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5313-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5313-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1981",
+    "NA" : "April 1981",
+    "Publisher" : "Atari",
+    "Title" : "Missile Command"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/103178-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/103178-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Atari",
+    "Title" : "Moon Patrol"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22167-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22167-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1991",
+    "NA" : "March 1991",
+    "Publisher" : "Atari",
+    "Title" : "MotoRodeo"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/121469-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/121469-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 2023",
+    "NA" : "November 2023",
+    "Publisher" : "Atari",
+    "Title" : "Mr Run and Jump"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5314-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5314-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Atari",
+    "Title" : "Ms. Pac-Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7952-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7952-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1980",
+    "NA" : "July 1980",
+    "Publisher" : "Atari",
+    "Title" : "Night Driver"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31492-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31492-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Atari",
+    "Title" : "Obelix"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/30137-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/30137-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1989",
+    "NA" : "August 1989",
+    "Publisher" : "Atari",
+    "Title" : "Off the Wall"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/41350-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/41350-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Atari",
+    "Title" : "Oscar's Trash Race"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22170-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22170-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1981",
+    "NA" : "March 1981",
+    "Publisher" : "Atari",
+    "Title" : "Othello"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5315-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5315-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Outlaw"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4889-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4889-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 16, 1982",
+    "NA" : "March 16, 1982",
+    "Publisher" : "Atari",
+    "Title" : "Pac-Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5316-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5316-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "February 1981",
+    "NA" : "February 1981",
+    "Publisher" : "Atari",
+    "Title" : "Pelé's Soccer a.k.a. Championship Soccer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34334-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34334-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "May 1984",
+    "NA" : "May 1984",
+    "Publisher" : "Atari",
+    "Title" : "Pengo"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10129-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10129-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Atari",
+    "Title" : "Phoenix"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17528-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17528-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Atari",
+    "Title" : "Pigs in Space"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5571-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5571-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1983",
+    "NA" : "August 1983",
+    "Publisher" : "Atari",
+    "Title" : "Pole Position"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/41365-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/41365-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Atari",
+    "Title" : "Quadrun"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33467-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33467-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1989",
+    "NA" : "August 1989",
+    "Publisher" : "Atari",
+    "Title" : "Radar Lock"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5319-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5319-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Atari",
+    "Title" : "Raiders of the Lost Ark"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22203-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22203-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Atari",
+    "Title" : "RealSports Baseball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17531-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17531-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1987",
+    "NA" : "December 1987",
+    "Publisher" : "Atari",
+    "Title" : "RealSports Boxing"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/15888-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15888-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Atari",
+    "Title" : "RealSports Football"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17533-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17533-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Atari",
+    "Title" : "RealSports Soccer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5322-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5322-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Atari",
+    "Title" : "RealSports Tennis"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17532-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17532-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Atari",
+    "Title" : "RealSports Volleyball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33499-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33499-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "August 1989",
+    "NA" : "August 1989",
+    "Publisher" : "Atari",
+    "Title" : "Road Runner"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5325-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5325-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "May 1989",
+    "NA" : "May 1989",
+    "Publisher" : "Atari",
+    "Title" : "Secret Quest"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45837-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45837-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1991",
+    "NA" : "March 1991",
+    "Publisher" : "Atari",
+    "Title" : "Sentinel"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34339-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34339-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Sky Diver"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/41366-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/41366-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1979",
+    "NA" : "March 1979",
+    "Publisher" : "Atari",
+    "Title" : "Slot Machine"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/14694-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/14694-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Slot Racers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22179-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22179-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Atari",
+    "Title" : "Snoopy and the Red Baron"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18880-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18880-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1986",
+    "NA" : "November 1986",
+    "Publisher" : "Atari",
+    "Title" : "Solaris"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38236-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38236-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Atari",
+    "Title" : "Sorcerer's Apprentice"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/80238-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/80238-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1980",
+    "NA" : "March 1980",
+    "Publisher" : "Atari",
+    "Title" : "Space Invaders"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5327-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5327-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1978",
+    "NA" : "October 1978",
+    "Publisher" : "Atari",
+    "Title" : "Space War"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47681-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47681-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1989",
+    "NA" : "March 1989",
+    "Publisher" : "Atari",
+    "Title" : "Sprint Master"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48231-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48231-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "June 1984",
+    "NA" : "June 1984",
+    "Publisher" : "Atari",
+    "Title" : "Stargate"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5328-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5328-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Atari",
+    "Title" : "Star Raiders"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1355-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1355-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Star Ship"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38240-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38240-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1981",
+    "NA" : "March 1981",
+    "Publisher" : "Atari",
+    "Title" : "Steeplechase"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38243-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38243-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1981",
+    "NA" : "March 1981",
+    "Publisher" : "Atari",
+    "Title" : "Stellar Track"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7956-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7956-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Street Racer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38245-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38245-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Atari",
+    "Title" : "Submarine Commander"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34342-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34342-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1989",
+    "NA" : "March 1989",
+    "Publisher" : "Atari",
+    "Title" : "Super Baseball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/62349-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/62349-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1981",
+    "NA" : "October 1981",
+    "Publisher" : "Atari",
+    "Title" : "Super Breakout"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5331-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5331-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1989",
+    "NA" : "March 1989",
+    "Publisher" : "Atari",
+    "Title" : "Super Football"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5332-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5332-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1979",
+    "NA" : "September 1979",
+    "Publisher" : "Atari",
+    "Title" : "Superman"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21035-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21035-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Surround"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1372-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1372-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Atari",
+    "Title" : "Swordquest: Earthworld"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22198-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22198-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Atari",
+    "Title" : "Swordquest: Fireworld"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/30796-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/30796-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Atari",
+    "Title" : "Swordquest: Waterworld"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22189-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22189-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1984",
+    "NA" : "April 1984",
+    "Publisher" : "Atari",
+    "Title" : "Taz"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/29507-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/29507-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1986",
+    "NA" : "July 1986",
+    "Publisher" : "Atari",
+    "Title" : "Track & Field"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/23919-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/23919-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Atari",
+    "Title" : "Vanguard"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34338-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34338-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1980",
+    "NA" : "September 1980",
+    "Publisher" : "Atari",
+    "Title" : "Video Checkers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/15889-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15889-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "November 1979",
+    "NA" : "November 1979",
+    "Publisher" : "Atari",
+    "Title" : "Video Chess"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7957-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7957-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "September 1977",
+    "NA" : "September 1977",
+    "Publisher" : "Atari",
+    "Title" : "Video Olympics"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7958-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7958-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "April 1981",
+    "NA" : "April 1981",
+    "Publisher" : "Atari",
+    "Title" : "Video Pinball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/55060-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/55060-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "July 1981",
+    "NA" : "July 1981",
+    "Publisher" : "Atari",
+    "Title" : "Warlords"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34337-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34337-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "March 1991",
+    "NA" : "March 1991",
+    "Publisher" : "Atari",
+    "Title" : "Xenophobe"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/62350-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/62350-1.jpg",
+    "Developer" : "Atari",
+    "JPN" : "May 1982",
+    "NA" : "May 1982",
+    "Publisher" : "Atari",
+    "Title" : "Yars' Revenge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/16991-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/16991-1.jpg",
+    "Developer" : "Dennis Kiss",
+    "PAL" : "1992",
+    "Publisher" : "Salu Ltd",
+    "Title" : "Acid Drop"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9245-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9245-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "August 1983",
+    "NA" : "August 1983",
+    "Publisher" : "Activision",
+    "Title" : "The Activision Decathlon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10859-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10859-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "M Network",
+    "Title" : "Adventures of Tron"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10860-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10860-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Data Age",
+    "Title" : "Airlock"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8353-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8353-1.jpg",
+    "Developer" : "MenAVision",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "MenAVision",
+    "Title" : "Air Raid"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17494-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17494-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "M Network",
+    "Title" : "Air Raiders"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19020-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19020-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Alien"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/43503-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/43503-1.jpg",
+    "Developer" : "Gem International Corporation",
+    "PAL" : "1983",
+    "Publisher" : "Home Vision",
+    "Title" : "Alien's Return"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1341-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1341-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Amidar"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17495-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17495-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "M Network",
+    "Title" : "Armor Ambush"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/64989-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/64989-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Xonox",
+    "Title" : "Artillery Duel\/Chuck Norris Superkicks"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/72357-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/72357-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Artillery Duel\/Ghost Manor"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/55002-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/55002-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Artillery Duel\/Spike's Peak"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17496-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17496-1.jpg",
+    "Developer" : "Action Graphics",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Artillery Duel"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31125-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31125-1.jpg",
+    "Developer" : "Bomb",
+    "JPN" : "Q4 1983",
+    "NA" : "Q4 1983",
+    "Publisher" : "Bomb",
+    "Title" : "Assault"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17500-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17500-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "M Network",
+    "Title" : "Astroblast"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9272-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9272-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Atlantis"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45820-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45820-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Atlantis II"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/102097-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/102097-1.jpg",
+    "Developer" : "Mystique",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Bachelor Party"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31128-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31128-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Bachelorette Party"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17503-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17503-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Bank Heist"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7944-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7944-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "March 1982",
+    "NA" : "March 1982",
+    "Publisher" : "Activision",
+    "Title" : "Barnstorming"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17504-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17504-1.jpg",
+    "Developer" : "Home Vision",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Home Vision",
+    "Title" : "Base Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17506-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17506-1.jpg",
+    "Developer" : "Cheshire Engineering",
+    "JPN" : "July 1984",
+    "NA" : "July 1984",
+    "Publisher" : "Activision",
+    "Title" : "Beamrider"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22142-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22142-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Beany Bopper"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22143-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22143-1.jpg",
+    "Developer" : "Mystique",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Beat Em and Eat Em"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31841-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31841-1.jpg",
+    "Developer" : "Coleco",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Coleco",
+    "Title" : "Berenstain Bears"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44809-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44809-1.jpg",
+    "Developer" : "Suntek?",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Suntek\/Quelle\/Rainbow Vision\/Hertie",
+    "Title" : "Bermuda"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17507-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17507-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Data Age",
+    "Title" : "Bermuda Triangle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/84044-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/84044-1.jpg",
+    "Developer" : "Tokar, Robert Anthony",
+    "JPN" : "August 1984",
+    "NA" : "August 1984",
+    "Publisher" : "Personal Games Company",
+    "Title" : "Birthday Mania"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17508-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17508-1.jpg",
+    "Developer" : "CBS Electronics",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Blue Print"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9242-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9242-1.png",
+    "Developer" : "Bit Corporation",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "CCE",
+    "Title" : "Bobby is Going Home"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33473-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33473-1.jpg",
+    "Developer" : "First Star Software",
+    "JPN" : "January 1984",
+    "NA" : "January 1984",
+    "Publisher" : "First Star Software",
+    "Title" : "Boing!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7945-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7945-1.jpg",
+    "Developer" : "Activision (Bob Whitehead)",
+    "JPN" : "August 1980",
+    "NA" : "August 1980",
+    "Publisher" : "Activision",
+    "Title" : "Boxing"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22145-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22145-1.jpg",
+    "Developer" : "Activision (Larry Kaplan)",
+    "JPN" : "December 1980",
+    "NA" : "December 1980",
+    "Publisher" : "Activision",
+    "Title" : "Bridge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22206-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22206-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Sega",
+    "Title" : "Buck Rogers: Planet of Zoom"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22146-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22146-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Data Age",
+    "Title" : "Bugs"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31846-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31846-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Spectravision",
+    "Title" : "Bumper Bash"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33503-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33503-1.jpg",
+    "Developer" : "Mattel Electronics",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "M Network",
+    "Title" : "Bump 'n' Jump"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7610-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7610-1.jpg",
+    "Developer" : "Mattel Electronics",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "M Network",
+    "Title" : "BurgerTime"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31847-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31847-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "PlayAround",
+    "Title" : "Burning Desire"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/84045-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/84045-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Zellers",
+    "Title" : "Busy Police"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31848-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31848-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "CommaVid",
+    "Title" : "Cakewalk"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5300-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5300-1.jpg",
+    "Developer" : "Epyx",
+    "JPN" : "June 1988",
+    "NA" : "June 1988",
+    "Publisher" : "Epyx",
+    "Title" : "California Games"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/104906-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/104906-1.jpg",
+    "Developer" : "Woodside Design Associates",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Coleco",
+    "Title" : "Carnival"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31849-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31849-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Cathouse Blues"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22148-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22148-1.jpg",
+    "Developer" : "",
+    "JPN" : "",
+    "NA" : "",
+    "Publisher" : "Funvision",
+    "Title" : "Challenge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28589-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28589-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Spectravision",
+    "Title" : "Challenge of Nexar"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31850-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31850-1.jpg",
+    "Developer" : "TMQ Software",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Spectravision",
+    "Title" : "Chase the Chuck Wagon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22149-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22149-1.jpg",
+    "Developer" : "Activision (Alan Miller)",
+    "JPN" : "August 1980",
+    "NA" : "August 1980",
+    "Publisher" : "Activision",
+    "Title" : "Checkers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28590-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28590-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Spectravision",
+    "Title" : "China Syndrome"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7612-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7612-1.jpg",
+    "Developer" : "Activision (Bob Whitehead)",
+    "JPN" : "May 1982",
+    "NA" : "May 1982",
+    "Publisher" : "Activision",
+    "Title" : "Chopper Command"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/92069-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/92069-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Chuck Norris Superkicks\/Ghost Manor"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/chuck_norris_superkicks_spike_s_peak_cart.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/chuck_norris_superkicks_spike_s_peak_cart.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Chuck Norris Superkicks\/Spike's Peak"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38192-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38192-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Chuck Norris Superkicks"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28705-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28705-1.jpg",
+    "Developer" : "Telesys",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Telesys",
+    "Title" : "Coconuts"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54663-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54663-1.jpg",
+    "Developer" : "Videosoft",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Videosoft",
+    "Title" : "Color Bar Generator"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/206-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/206-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "June 1988",
+    "NA" : "June 1988",
+    "Publisher" : "Activision",
+    "Title" : "Commando"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19929-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19929-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "U.S. Games",
+    "Title" : "Commando Raid"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/23916-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/23916-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Starpath",
+    "Title" : "Communist Mutants from Space"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9244-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9244-1.jpg",
+    "Developer" : "",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Ultravision",
+    "Title" : "Condor Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/43164-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/43164-1.png",
+    "Developer" : "Answer Software",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Answer Software",
+    "Title" : "Confrontation"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/27120-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/27120-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Sega",
+    "Title" : "Congo Bongo"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21347-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21347-1.jpg",
+    "Developer" : "Imagic (Rob Fulop)",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Cosmic Ark"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22209-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22209-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "August 1985",
+    "NA" : "August 1985",
+    "Publisher" : "Activision",
+    "Title" : "Cosmic Commuter"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31852-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31852-1.jpg",
+    "Developer" : "",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Zimag",
+    "Title" : "Cosmic Corridor"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28706-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28706-1.jpg",
+    "Developer" : "Telesys",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Telesys",
+    "Title" : "Cosmic Creeps"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/cosmic_free_fire_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/cosmic_free_fire_cart_2.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Action Hi-Tech",
+    "Title" : "Cosmic Free Fire"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31853-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31853-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "May 1982",
+    "NA" : "May 1982",
+    "Publisher" : "CommaVid",
+    "Title" : "Cosmic Swarm"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/game-atari-2600-vcs-crab-control_8167.html",
+    "BGART_SMALL" : "https://www.atarimania.com/game-atari-2600-vcs-crab-control_8167.html",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Action Hi-Tech",
+    "Title" : "Crab Control"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22150-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22150-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Activision",
+    "Title" : "Crackpots"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31854-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31854-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Crash Dive"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/36345-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/36345-1.jpg",
+    "Developer" : "",
+    "JPN" : "1992",
+    "NA" : "1992",
+    "Publisher" : "Home Entertainment Suppliers",
+    "Title" : "Dungeon Master\/Creature Strike"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17492-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17492-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Spectravision",
+    "Title" : "Cross Force"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28713-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28713-1.jpg",
+    "Developer" : "",
+    "JPN" : "1987",
+    "NA" : "1987",
+    "Publisher" : "Froggo",
+    "Title" : "Cruise Missile"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28600-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28600-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Crypts of Chaos"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31856-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31856-1.jpg",
+    "Developer" : "Rob Fulop",
+    "JPN" : "December 1986",
+    "NA" : "December 1986",
+    "Publisher" : "",
+    "Title" : "Cubicolor"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/20026-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/20026-1.jpg",
+    "Developer" : "Mystique",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Mystique",
+    "Title" : "Custer's Revenge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38194-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38194-1.jpg",
+    "Developer" : "",
+    "PAL" : "1982",
+    "Publisher" : "Bit Corporation",
+    "Title" : "Dancing Plate"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22214-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22214-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "M Network",
+    "Title" : "Dark Cavern"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22211-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22211-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Telegames",
+    "Title" : "Deadly Discs"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22151-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22151-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Deadly Duck"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31857-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31857-1.jpg",
+    "Developer" : "Avalon Hill",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Avalon Hill",
+    "Title" : "Death Trap"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31858-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31858-1.jpg",
+    "Developer" : "Telesys",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "Telesys",
+    "Title" : "Demolition Herby"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9271-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9271-1.jpg",
+    "Developer" : "Imagic (Rob Fulop)",
+    "JPN" : "April 1982",
+    "NA" : "April 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Demon Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31859-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31859-1.jpg",
+    "Developer" : "",
+    "JPN" : "January 1984",
+    "NA" : "January 1984",
+    "Publisher" : "Panda",
+    "Title" : "Dice Puzzle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44820-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44820-1.jpg",
+    "Developer" : "Zimag",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Zimag",
+    "Title" : "Dishaster"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22152-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22152-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "May 1983",
+    "NA" : "May 1983",
+    "Publisher" : "Activision",
+    "Title" : "Dolphin"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2876-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2876-1.jpg",
+    "Developer" : "Imaginative Systems Software",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "Coleco",
+    "Title" : "Donkey Kong"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7613-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7613-1.jpg",
+    "Developer" : "Woodside Design Associates",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Coleco",
+    "Title" : "Donkey Kong Junior"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10878-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10878-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "Q4 1989",
+    "NA" : "Q4 1989",
+    "Publisher" : "Activision",
+    "Title" : "Double Dragon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31930-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31930-1.jpg",
+    "Developer" : "",
+    "JPN" : "",
+    "NA" : "",
+    "Publisher" : "Zellers",
+    "Title" : "Dragon Treasure"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22153-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22153-1.jpg",
+    "Developer" : "Imagic (Bob Smith)",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Dragonfire"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/23917-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/23917-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Starpath",
+    "Title" : "Dragonstomper"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22154-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22154-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "August 1980",
+    "NA" : "August 1980",
+    "Publisher" : "Activision",
+    "Title" : "Dragster"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/earth_dies_screaming_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/earth_dies_screaming_cart_2.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "The Earth Dies Screaming"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22205-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22205-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Zellers",
+    "Title" : "Earth Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44824-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44824-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Quelle",
+    "Title" : "Eddy Langfinger, der Museumsdieb"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/14280-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/14280-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Eggomania"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31931-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31931-1.jpg",
+    "Developer" : "Simage",
+    "JPN" : "August 1984",
+    "NA" : "August 1984",
+    "Publisher" : "Simage",
+    "Title" : "Eli's Ladder"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34910-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34910-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Data Age",
+    "Title" : "Encounter at L-5"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8357-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8357-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "May 1983",
+    "NA" : "May 1983",
+    "Publisher" : "Activision",
+    "Title" : "Enduro"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17764-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17764-1.jpg",
+    "Developer" : "Western Technologies",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Entombed"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/23918-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/23918-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Starpath",
+    "Title" : "Escape from the Mindmaster (cassette)"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31932-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31932-1.jpg",
+    "Developer" : "Orca Corporation",
+    "JPN" : "May 1984",
+    "NA" : "May 1984",
+    "Publisher" : "Tigervision",
+    "Title" : "Espial"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31933-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31933-1.jpg",
+    "Developer" : "Panda",
+    "JPN" : "January 1984",
+    "NA" : "January 1984",
+    "Publisher" : "Panda",
+    "Title" : "Exocet"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/127056-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/127056-1.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "John Sands",
+    "Title" : "Exoset Missile"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45824-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45824-1.jpg",
+    "Developer" : "Herman Quast",
+    "JPN" : "Q1 1984",
+    "NA" : "Q1 1984",
+    "Publisher" : "Skill Screen Games",
+    "Title" : "Extra Terrestrials"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22155-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22155-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Fantastic Voyage"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/farmer_dan_zellers_cart_3.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/farmer_dan_zellers_cart_3.jpg",
+    "Developer" : "",
+    "JPN" : "",
+    "NA" : "",
+    "Publisher" : "Zellers",
+    "Title" : "Farmer Dan"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22156-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22156-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Fast Eddie"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22157-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22157-1.jpg",
+    "Developer" : "Telesys",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Telesys",
+    "Title" : "Fast Food"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/26201-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/26201-1.jpg",
+    "Developer" : "Imagic (Rob Fulop)",
+    "JPN" : "August 1983",
+    "NA" : "August 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Fathom"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28702-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28702-1.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Activision",
+    "Title" : "Tomcat: The F-14 Fighter Simulator"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/30363-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/30363-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Final Approach"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34325-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34325-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Starpath",
+    "Title" : "Fireball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17511-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17511-1.jpg",
+    "Developer" : "Imagic (Brad Stewart)",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Fire Fighter"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22216-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22216-1.jpg",
+    "Developer" : "Mythicon",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Mythicon",
+    "Title" : "Fire Fly"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44827-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44827-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "CCE",
+    "Title" : "Fisher Price"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/20286-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/20286-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "August 1980",
+    "NA" : "August 1980",
+    "Publisher" : "Activision",
+    "Title" : "Fishing Derby"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22159-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22159-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "May 1983",
+    "NA" : "May 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Flash Gordon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5303-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5303-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Data Age",
+    "Title" : "Frankenstein's Monster"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5304-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5304-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "July 1981",
+    "NA" : "July 1981",
+    "Publisher" : "Activision",
+    "Title" : "Freeway"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1369-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1369-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Frogger"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18549-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18549-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "M Network",
+    "Title" : "Frogs and Flies"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/official_frogger_pal_k7_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/official_frogger_pal_k7_2.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "",
+    "Title" : "The Official Frogger (cassette)"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8355-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8355-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "October 1984",
+    "NA" : "October 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Frogger II: ThreeeDeep!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28698-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28698-1.jpg",
+    "Developer" : "Individeo",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Coleco",
+    "Title" : "Front Line"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8356-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8356-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Activision",
+    "Title" : "Frostbite"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/36549-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/36549-1.jpg",
+    "Developer" : "Gammation",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Gammation",
+    "Title" : "Gamma-Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28593-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28593-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "Spectravision",
+    "Title" : "Gangster Alley"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48228-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48228-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Spectravision",
+    "Title" : "Gas Hog"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34327-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34327-1.jpg",
+    "Developer" : "Answer Software",
+    "JPN" : "Q3 1983",
+    "NA" : "Q3 1983",
+    "Publisher" : "Answer Software",
+    "Title" : "Gauntlet"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52340-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/52340-1.png",
+    "Developer" : "PlayAround",
+    "PAL" : "1983",
+    "Publisher" : "PlayAround",
+    "Title" : "General Re-Treat"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1292-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1292-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "August 1985",
+    "NA" : "August 1985",
+    "Publisher" : "Activision",
+    "Title" : "Ghostbusters"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17512-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17512-1.jpg",
+    "Developer" : "Activision",
+    "PAL" : "1990",
+    "Publisher" : "Salu Ltd",
+    "Title" : "Ghostbusters II"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/ghost_manor_spike_s_peak_pal_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/ghost_manor_spike_s_peak_pal_cart_2.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Xonox",
+    "Title" : "Ghost Manor\/Spike's Peak"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/39751-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/39751-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Ghost Manor"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19843-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19843-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "G.I. Joe: Cobra Strike"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45825-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45825-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Gigolo"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34909-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34909-1.jpg",
+    "Developer" : "VSS",
+    "JPN" : "September 1989",
+    "NA" : "September 1989",
+    "Publisher" : "Telegames",
+    "Title" : "Glacier Patrol"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34911-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34911-1.jpg",
+    "Developer" : "Qualtronic Devices",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Selchow and Righter",
+    "Title" : "Glib"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28690-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28690-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Gopher"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28699-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28699-1.jpg",
+    "Developer" : "Roklan Corporation",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Gorf"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21544-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21544-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "March 1982",
+    "NA" : "March 1982",
+    "Publisher" : "Activision",
+    "Title" : "Grand Prix"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45826-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45826-1.jpg",
+    "Developer" : "Bomb",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Bomb",
+    "Title" : "Great Escape"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34912-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34912-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Guardian"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28595-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28595-1.jpg",
+    "Developer" : "Roklan Corporation",
+    "JPN" : "June 1984",
+    "NA" : "June 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Gyruss"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22160-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22160-1.jpg",
+    "Developer" : "VSS",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Wizard Video",
+    "Title" : "Halloween"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34914-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34914-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Panda",
+    "Title" : "Harbor Escape"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10128-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10128-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Activision",
+    "Title" : "H.E.R.O."
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22161-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22161-1.jpg",
+    "Developer" : "Zimag",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Zimag",
+    "Title" : "I Want My Mommy"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7949-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7949-1.jpg",
+    "Developer" : "Activision (Alan Miller)",
+    "JPN" : "December 1981",
+    "NA" : "December 1981",
+    "Publisher" : "Activision",
+    "Title" : "Ice Hockey"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52373-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/52373-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "Zellers",
+    "Title" : "Inca Gold"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22163-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22163-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Infiltrate"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/9246-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/9246-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "M Network",
+    "Title" : "International Soccer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34916-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34916-1.jpg",
+    "Developer" : "On Time Software",
+    "JPN" : "May 1984",
+    "NA" : "May 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "James Bond 007"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34917-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34917-1.jpg",
+    "Developer" : "On-Line Systems",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Tigervision",
+    "Title" : "Jawbreaker"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7950-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7950-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "Data Age",
+    "Title" : "Journey Escape"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33491-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33491-1.jpg",
+    "Developer" : "PlayAround",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Jungle Fever"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1371-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1371-1.jpg",
+    "Developer" : "Activision (Larry Kaplan, David Crane)",
+    "JPN" : "July 1981",
+    "NA" : "July 1981",
+    "Publisher" : "Activision",
+    "Title" : "Kaboom!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28712-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28712-1.jpg",
+    "Developer" : "Ultravision",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Ultravision",
+    "Title" : "Karate"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5307-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5307-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "May 1983",
+    "NA" : "May 1983",
+    "Publisher" : "Activision",
+    "Title" : "Keystone Kapers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34328-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34328-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Starpath",
+    "Title" : "Killer Satellites"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17515-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17515-1.jpg",
+    "Developer" : "Software Electronics",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Tigervision",
+    "Title" : "King Kong"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33492-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33492-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Knight on the Town"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28691-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28691-1.jpg",
+    "Developer" : "Mattel Electronics",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "M Network",
+    "Title" : "Kool-Aid Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28701-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28701-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "September 1987",
+    "NA" : "September 1987",
+    "Publisher" : "Activision",
+    "Title" : "Kung-Fu Master"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33493-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33493-1.jpg",
+    "Developer" : "PlayAround",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "PlayAround",
+    "Title" : "Lady in Wading"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19892-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19892-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "March 1981",
+    "NA" : "March 1981",
+    "Publisher" : "Activision",
+    "Title" : "Laser Blast"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22207-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22207-1.jpg",
+    "Developer" : "Imagic, VentureVision",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Laser Gates"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22208-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22208-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Zellers",
+    "Title" : "Laser Volley"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34918-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34918-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Lochjaw"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22164-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22164-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "M Network",
+    "Title" : "Lock 'n' Chase"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34919-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34919-1.jpg",
+    "Developer" : "Avalon Hill",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Avalon Hill",
+    "Title" : "London Blitz"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17518-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17518-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Lost Luggage"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34329-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34329-1.jpg",
+    "Developer" : "Western Technologies",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "M.A.D."
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/51547-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/51547-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "May 1981",
+    "NA" : "May 1981",
+    "Publisher" : "CommaVid",
+    "Title" : "MagiCard"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38201-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38201-1.jpg",
+    "Developer" : "",
+    "JPN" : "Q3 1983",
+    "NA" : "Q3 1983",
+    "Publisher" : "Answer Software",
+    "Title" : "Malagai"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38202-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38202-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "Q1 1983",
+    "NA" : "Q1 1983",
+    "Publisher" : "Spectravision",
+    "Title" : "Mangia"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38203-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38203-1.jpg",
+    "Developer" : "On-Line Systems",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Tigervision",
+    "Title" : "Marauder"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17519-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17519-1.jpg",
+    "Developer" : "Digivision",
+    "PAL" : "1983",
+    "Publisher" : "Konami",
+    "Title" : "Marine Wars"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22165-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22165-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "M*A*S*H"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34330-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34330-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "Q1 1983",
+    "NA" : "Q1 1983",
+    "Publisher" : "Spectravision",
+    "Title" : "Master Builder"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28692-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28692-1.jpg",
+    "Developer" : "Mattel Electronics",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "M Network",
+    "Title" : "Masters of the Universe: The Power of He-Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48480-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48480-1.jpg",
+    "Developer" : "",
+    "JPN" : "1990",
+    "NA" : "1990",
+    "Publisher" : "Dynacom",
+    "Title" : "MegaBoy"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7951-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7951-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Mega Force"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19862-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19862-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Activision",
+    "Title" : "Megamania"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38204-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38204-1.jpg",
+    "Developer" : "Big Five Software",
+    "JPN" : "May 1983",
+    "NA" : "May 1983",
+    "Publisher" : "Tigervision",
+    "Title" : "Miner 2049er"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38205-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38205-1.jpg",
+    "Developer" : "Big Five Software",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Tigervision",
+    "Title" : "Miner 2049er Volume II"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38206-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38206-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "CommaVid",
+    "Title" : "Mines of Minos"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/35721-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/35721-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Video Gems",
+    "Title" : "Missile Control"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19896-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19896-1.jpg",
+    "Developer" : "Bit Corporation",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Bit Corporation",
+    "Title" : "Mission 3000 A.D."
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38207-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38207-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Video Gems",
+    "Title" : "Mission Survive"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22166-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22166-1.jpg",
+    "Developer" : "Video Soft",
+    "JPN" : "August 1983",
+    "NA" : "August 1983",
+    "Publisher" : "Amiga",
+    "Title" : "Mogul Maniac"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19207-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19207-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "October 1984",
+    "NA" : "October 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Montezuma's Revenge: Starring Panama Joe"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1363-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1363-1.jpg",
+    "Developer" : "Imagic (Bob Smith)",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Moonsweeper"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38208-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38208-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Quelle",
+    "Title" : "Motocross"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38209-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38209-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "October 1984",
+    "NA" : "October 1984",
+    "Publisher" : "Xonox",
+    "Title" : "Motocross Racer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22217-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22217-1.jpg",
+    "Developer" : "VSS",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Mountain King"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/93962-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/93962-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Coleco",
+    "Title" : "Mouse Trap"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34331-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34331-1.jpg",
+    "Developer" : "Individeo",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Coleco",
+    "Title" : "Mr. Do!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38210-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38210-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "December 1984",
+    "NA" : "December 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Mr. Do's Castle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22169-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22169-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Bit Corporation",
+    "Title" : "Mr. Postman"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38211-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38211-1.jpg",
+    "Developer" : "Christian Software Development",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Sparrow, HomeComputer Software",
+    "Title" : "The Music Machine"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17523-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17523-1.png",
+    "Developer" : "Imagineering (company)",
+    "PAL" : "1990",
+    "Publisher" : "HES",
+    "Title" : "My Golf"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/79441-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/79441-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Name This Game"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38212-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38212-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Sancho \/ Tang's Electronic Co.",
+    "Title" : "Nightmare"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17493-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17493-1.jpg",
+    "Developer" : "M Network",
+    "PAL" : "1989",
+    "Publisher" : "Telegames",
+    "Title" : "Night Stalker"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17525-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17525-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Imagic",
+    "Title" : "No Escape!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38213-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38213-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Technovision",
+    "Title" : "Nuts"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/86262-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/86262-1.jpg",
+    "Developer" : "",
+    "JPN" : "",
+    "NA" : "",
+    "Publisher" : "Zellers",
+    "Title" : "Ocean City Defender"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38215-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38215-1.png",
+    "Developer" : "Amiga",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Amiga",
+    "Title" : "Off Your Rocker"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7953-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7953-1.jpg",
+    "Developer" : "Activision (Mike Lorenzen)",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Activision",
+    "Title" : "Oink!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28700-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28700-1.jpg",
+    "Developer" : "CBS Electronics",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Omega Race"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38216-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38216-1.jpg",
+    "Developer" : "Bit Corporation",
+    "PAL" : "1983",
+    "Publisher" : "Bit Corporation",
+    "Title" : "Open Sesame"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45828-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45828-1.jpg",
+    "Developer" : "Avalon Hill",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Avalon Hill",
+    "Title" : "Out of Control"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17526-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17526-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Funvision",
+    "Title" : "Pac-Kong"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/41980-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/41980-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Home Vision",
+    "Title" : "Panda Chase"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38217-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38217-1.jpg",
+    "Developer" : "Gem International Corporation",
+    "PAL" : "1983",
+    "Publisher" : "Home Vision",
+    "Title" : "Parachute"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44808-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44808-1.jpg",
+    "Developer" : "unknown",
+    "PAL" : "1982",
+    "Publisher" : "Starsoft",
+    "Title" : "Paris Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34332-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34332-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Starpath",
+    "Title" : "Party Mix"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28704-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28704-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "February 1989",
+    "NA" : "February 1989",
+    "Publisher" : "Absolute Entertainment",
+    "Title" : "Pete Rose Baseball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48149-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48149-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Bit Corporation",
+    "Title" : "Phantom Tank"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17527-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17527-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Quelle",
+    "Title" : "Phantom-Panzer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38219-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38219-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Starpath",
+    "Title" : "Phaser Patrol"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38220-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38220-1.jpg",
+    "Developer" : "Mystique, PlayAround",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "Mystique",
+    "Title" : "Philly Flasher"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44181-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44181-1.jpg",
+    "Developer" : "Ubisoft",
+    "PAL" : "1990",
+    "Publisher" : "Salu Ltd",
+    "Title" : "Pick 'n Pile"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22171-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22171-1.jpg",
+    "Developer" : "Western Technologies",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Picnic"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22172-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22172-1.jpg",
+    "Developer" : "Western Technologies",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Piece o' Cake"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/123297-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/123297-1.jpg",
+    "Developer" : "",
+    "JPN" : "",
+    "NA" : "",
+    "Publisher" : "Zellers",
+    "Title" : "Pinball"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/piraten_schiff_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/piraten_schiff_cart_2.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Spectravision",
+    "Title" : "Piraten-Schiff"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5317-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5317-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Activision",
+    "Title" : "Pitfall!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17529-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17529-1.jpg",
+    "Developer" : "Activision (David Crane)",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Activision",
+    "Title" : "Pitfall II: Lost Caverns"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17530-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17530-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "PAL" : "1977",
+    "Publisher" : "Spectravision",
+    "Title" : "Planet Patrol"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10130-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10130-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "May 1983",
+    "NA" : "May 1983",
+    "Publisher" : "Activision",
+    "Title" : "Plaque Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1364-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1364-1.jpg",
+    "Developer" : "Tigervision",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Tigervision",
+    "Title" : "Polaris"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/35955-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/35955-1.jpg",
+    "Developer" : "Konami",
+    "PAL" : "1983",
+    "Publisher" : "Konami",
+    "Title" : "Pooyan"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22173-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22173-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Popeye"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28599-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28599-1.jpg",
+    "Developer" : "Dunhill Electronic Media, Lazer Microsystems",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Porky's"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22174-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22174-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Activision",
+    "Title" : "Pressure Cooker"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/14281-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/14281-1.jpg",
+    "Developer" : "Activision (Bob Whitehead)",
+    "JPN" : "February 1984",
+    "NA" : "February 1984",
+    "Publisher" : "Activision",
+    "Title" : "Private Eye"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/49740-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/49740-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "S.S.",
+    "Title" : "Pyramid War"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5318-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5318-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Q*bert"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44180-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44180-1.jpg",
+    "Developer" : "Mylstar Electronics",
+    "JPN" : "December 1984",
+    "NA" : "December 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Q*bert's Qubes"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22218-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22218-1.jpg",
+    "Developer" : "VSS",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Sunrise",
+    "Title" : "Quest for Quintana Roo"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38222-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38222-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Quick Step"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34336-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34336-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "Starpath",
+    "Title" : "Rabbit Transit"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22175-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22175-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Racquetball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/79443-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/79443-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Zellers",
+    "Title" : "Radar"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38223-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38223-1.jpg",
+    "Developer" : "Western Technologies",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Raft Rider"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22176-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22176-1.jpg",
+    "Developer" : "Telesys",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "Telesys",
+    "Title" : "Ram It"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5320-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5320-1.jpg",
+    "Developer" : "Bob Polaro",
+    "JPN" : "May 1989",
+    "NA" : "May 1989",
+    "Publisher" : "Activision",
+    "Title" : "Rampage"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5321-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5321-1.jpg",
+    "Developer" : "D. Gottlieb & Co.",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Reactor"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45835-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45835-1.jpg",
+    "Developer" : "Steve Schustack",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Inspirational Video Concepts",
+    "Title" : "Red Sea Crossing"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38225-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38225-1.jpg",
+    "Developer" : "VentureVision",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "VentureVision",
+    "Title" : "Rescue Terra 1"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22213-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22213-1.jpg",
+    "Developer" : "20th Century Fox",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Revenge of the Beefsteak Tomatoes"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22177-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22177-1.jpg",
+    "Developer" : "Imagic (Bob Smith)",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Riddle of the Sphinx"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33498-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33498-1.jpg",
+    "Developer" : "Orca Corporation",
+    "JPN" : "May 1984",
+    "NA" : "May 1984",
+    "Publisher" : "Tigervision",
+    "Title" : "River Patrol"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1365-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1365-1.jpg",
+    "Developer" : "Activision (Carol Shaw)",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "Activision",
+    "Title" : "River Raid"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/17534-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/17534-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "November 1988",
+    "NA" : "November 1988",
+    "Publisher" : "Activision",
+    "Title" : "River Raid II"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19844-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19844-1.jpg",
+    "Developer" : "Computer Magic, Ltd.",
+    "JPN" : "Q2 1984",
+    "NA" : "Q2 1984",
+    "Publisher" : "Xonox",
+    "Title" : "Robin Hood\/Sir Lancelot - The Joust"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/39750-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/39750-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Robin Hood"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5323-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5323-1.jpg",
+    "Developer" : "Activision (Alan Miller)",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Activision",
+    "Title" : "Robot Tank"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5324-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5324-1.jpg",
+    "Developer" : "Coleco",
+    "JPN" : "June 1984",
+    "NA" : "June 1984",
+    "Publisher" : "Coleco",
+    "Title" : "Roc'n Rope"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38226-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38226-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "CommaVid",
+    "Title" : "Room of Doom"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38231-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38231-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Technovision",
+    "Title" : "Save Our Ship"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44146-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44146-1.jpg",
+    "Developer" : "",
+    "JPN" : "January 1984",
+    "NA" : "January 1984",
+    "Publisher" : "Panda",
+    "Title" : "Scuba Diver"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/112171-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/112171-1.jpg",
+    "Developer" : "Froggo",
+    "JPN" : "1988",
+    "NA" : "1988",
+    "Publisher" : "Froggo",
+    "Title" : "Sea Hawk"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/112171-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/112171-1.jpg",
+    "Developer" : "",
+    "JPN" : "January 1984",
+    "NA" : "January 1984",
+    "Publisher" : "Sancho (Tang's Electronic Co.)",
+    "Title" : "Seahawk"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38232-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38232-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "Puzzy \/ Bit Corporation",
+    "Title" : "Seamonster"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22178-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22178-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Activision",
+    "Title" : "Seaquest"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28710-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28710-1.jpg",
+    "Developer" : "Froggo",
+    "JPN" : "1987",
+    "NA" : "1987",
+    "Publisher" : "Froggo",
+    "Title" : "Sea Hunt"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22215-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22215-1.jpg",
+    "Developer" : "",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Shark Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33466-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33466-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Shootin' Gallery"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38238-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38238-1.jpg",
+    "Developer" : "Avalon Hill",
+    "JPN" : "March 1984",
+    "NA" : "March 1984",
+    "Publisher" : "Avalon Hill",
+    "Title" : "Shuttle Orbiter"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45838-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45838-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Sir Lancelot"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28703-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28703-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "January 1988",
+    "NA" : "January 1988",
+    "Publisher" : "Absolute Entertainment",
+    "Title" : "Skate Boardin': A Radical Adventure"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/30128-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/30128-1.png",
+    "Developer" : "Apollo",
+    "JPN" : "December 7, 1981",
+    "NA" : "December 7, 1981",
+    "Publisher" : "Apollo",
+    "Title" : "Skeet Shoot"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7954-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7954-1.jpg",
+    "Developer" : "Activision (Bob Whitehead)",
+    "JPN" : "December 1980",
+    "NA" : "December 1980",
+    "Publisher" : "Activision",
+    "Title" : "Skiing"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/15891-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15891-1.jpg",
+    "Developer" : "Activision (Bob Whitehead)",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Activision",
+    "Title" : "Sky Jinks"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38234-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38234-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Sky Skipper"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19894-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19894-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Coleco",
+    "Title" : "Smurf: Rescue in Gargamel's Castle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/39748-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/39748-1.jpg",
+    "Developer" : "",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Coleco",
+    "Title" : "The Smurfs Save the Day"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38235-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38235-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Bit Corporation",
+    "Title" : "Snail Against Squirrel"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19930-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19930-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "U.S. Games",
+    "Title" : "Sneak 'N Peek"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/23914-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/23914-1.jpg",
+    "Developer" : "CBS Electronics",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Solar Fox"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22180-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22180-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Solar Storm"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22181-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22181-1.jpg",
+    "Developer" : "Mythicon",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Mythicon",
+    "Title" : "Sorcerer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/64428-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/64428-1.jpg",
+    "Developer" : "",
+    "JPN" : "",
+    "NA" : "",
+    "Publisher" : "Zellers",
+    "Title" : "Space Adventure"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28693-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28693-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "M Network",
+    "Title" : "Space Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/45839-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/45839-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Panda",
+    "Title" : "Space Canyon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22200-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22200-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Space Cavern"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34340-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34340-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "January 1982",
+    "NA" : "January 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Spacechase"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/space_grid_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/space_grid_cart_2.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Action Hi-Tech",
+    "Title" : "Space Grid"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/15890-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15890-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "March 1982",
+    "NA" : "March 1982",
+    "Publisher" : "U.S. Games",
+    "Title" : "Space Jockey"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33474-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33474-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Spacemaster X-7"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5326-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5326-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Activision",
+    "Title" : "Space Shuttle: A Journey into Space"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28709-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28709-1.jpg",
+    "Developer" : "Froggo",
+    "JPN" : "1987",
+    "NA" : "1987",
+    "Publisher" : "Froggo",
+    "Title" : "Spiderdroid"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1354-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1354-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "Activision",
+    "Title" : "Spider Fighter"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2957-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2957-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Spider-Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/62338-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/62338-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "K-Tel Vision",
+    "Title" : "Spider Maze"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/39749-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/39749-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Xonox",
+    "Title" : "Spike's Peak"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22204-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22204-1.jpg",
+    "Developer" : "Milton Bradley",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Milton Bradley",
+    "Title" : "Spitfire Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38239-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38239-1.jpg",
+    "Developer" : "Orca Corporation",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Tigervision",
+    "Title" : "Springer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22182-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22182-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "October 1984",
+    "NA" : "October 1984",
+    "Publisher" : "Sega",
+    "Title" : "Spy Hunter"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22183-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22183-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "U.S. Games",
+    "Title" : "Squeeze Box"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22184-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22184-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Data Age",
+    "Title" : "Sssnake"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/7955-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/7955-1.jpg",
+    "Developer" : "Activision (Bob Whitehead)",
+    "JPN" : "December 1981",
+    "NA" : "December 1981",
+    "Publisher" : "Activision",
+    "Title" : "Stampede"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/14700-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/14700-1.jpg",
+    "Developer" : "Mythicon",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Mythicon",
+    "Title" : "Star Fox"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34924-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34924-1.jpg",
+    "Developer" : "Telesys",
+    "JPN" : "January 1983",
+    "NA" : "January 1983",
+    "Publisher" : "Telesys",
+    "Title" : "Stargunner"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1357-2.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1357-2.jpg",
+    "Developer" : "Activision (Alan Miller)",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Activision",
+    "Title" : "Starmaster"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28694-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28694-1.jpg",
+    "Developer" : "Mattel Electronics",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "M Network",
+    "Title" : "Star Strike"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28696-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28696-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Sega",
+    "Title" : "Star Trek: Strategic Operations Simulator"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22199-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22199-1.jpg",
+    "Developer" : "Imagic (Bob Smith)",
+    "JPN" : "April 1982",
+    "NA" : "April 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Star Voyager"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28592-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28592-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "July 1984",
+    "NA" : "July 1984",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Star Wars: The Arcade Game"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5329-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5329-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Star Wars: Jedi Arena"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22471-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22471-1.png",
+    "Developer" : "Parker Brothers",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Star Wars Return of the Jedi: Death Star Battle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2959-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2959-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "June 1982",
+    "NA" : "June 1982",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Star Wars: The Empire Strikes Back"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38240-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38240-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Video Gems",
+    "Title" : "Steeplechase"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22185-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22185-1.jpg",
+    "Developer" : "Konami",
+    "PAL" : "1983",
+    "Publisher" : "Konami",
+    "Title" : "Strategy X"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28596-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28596-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Strawberry Shortcake: Musical Match-ups"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38244-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38244-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "July 1983",
+    "NA" : "July 1983",
+    "Publisher" : "CommaVid",
+    "Title" : "Stronghold"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/70060-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/70060-1.jpg",
+    "Developer" : "",
+    "JPN" : "January 1984",
+    "NA" : "January 1984",
+    "Publisher" : "Panda",
+    "Title" : "Stunt Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22186-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22186-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Sega",
+    "Title" : "Sub-Scan"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/37027-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/37027-1.png",
+    "Developer" : "Imagic",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "Imagic",
+    "Title" : "Subterranea"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34341-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34341-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Starpath",
+    "Title" : "Suicide Mission"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28591-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28591-1.jpg",
+    "Developer" : "Epyx",
+    "JPN" : "October 1987",
+    "NA" : "October 1987",
+    "Publisher" : "Epyx",
+    "Title" : "Summer Games"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/super_baumeister_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/super_baumeister_cart_2.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Spectravision",
+    "Title" : "Super Baumeister"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22197-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22197-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "M Network",
+    "Title" : "Super Challenge Baseball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22219-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22219-1.jpg",
+    "Developer" : "APh Technological Consulting",
+    "JPN" : "July 1982",
+    "NA" : "July 1982",
+    "Publisher" : "M Network",
+    "Title" : "Super Challenge Football"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28597-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28597-1.jpg",
+    "Developer" : "Roklan Corporation",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Super Cobra"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38246-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38246-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Video Gems",
+    "Title" : "Surfer's Paradise: But Danger Below!"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38247-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38247-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Starpath",
+    "Title" : "Survival Island"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38248-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38248-1.jpg",
+    "Developer" : "Renaissance Technology",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Milton Bradley",
+    "Title" : "Survival Run"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38249-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38249-1.jpg",
+    "Developer" : "Starpath",
+    "JPN" : "November 1983",
+    "NA" : "November 1983",
+    "Publisher" : "Starpath",
+    "Title" : "Sword of Saros (cassette)"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22187-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22187-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "March 1983",
+    "NA" : "March 1983",
+    "Publisher" : "Sega",
+    "Title" : "Tac-Scan"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/29353-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/29353-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Panda",
+    "Title" : "Tank Brigade"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/tank_city_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/tank_city_cart_2.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Action Hi-Tech",
+    "Title" : "Tank City"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44229-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44229-1.jpg",
+    "Developer" : "",
+    "JPN" : "February 1983",
+    "NA" : "February 1983",
+    "Publisher" : "Zimag",
+    "Title" : "Tanks But No Tanks"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28594-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28594-1.jpg",
+    "Developer" : "Spectravision",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Spectravision",
+    "Title" : "Tapeworm"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22188-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22188-1.jpg",
+    "Developer" : "Beck-Tech",
+    "JPN" : "October 1984",
+    "NA" : "October 1984",
+    "Publisher" : "Sega",
+    "Title" : "Tapper"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28708-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28708-1.jpg",
+    "Developer" : "",
+    "JPN" : "1988",
+    "NA" : "1988",
+    "Publisher" : "Froggo",
+    "Title" : "Task Force"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28714-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28714-1.jpg",
+    "Developer" : "Dunhill Electronics",
+    "JPN" : "December 1986",
+    "NA" : "December 1986",
+    "Publisher" : "American Videogame",
+    "Title" : "Tax Avoiders"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22202-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22202-1.jpg",
+    "Developer" : "Activision (Alan Miller)",
+    "JPN" : "March 1981",
+    "NA" : "March 1981",
+    "Publisher" : "Activision",
+    "Title" : "Tennis"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34694-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34694-1.jpg",
+    "Developer" : "VSS",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Wizard Video",
+    "Title" : "The Texas Chainsaw Massacre"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/37617-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/37617-1.jpg",
+    "Developer" : "On-Line Systems",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "Tigervision",
+    "Title" : "Threshold"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28697-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28697-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "September 1983",
+    "NA" : "September 1983",
+    "Publisher" : "Sega",
+    "Title" : "Thunderground"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38253-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38253-1.jpg",
+    "Developer" : "Coleco",
+    "JPN" : "October 1983",
+    "NA" : "October 1983",
+    "Publisher" : "Coleco",
+    "Title" : "Time Pilot"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22212-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22212-1.jpg",
+    "Developer" : "",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Zellers",
+    "Title" : "Time Warp"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22190-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22190-1.jpg",
+    "Developer" : "Imagineering",
+    "JPN" : "October 1987",
+    "NA" : "October 1987",
+    "Publisher" : "Absolute Entertainment",
+    "Title" : "Title Match Pro Wrestling"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38254-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38254-1.jpg",
+    "Developer" : "Xonox",
+    "JPN" : "Q2 1984",
+    "NA" : "Q2 1984",
+    "Publisher" : "Xonox",
+    "Title" : "Tomarc the Barbarian"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38255-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38255-1.png",
+    "Developer" : "DSD",
+    "JPN" : "August 1983",
+    "NA" : "August 1983",
+    "Publisher" : "Camelot",
+    "Title" : "Tooth Protectors"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19931-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19931-1.jpg",
+    "Developer" : "Western Technologies",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "U.S. Games",
+    "Title" : "Towering Inferno"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48255-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48255-1.jpg",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Video Gems",
+    "Title" : "Treasure Below"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28695-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28695-1.jpg",
+    "Developer" : "Imagic",
+    "JPN" : "April 1982",
+    "NA" : "April 1982",
+    "Publisher" : "Imagic",
+    "Title" : "Trick Shot"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22192-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22192-1.jpg",
+    "Developer" : "CBS Electronics",
+    "JPN" : "December 1983",
+    "NA" : "December 1983",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Tunnel Runner"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22193-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22193-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "November 1982",
+    "NA" : "November 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Turmoil"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/28598-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/28598-1.jpg",
+    "Developer" : "Parker Brothers",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Parker Brothers",
+    "Title" : "Tutankham"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38256-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38256-1.jpg",
+    "Developer" : "",
+    "JPN" : "Q4 1989",
+    "NA" : "Q4 1989",
+    "Publisher" : "Telegames",
+    "Title" : "Universal Chaos"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/40257-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/40257-1.jpg",
+    "Developer" : "Sega",
+    "JPN" : "October 1984",
+    "NA" : "October 1984",
+    "Publisher" : "Sega",
+    "Title" : "Up'n Down"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44117-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44117-1.jpg",
+    "Developer" : "Activision",
+    "JPN" : "1982\/2003",
+    "NA" : "1982\/2003",
+    "Publisher" : "Activision",
+    "Title" : "Venetian Blinds"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/105109-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/105109-1.jpg",
+    "Developer" : "Coleco",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "Coleco",
+    "Title" : "Venture"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33496-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33496-1.jpg",
+    "Developer" : "Exus Corporation",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Exus Corporation",
+    "Title" : "Video Jogger"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33495-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33495-1.jpg",
+    "Developer" : "CommaVid",
+    "JPN" : "June 1984",
+    "NA" : "June 1984",
+    "Publisher" : "CommaVid",
+    "Title" : "Video Life"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33494-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33494-1.jpg",
+    "Developer" : "Exus Corporation",
+    "JPN" : "1983",
+    "NA" : "1983",
+    "Publisher" : "Exus Corporation",
+    "Title" : "Video Reflex"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/40256-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/40256-1.jpg",
+    "Developer" : "",
+    "JPN" : "1982",
+    "NA" : "1982",
+    "Publisher" : "K-Tel Vision",
+    "Title" : "Vulture Attack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22194-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22194-1.jpg",
+    "Developer" : "Apollo",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Apollo",
+    "Title" : "Wabbit"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38214-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38214-1.jpg",
+    "Developer" : "",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Avalon Hill",
+    "Title" : "Wall Ball"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/33837-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/33837-1.jpg",
+    "Developer" : "Bomb",
+    "JPN" : "Q4 1983",
+    "NA" : "Q4 1983",
+    "Publisher" : "Bomb",
+    "Title" : "Wall-Defender"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/war_zone_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/war_zone_cart_2.jpg",
+    "Developer" : "",
+    "PAL" : "1977",
+    "Publisher" : "Action Hi-Tech",
+    "Title" : "War Zone"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38257-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38257-1.jpg",
+    "Developer" : "Data Age",
+    "JPN" : "October 1982",
+    "NA" : "October 1982",
+    "Publisher" : "Data Age",
+    "Title" : "Warplock"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/79444-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/79444-1.jpg",
+    "Developer" : "BitCorp",
+    "PAL" : "1982",
+    "Publisher" : "BitCorp - Quelle",
+    "Title" : "Weltraumtunnel (Space Tunnel)"
+  },
+  {
+    "BGART" : "https://www.atarimania.com/2600/boxes/hi_res/general_re_treat_westward_ho_playaround_cart_3.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/2600/boxes/hi_res/general_re_treat_westward_ho_playaround_cart_3.jpg",
+    "Developer" : "PlayAround",
+    "PAL" : "1983",
+    "Publisher" : "PlayAround",
+    "Title" : "Westward Ho"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/38258-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/38258-1.jpg",
+    "Developer" : "Imagic",
+    "PAL" : "1983",
+    "Publisher" : "Imagic",
+    "Title" : "Wing War"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22210-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22210-1.jpg",
+    "Developer" : "Action Graphics",
+    "JPN" : "October 1987",
+    "NA" : "October 1987",
+    "Publisher" : "Epyx",
+    "Title" : "Winter Games"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1360-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1360-1.jpg",
+    "Developer" : "Roklan Corporation",
+    "JPN" : "December 1982",
+    "NA" : "December 1982",
+    "Publisher" : "CBS Electronics",
+    "Title" : "Wizard of Wor"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19932-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19932-1.jpg",
+    "Developer" : "James Wickstead Design Associates",
+    "JPN" : "August 1982",
+    "NA" : "August 1982",
+    "Publisher" : "U.S. Games",
+    "Title" : "Word Zapper"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22195-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22195-1.jpg",
+    "Developer" : "Sirius Software",
+    "JPN" : "September 1982",
+    "NA" : "September 1982",
+    "Publisher" : "20th Century Fox",
+    "Title" : "Worm War I"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/35423-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/35423-1.jpg",
+    "Developer" : "",
+    "JPN" : "June 1983",
+    "NA" : "June 1983",
+    "Publisher" : "Universal Gamex",
+    "Title" : "X-Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/42278-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/42278-1.jpg",
+    "Developer" : "Bomb",
+    "JPN" : "Q4 1983",
+    "NA" : "Q4 1983",
+    "Publisher" : "Bomb",
+    "Title" : "Z-Tack"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/15077-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15077-1.jpg",
+    "Developer" : "Coleco",
+    "JPN" : "April 1983",
+    "NA" : "April 1983",
+    "Publisher" : "Coleco",
+    "Title" : "Zaxxon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31753-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31753-1.png",
+    "Developer" : "",
+    "PAL" : "1983",
+    "Publisher" : "Suntek",
+    "Title" : "Zoo Fun"
+  }
+]
