@@ -43,7 +43,7 @@
         "Manufacturer": "Magnavox",
         "ReleaseDate": "1976",
         "BGColor": "#FFFFFFFF",
-        "TitleColor": "#0000000FF",
+        "TitleColor": "#000000FF",
         "SubTextColor": "#000000FF",
         "SubText": "Auto-Scoring",
         "Info": "",
