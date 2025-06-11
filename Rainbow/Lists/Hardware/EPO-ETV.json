@@ -1,0 +1,67 @@
+[
+    {
+        "Title": "TV Tennis Electrotennis",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1975",
+        "BGColor": "#F82507FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#000000FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Epoch System 10",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1977",
+        "BGColor": "#FFF8E6FF",
+        "TitleColor": "#643800FF",
+        "SubTextColor": "#643800FF",
+        "SubText": "Comes with a Gun",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "TV Baseball",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1978",
+        "BGColor": "#FFF8E6FF",
+        "TitleColor": "#178249FF",
+        "SubTextColor": "#178249FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "TV Block",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1979",
+        "BGColor": "#D02507FF",
+        "TitleColor": "#FFF8E6FF",
+        "SubTextColor": "#000000FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "TV Vader",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1979",
+        "BGColor": "#FFF8E6FF",
+        "TitleColor": "#D02507FF",
+        "SubTextColor": "#07B2D0FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
