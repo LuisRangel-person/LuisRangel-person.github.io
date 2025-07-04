@@ -1,0 +1,80 @@
+[
+    {
+        "Title": "Channel F",
+        "Manufacturer": "Fairchild",
+        "ReleaseDate": "1976",
+        "BGColor": "#4F2E08FF",
+        "TitleColor": "#E9EAE9FF",
+        "SubTextColor": "#F4E20BFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "System II",
+        "Manufacturer": "Fairchild",
+        "ReleaseDate": "1976",
+        "BGColor": "#000000FF",
+        "TitleColor": "#7C480DFF",
+        "SubTextColor": "#E9EAE9FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "TelePlay μP",
+        "Manufacturer": "Nordmende",
+        "ReleaseDate": "1976",
+        "BGColor": "#C4C6C3FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#13EC5AFF",
+        "SubText": "Nordmende",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Grandstand",
+        "Manufacturer": "Adman",
+        "ReleaseDate": "1976",
+        "BGColor": "#000000FF",
+        "TitleColor": "#E9EAE9FF",
+        "SubTextColor": "#E9EAE9FF",
+        "SubText": "Adman",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Video Entertainment Computer",
+        "Manufacturer": "Luxor",
+        "ReleaseDate": "1976",
+        "BGColor": "#000000FF",
+        "TitleColor": "#E9EAE9FF",
+        "SubTextColor": "#E9EAE9FF",
+        "SubText": "Luxor",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Videoplay",
+        "Manufacturer": "SABA",
+        "ReleaseDate": "1976",
+        "BGColor": "#000000FF",
+        "TitleColor": "#E9EAE9FF",
+        "SubTextColor": "#F4E20BFF",
+        "SubText": "SABA",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
