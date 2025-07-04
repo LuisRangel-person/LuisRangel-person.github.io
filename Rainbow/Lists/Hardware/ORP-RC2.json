@@ -5,7 +5,7 @@
         "ReleaseDate": "1977",
         "BGColor": "#d8c69fFF",
         "TitleColor": "#3f3a33FF",
-        "SubTextColor": "#cacac4FF",
+        "SubTextColor": "#FFFFFFFF",
         "SubText": "Standard",
         "Info": "",
         "Extra": "",
