@@ -3,6 +3,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40956-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40956-1.jpg"
 },
@@ -11,6 +12,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40957-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40957-1.jpg"
 },
@@ -19,6 +21,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40958-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40958-1.jpg"
 },
@@ -27,6 +30,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40959-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40959-1.jpg"
 },
@@ -35,14 +39,16 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52754-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/small\/boxart\/front\/52754-1.jpg"
+    "PAL" : "1977",
+    "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40960-1.jpg",
+    "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40960-1.jpg"
 },
 {
     "Title" : "Gunfighter/Moonship Battle",
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40961-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40961-1.jpg"
 },
@@ -51,6 +57,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40962-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40962-1.jpg"
 },
@@ -59,6 +66,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40963-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40963-1.jpg"
 },
@@ -67,6 +75,7 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "JPN": "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40965-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40965-1.jpg"
 },
@@ -75,14 +84,80 @@
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40966-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40966-1.jpg"
+},
+    {
+    "Title" : "Gambler II",
+    "Developer" : "Visicom",
+    "Publisher" : "Visicom",
+    "JPN" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Inspiration",
+    "Developer" : "Visicom",
+    "Publisher" : "Visicom",
+    "JPN" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Arithmetic Drill",
+    "Developer" : "Visicom",
+    "Publisher" : "Visicom",
+    "JPN" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Sports Fan",
+    "Developer" : "Visicom",
+    "Publisher" : "Visicom",
+    "JPN" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Grand Pack",
+    "Developer" : "MPT",
+    "Publisher" : "MPT",
+    "PAL" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Concentration Match",
+    "Developer" : "MPT",
+    "Publisher" : "MPT",
+    "PAL" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Star Wars",
+    "Developer" : "MPT",
+    "Publisher" : "MPT",
+    "PAL" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
+},
+{
+    "Title" : "Pinball",
+    "Developer" : "MPT",
+    "Publisher" : "MPT",
+    "PAL" : "1977",
+    "BGART" : "",
+    "BGART_SMALL" : ""
 },
 {
     "Title" : "Biorhythm",
     "Developer" : "RCA",
     "Publisher" : "RCA",
     "NA" : "1977",
+    "PAL" : "1977",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/40964-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/40964-1.jpg"
 }]
