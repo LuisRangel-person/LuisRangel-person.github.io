@@ -1,0 +1,93 @@
+[
+    {
+        "Title": "Heavy Sixer",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1977",
+        "BGColor": "#6F3002FF",
+        "TitleColor": "#3B3B38FF",
+        "SubTextColor": "#DADBDBFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Light Sixer",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1978",
+        "BGColor": "#B34D03FF",
+        "TitleColor": "#3B3B38FF",
+        "SubTextColor": "#DADBDBFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Tele Games",
+        "Manufacturer": "Sears",
+        "ReleaseDate": "1977",
+        "BGColor": "#EDEDECFF",
+        "TitleColor": "#13EC5AFF",
+        "SubTextColor": "#B34D03FF",
+        "SubText": "Sears",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "4 Switcher",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1980",
+        "BGColor": "#B34D03FF",
+        "TitleColor": "#3B3B38FF",
+        "SubTextColor": "#DADBDBFF",
+        "SubText": "4 Switch",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Darth Vader",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1982",
+        "BGColor": "#000000FF",
+        "TitleColor": "#7A7A75FF",
+        "SubTextColor": "#DADBDBFF",
+        "SubText": "4 Switch",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "2600 Jr.",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#000000FF",
+        "TitleColor": "#DADBDBFF",
+        "SubTextColor": "#DADBDBFF",
+        "SubText": "2600 Jr.",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Irish Black",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#000000FF",
+        "TitleColor": "#7A7A75FF",
+        "SubTextColor": "#7A7A75FF",
+        "SubText": "2600 Jr.",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
