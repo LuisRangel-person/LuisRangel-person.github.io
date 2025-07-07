@@ -43,7 +43,7 @@
         "Manufacturer": "Bally",
         "ReleaseDate": "1978",
         "BGColor": "#57321dFF",
-        "TitleColor": "#FFFFFFFF",
+        "TitleColor": "#000000FF",
         "SubTextColor": "#fdf18cFF",
         "SubText": "Standard",
         "Info": "",
