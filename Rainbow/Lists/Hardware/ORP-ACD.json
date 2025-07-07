@@ -1,0 +1,54 @@
+[
+    {
+        "Title": "Bally Computer System",
+        "Manufacturer": "Bally",
+        "ReleaseDate": "1978",
+        "BGColor": "#57321dFF",
+        "TitleColor": "#FFFFFFFF",
+        "SubTextColor": "#fdf18cFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Home Library Computer",
+        "Manufacturer": "Bally",
+        "ReleaseDate": "1978",
+        "BGColor": "#57321dFF",
+        "TitleColor": "#01baf2FF",
+        "SubTextColor": "#fdf18cFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Bally Arcade",
+        "Manufacturer": "Bally",
+        "ReleaseDate": "1978",
+        "BGColor": "#57321dFF",
+        "TitleColor": "#f3335aFF",
+        "SubTextColor": "#fdf18cFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Astrocade",
+        "Manufacturer": "Bally",
+        "ReleaseDate": "1978",
+        "BGColor": "#57321dFF",
+        "TitleColor": "#FFFFFFFF",
+        "SubTextColor": "#fdf18cFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
