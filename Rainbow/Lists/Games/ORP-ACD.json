@@ -43,8 +43,8 @@
     "Developer" : "Bally",
     "Publisher" : "Bally",
     "NA" : "1978",
-    "BGART" : "",
-    "BGART_SMALL" : ""
+    "BGART" : "https://i.kinja-img.com/image/upload/c_fill,h_352,q_80,w_264/b55551dcbe3712741b7c3f74641fa21e.jpg",
+    "BGART_SMALL" : "https://i.kinja-img.com/image/upload/c_fill,h_352,q_80,w_264/b55551dcbe3712741b7c3f74641fa21e.jpg"
 },
 {
     "Title" : "Biorhythm",
@@ -61,14 +61,6 @@
     "NA" : "1979",
     "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/45053-1.jpg",
     "BGART_SMALL" : "https://cdn.thegamesdb.net/images/original/boxart/front/45053-1.jpg"
-},
-{
-    "Title" : "Gun Fight/Checkmate",
-    "Developer" : "Bally",
-    "Publisher" : "Bally",
-    "NA" : "1977",
-    "BGART" : "",
-    "BGART_SMALL" : ""
 },
 {
     "Title" : "Cosmic Radiers",
