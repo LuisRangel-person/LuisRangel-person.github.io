@@ -1,0 +1,54 @@
+[
+    {
+        "Title": "Master Component",
+        "Manufacturer": "Mattel",
+        "ReleaseDate": "1979",
+        "BGColor": "#57321dFF",
+        "TitleColor": "#a49975FF",
+        "SubTextColor": "#413a28FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Intellivision II",
+        "Manufacturer": "Mattel",
+        "ReleaseDate": "1979",
+        "BGColor": "#d9dad5FF",
+        "TitleColor": "#3c3b41FF",
+        "SubTextColor": "#d13239FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "System III",
+        "Manufacturer": "INTV Corporation",
+        "ReleaseDate": "1979",
+        "BGColor": "#1d1f1aFF",
+        "TitleColor": "#d1c5c6FF",
+        "SubTextColor": "#161819FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Super Video Arcade",
+        "Manufacturer": "Tele-Games",
+        "ReleaseDate": "1979",
+        "BGColor": "#f0e5d1FF",
+        "TitleColor": "#6c3f04FF",
+        "SubTextColor": "#2a1f18FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
