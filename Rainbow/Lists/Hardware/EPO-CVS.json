@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Cassette Vision",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1981",
+        "BGColor": "#c5c8c7FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#000000FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Cassette Vision Jr.",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1983",
+        "BGColor": "#e7ded8FF",
+        "TitleColor": "#000000FF",
+        "SubTextColor": "#000000FF",
+        "SubText": "Jr.",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
