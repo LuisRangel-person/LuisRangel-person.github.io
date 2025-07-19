@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "4-Port",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1982",
+        "BGColor": "#292d30FF",
+        "TitleColor": "#d1d4d1FF",
+        "SubTextColor": "#d1d4d1FF",
+        "SubText": "5200",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+  {
+        "Title": "2-Port",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1982",
+        "BGColor": "#292d30FF",
+        "TitleColor": "#d1d4d1FF",
+        "SubTextColor": "#d1d4d1FF",
+        "SubText": "5200",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
