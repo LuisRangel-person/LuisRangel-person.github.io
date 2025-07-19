@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "Keyboard Component",
+        "Manufacturer": "Mattel",
+        "ReleaseDate": "1982",
+        "BGColor": "#332e32FF",
+        "TitleColor": "#d31b1fFF",
+        "SubTextColor": "#1072bdFF",
+        "SubText": "Keyboard Component",
+        "Info": "",
+        "Extra": "RARE",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "ECS",
+        "Manufacturer": "Mattel",
+        "ReleaseDate": "1982",
+        "BGColor": "#463831FF",
+        "TitleColor": "#d5bc9aFF",
+        "SubTextColor": "#d5bc9aFF",
+        "SubText": "ECS",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "ECS II",
+        "Manufacturer": "Mattel",
+        "ReleaseDate": "1982",
+        "BGColor": "#e1e3e5FF",
+        "TitleColor": "#1b2c30FF",
+        "SubTextColor": "#cd253eFF",
+        "SubText": "ECS",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
