@@ -1,7 +1,7 @@
 [
     {
-        "BGART": "",
-        "BGART_SMALL": "",
+        "BGART": "https://images.igdb.com/igdb/image/upload/t_cover_big/co83vj.webp",
+        "BGART_SMALL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co83vj.webp",
         "Developer": "Emerson",
         "NA": "1982",
         "Publisher": "Emerson",
@@ -14,14 +14,6 @@
         "NA": "1982",
         "Publisher": "Emerson",
         "Title": "3-D Bowling"
-    },
-    {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
-        "Developer": "Emerson",
-        "NA": "1982",
-        "Publisher": "Emerson",
-        "Title": "3-D Raceway"
     },
     {
         "BGART": "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/76636-1.jpg",
@@ -136,22 +128,6 @@
         "Title": "Funky Fish"
     },
     {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
-        "Developer": "Emerson",
-        "NA": "1982",
-        "Publisher": "Emerson",
-        "Title": "Galaxian"
-    },
-    {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
-        "Developer": "Emerson",
-        "NA": "1982",
-        "Publisher": "Emerson",
-        "Title": "Grand Prix 3-D"
-    },
-    {
         "BGART": "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/76701-1.jpg",
         "BGART_SMALL": "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/76701-1.jpg",
         "Developer": "Emerson",
@@ -166,14 +142,6 @@
         "NA": "1982",
         "Publisher": "Emerson",
         "Title": "Hobo"
-    },
-    {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
-        "Developer": "Emerson",
-        "NA": "1982",
-        "Publisher": "Emerson",
-        "Title": "Home Squadron"
     },
     {
         "BGART": "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/76704-1.jpg",
@@ -200,8 +168,8 @@
         "Title": "Jungler"
     },
     {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
+        "BGART": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fqn.webp",
+        "BGART_SMALL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fqn.webp",
         "Developer": "Emerson",
         "NA": "1982",
         "Publisher": "Emerson",
@@ -232,8 +200,8 @@
         "Title": "Pleiades"
     },
     {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
+        "BGART": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8frv.webp",
+        "BGART_SMALL": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8frv.webp",
         "Developer": "Emerson",
         "NA": "1982",
         "Publisher": "Emerson",
@@ -280,8 +248,8 @@
         "Title": "Space Attack"
     },
     {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
+        "BGART": "https://thenerdporium.com/cdn/shop/products/StarChessA2K1_1024x1024.jpg?v=1680300502",
+        "BGART_SMALL": "https://thenerdporium.com/cdn/shop/products/StarChessA2K1_1024x1024.jpg?v=1680300502",
         "Developer": "Emerson",
         "NA": "1982",
         "Publisher": "Emerson",
@@ -368,12 +336,12 @@
         "Title": "The End"
     },
     {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
+        "BGART": "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/76750-1.jpg",
+        "BGART_SMALL": "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/76750-1.jpg",
         "Developer": "Emerson",
         "NA": "1982",
         "Publisher": "Emerson",
-        "Title": "Turtles\/Turpin"
+        "Title": "Turtles"
     },
     {
         "BGART": "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/76686-1.jpg",
@@ -392,8 +360,8 @@
         "Title": "Dr. Slump"
     },
     {
-        "BGART": "REVIEW",
-        "BGART_SMALL": "REVIEW",
+        "BGART": "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/76703-1.jpg",
+        "BGART_SMALL": "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/76703-1.jpg",
         "Developer": "Emerson",
         "JPN": "1982",
         "Publisher": "Emerson",
