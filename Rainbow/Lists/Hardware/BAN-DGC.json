@@ -1,0 +1,28 @@
+[
+  {
+    "Title": "Jpystick Config",
+    "Manufacturer": "Bandai",
+    "ReleaseDate": "1984",
+    "BGColor": "#e3e2d6FF",
+    "TitleColor": "#ef240dFF",
+    "SubTextColor": "#377cb8FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": ""
+  },
+  {
+    "Title": "Button Config",
+    "Manufacturer": "Bandai",
+    "ReleaseDate": "1986",
+    "BGColor": "#e3e2d6FF",
+    "TitleColor": "#ef240dFF",
+    "SubTextColor": "#377cb8FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": ""
+  }
+]
