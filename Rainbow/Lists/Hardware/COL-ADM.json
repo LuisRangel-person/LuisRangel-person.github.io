@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Adam Computer",
+        "Manufacturer": "Coleco",
+        "ReleaseDate": "1982",
+        "BGColor": "#efeaccFF",
+        "TitleColor": "#c3b08bFF",
+        "SubTextColor": "#c3b08bFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    },
+    {
+        "Title": "Expansion Module 3",
+        "Manufacturer": "Coleco",
+        "ReleaseDate": "1982",
+        "BGColor": "#efeaccFF",
+        "TitleColor": "#c3b08bFF",
+        "SubTextColor": "#c3b08bFF",
+        "SubText": "ColecoVision Expansion",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": ""
+    }
+]
