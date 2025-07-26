@@ -10,7 +10,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "nicole.express|https://nicole.express/assets/img/colory/ctg6.JPEG"
     },
     {
         "Title": "Cream",
@@ -23,7 +23,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "The Centre for Computing History|https://www.computinghistory.org.uk/userdata/images/large/19/44/product-101944.jpg"
     },
     {
         "Title": "House Shanmen",
@@ -36,7 +36,7 @@
         "Info": "",
         "Extra": "RARE",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "@NintendoMemo(twitter)|https://pbs.twimg.com/media/D8JLyqHWwAIH1Xg?format=jpg&name=4096x4096"
     },
     {
         "Title": "Dark Orange",
@@ -47,9 +47,9 @@
         "SubTextColor": "#000000FF",
         "SubText": "TV-Game 6",
         "Info": "",
-        "Extra": "",
+        "Extra": "RARE",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Hit-Japan(ebay)|https://i.ebayimg.com/images/g/RIkAAOSwWkteKTBh/s-l1600.jpg"
     },
     {
         "Title": "TV-Game 15",
@@ -62,11 +62,11 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "nicole.express|https://nicole.express/assets/img/colory/ctg15.JPEG"
     },
     {
         "Title": "White",
-        "Manufacturer": "Nintendo",
+        "Manufacturer": "Sharp",
         "ReleaseDate": "1977",
         "BGColor": "#FFFFFFFF",
         "TitleColor": "#000000FF",
@@ -75,7 +75,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "20thcenturyvideogames.com|https://20thcenturyvideogames.com/sistemas/Nintendo-Pong/modelos/NintendoColorTVGame15SharpXG-115.jpg"
     },
     {
         "Title": "TV Game Racing 112",
@@ -88,7 +88,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Hit-Japan(ebay)|https://i.ebayimg.com/images/g/WBkAAOSwDC9jK~44/s-l1600.jpg"
     },
     {
         "Title": "Block Kuzushi",
@@ -101,7 +101,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "National Videogame Museum(UK)|https://thenvm.org/wp-content/uploads/2023/01/LX84.1.jpg"
     },
     {
         "Title": "Computer TV-Game",
@@ -114,6 +114,6 @@
         "Info": "",
         "Extra": "RARE",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/6/6c/Nintendo-TV-Game-Computer.jpg"
     }
 ]
