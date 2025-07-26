@@ -10,7 +10,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "PC Magazine|https://i.pcmag.com/imagery/articles/05swvjW1eNFvD9nbbWBSrcz-11..v1662812200.jpg"
     },
     {
         "Title": "Light Sixer",
@@ -23,7 +23,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Atari-2600-Light-Sixer-FL.jpg/1600px-Atari-2600-Light-Sixer-FL.jpg?20141122170225"
     },
     {
         "Title": "Tele Games",
@@ -36,7 +36,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Atari-2600-Tele-Games-FL.jpg/1600px-Atari-2600-Tele-Games-FL.jpg"
     },
     {
         "Title": "4 Switcher",
@@ -49,7 +49,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "vintagegamingandmore.com|https://vintagegamingandmore.com/vintage/wp-content/uploads/2010/06/IMG_3767.jpg"
     },
     {
         "Title": "Darth Vader",
@@ -62,7 +62,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "renatobara(reddit)|https://preview.redd.it/d6kqxb21csv11.jpg?width=1080&crop=smart&auto=webp&s=6dd287c27d020bae68dd5fd4cc0258c1fa360345"
     },
     {
         "Title": "2600 Jr.",
@@ -75,7 +75,20 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Atari-2600-Jr-Console-01.jpg/1600px-Atari-2600-Jr-Console-01.jpg?20190820195655"
+    },
+  {
+        "Title": "Short Rainbow",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#000000FF",
+        "TitleColor": "#DADBDBFF",
+        "SubTextColor": "#DADBDBFF",
+        "SubText": "2600 Jr.",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Video Games Museum Heraklion|https://www.videogamesmuseum.org/assets/pages/main_80172-atari-2600-jr.-(short-rainbow).jpg"
     },
     {
         "Title": "Irish Black",
@@ -88,6 +101,45 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "KazukiMatsuoka1998(reddit)|https://preview.redd.it/0iv2zlyjgxe51.jpg?width=1080&crop=smart&auto=webp&s=ee7a90c010b897a86707a2d3a8cc146209e5fd46"
+    },
+    { 
+        "Title": "Sears Video Arcade II",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#000000FF",
+        "TitleColor": "#8b0f23FF",
+        "SubTextColor": "#8b0f23FF",
+        "SubText": "2600 Jr.",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "LastRevision(reddit)|https://preview.redd.it/1ww49lqpp6dx.jpg?width=1080&crop=smart&auto=webp&s=4f175108fa374b41b8faa58d8969b9c46719434a"
+    },
+    { 
+        "Title": "Atari 2800",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#000000FF",
+        "TitleColor": "#8b0f23FF",
+        "SubTextColor": "#8b0f23FF",
+        "SubText": "2600 Jr.",
+        "Info": "",
+        "Extra": "RARE",
+        "BGEffect": "None",
+        "Logo": "taka_68(ebay)|https://i.ebayimg.com/images/g/LSoAAOSw65tm6RNf/s-l1600.jpg"
+    },
+    { 
+        "Title": "Coleco Gemini",
+        "Manufacturer": "Coleco",
+        "ReleaseDate": "1986",
+        "BGColor": "#000000FF",
+        "TitleColor": "#fbf5dfFF",
+        "SubTextColor": "#8b0f23FF",
+        "SubText": "Gemini",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "RickR(atari.io)|https://media.invisioncic.com/l251781/monthly_02_2016/post-41-0-23125000-1456191424_thumb.jpg"
     }
 ]
