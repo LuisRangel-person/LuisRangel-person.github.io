@@ -10,7 +10,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "ZadocPaet(reddit)|https://external-preview.redd.it/5853FWc3lPIVnQQWCp4Bvlt5XUPT5atPzj0tnDGr5o4.jpg?width=1080&crop=smart&auto=webp&s=b1fad06937a63e77092f1e4b0442c2b8f16bc6f8"
     },
     {
         "Title": "Home Library Computer",
@@ -23,7 +23,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "ballyalley.com|https://ballyalley.com/pics/hardware_pics/consoles_and_accessories/Home_Library_Computer/full_size/Home%20Library%20Computer%20(Front%20-%20Cover%20On)_02.jpg"
     },
     {
         "Title": "Bally Arcade",
@@ -36,7 +36,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bally-Arcade-Console.jpg/1280px-Bally-Arcade-Console.jpg"
     },
     {
         "Title": "Astrocade",
@@ -46,9 +46,9 @@
         "TitleColor": "#000000FF",
         "SubTextColor": "#fdf18cFF",
         "SubText": "Standard",
-        "Info": "",
+        "Info": "https://thedoteaters.com/?bitstory=console%2Fbally-professional-arcade&page=2",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "thedoteaters.com|https://thedoteaters.com/tde/wp-content/uploads/2013/03/bally-astrocade-1982.jpg"
     }
 ]
