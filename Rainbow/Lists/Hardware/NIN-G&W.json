@@ -5,25 +5,25 @@
         "ReleaseDate": "April 28, 1980",
         "BGColor": "#aebee0FF",
         "TitleColor": "#932321FF",
-        "SubTextColor": "#a02e33FF",
+        "SubTextColor": "#e8100eFF",
         "SubText": "Sliver",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Momopy(wikipedia)|https://upload.wikimedia.org/wikipedia/commons/c/c4/Game_and_watch_Ball.JPG"
     },
     {
         "Title": "Flagman",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "June 5, 1980",
         "BGColor": "#aebee0FF",
-        "TitleColor": "#bd673dFF",
-        "SubTextColor": "#a02e33FF",
+        "TitleColor": "#fa890aFF",
+        "SubTextColor": "#e8100eFF",
         "SubText": "Sliver",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Flower field(Game&Watch Wiki)|https://static.wikia.nocookie.net/gameandwatch/images/2/2a/FlagmanOriginal.jpg/revision/latest?cb=20121229025313"
     },
     {
         "Title": "Vermin",
@@ -31,38 +31,51 @@
         "ReleaseDate": "July 10, 1980",
         "BGColor": "#aebee0FF",
         "TitleColor": "#FFFFFFFF",
-        "SubTextColor": "#a02e33FF",
+        "SubTextColor": "#e8100eFF",
         "SubText": "Sliver",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/n5V922kohsw/maxresdefault.jpg"
     },
     {
         "Title": "Fire",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "July 31, 1980",
         "BGColor": "#aebee0FF",
-        "TitleColor": "#222557FF",
-        "SubTextColor": "#a02e33FF",
+        "TitleColor": "#0062daFF",
+        "SubTextColor": "#e8100eFF",
         "SubText": "Sliver",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Bluswimmer(Game&Watch Wiki)|https://static.wikia.nocookie.net/game-watch/images/a/a0/Rc-04_04.jpg/revision/latest?cb=20141013145221"
     },
     {
-        "Title": "Judge",
+        "Title": "Judge (Purple)",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "October 4, 1980",
         "BGColor": "#aebee0FF",
         "TitleColor": "#5a304eFF",
-        "SubTextColor": "#a02e33FF",
+        "SubTextColor": "#e8100eFF",
         "SubText": "Sliver",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "bestvaluetokyo(ebay)|https://i.ebayimg.com/images/g/mHEAAeSwnfVoYWeF/s-l1600.jpg"
+    },
+    {
+        "Title": "Judge (Green)",
+        "Manufacturer": "Nintendo",
+        "ReleaseDate": "October 4, 1980",
+        "BGColor": "#aebee0FF",
+        "TitleColor": "#143c20FF",
+        "SubTextColor": "#e8100eFF",
+        "SubText": "Sliver",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "Metal",
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/HD7gZhk6p4A/maxresdefault.jpg"
     },
     {
         "Title": "Manhole",
@@ -75,20 +88,20 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "bad@chaos(YouTube)|https://i.ytimg.com/vi/YvEXkNZI57Y/maxresdefault.jpg"
     },
     {
         "Title": "Helmet",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "February 21, 1981",
         "BGColor": "#bbab85FF",
-        "TitleColor": "#561a13FF",
+        "TitleColor": "#7d3e55FF",
         "SubTextColor": "#a02e33FF",
         "SubText": "Gold",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Paden110(Fandom)|https://static.wikia.nocookie.net/game-watch-appreciation/images/3/37/Helmet.png/revision/latest?cb=20200210141858"
     },
     {
         "Title": "Lion",
@@ -101,7 +114,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "David Mamehaze Haywood(YouTube)|https://i.ytimg.com/vi/OWWYYwNvbBQ/maxresdefault.jpg"
     },
     {
         "Title": "Parachute",
@@ -114,7 +127,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/RDsf4UJ-zbU/maxresdefault.jpg"
     },
     {
         "Title": "Octopus",
@@ -127,7 +140,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "KvotheG(Reddit)|https://preview.redd.it/kqfmx8otsfu91.jpg?width=1080&crop=smart&auto=webp&s=28fcd375ace6a9a792befe0e42c98eb9c82f5184"
     },
     {
         "Title": "Popeye",
@@ -140,7 +153,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(Youtube)|https://i.ytimg.com/vi/8PHetdOc440/maxresdefault.jpg"
     },
     {
         "Title": "Chef",
@@ -153,7 +166,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/4ohrjOhxG5I/maxresdefault.jpg"
     },
     {
         "Title": "Mickey Mouse",
@@ -166,7 +179,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/EV5VAvAR-SY/maxresdefault.jpg"
     },
     {
         "Title": "Egg",
@@ -179,10 +192,10 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/k-zE2IOstlY/maxresdefault.jpg"
     },
     {
-        "Title": "Fire",
+        "Title": "Fire (Wide Screen)",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "December 4, 1981",
         "BGColor": "#bbab85FF",
@@ -192,7 +205,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Ryan Lambie(raspberrypi.com)|https://www.raspberrypi.com/app/uploads/2022/05/Nintendo-game-and-watch-wide-screen.jpg"
     },
     {
         "Title": "Turtle Bridge",
@@ -205,7 +218,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "bad@chaos(YouTube)|https://i.ytimg.com/vi/YatwGSakU4w/maxresdefault.jpg"
     },
     {
         "Title": "Fire Attack",
@@ -218,7 +231,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/ROs9MAXIwRI/maxresdefault.jpg"
     },
     {
         "Title": "Snoopy Tennis",
@@ -231,7 +244,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)|https://i.ytimg.com/vi/nfByQY8KIGY/maxresdefault.jpg"
     },
     {
         "Title": "Oil Panic",
@@ -244,7 +257,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Joe Haupt from USA(Wikipedia)|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nintendo_Oil_Panic_Game_%26_Watch%2C_Model_OP-51%2C_Made_In_Japan%2C_Copyright_1982_%28Electronic_Handheld_Game%29.jpg/1007px-Nintendo_Oil_Panic_Game_%26_Watch%2C_Model_OP-51%2C_Made_In_Japan%2C_Copyright_1982_%28Electronic_Handheld_Game%29.jpg"
     },
     {
         "Title": "Donkey Kong",
@@ -257,7 +270,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "hiskod_46(ebay)|https://i.ebayimg.com/images/g/zDgAAOSwbWdhRJmG/s-l1600.jpg"
     },
     {
         "Title": "Mickey & Donald",
@@ -270,7 +283,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Month(ebay)|https://i.ebayimg.com/images/g/dxQAAOSwIu5jRAO~/s-l1600.jpg"
     },
     {
         "Title": "Green House",
@@ -283,7 +296,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "sellct(ebay)|https://i.ebayimg.com/images/g/ZvUAAOSweC1h4OER/s-l1600.jpg"
     },
     {
         "Title": "Donkey Kong II",
@@ -296,7 +309,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "SWFlash(mariowiki.com)|https://mario.wiki.gallery/images/e/e8/GaW_DK2.png"
     },
     {
         "Title": "Pinball",
@@ -309,7 +322,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Mercari|https://u-mercari-images.mercdn.net/photos/m43603024098_2.jpg"
     },
     {
         "Title": "Black Jack",
@@ -322,7 +335,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "retrogamesdf_5(ebay)|https://i.ebayimg.com/images/g/pSUAAOSwWixgJIPa/s-l1600.jpg"
     },
     {
         "Title": "Squish",
@@ -335,7 +348,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Squintl(reddit)|https://preview.redd.it/game-watch-squish-my-most-recent-addition-to-the-video-game-v0-0rp3dhnretre1.jpg?width=1080&crop=smart&auto=webp&s=7f7642b7eb2249a04f5debb99197320f993091c7"
     },
     {
         "Title": "Bomb Sweeper",
@@ -348,7 +361,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "risingsungaming(ebay)|https://i.ebayimg.com/images/g/b28AAOSwG4VmmasI/s-l1600.jpg"
     },
     {
         "Title": "Safebuster",
@@ -361,7 +374,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Joe Haupt from USA(wikipedia)|https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Safebuster_Game_%26_Watch_by_Nintendo%2C_Model_JB-63%2C_Made_in_Japan%2C_Copyright_1988_%28Handheld_Electronic_Game%29.jpg/1012px-Safebuster_Game_%26_Watch_by_Nintendo%2C_Model_JB-63%2C_Made_in_Japan%2C_Copyright_1988_%28Handheld_Electronic_Game%29.jpg"
     },
     {
         "Title": "Gold Cliff",
@@ -374,7 +387,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "gamesmen.com.au|https://static.gamesmen.com.au/media/catalog/product/cache/57ddbad6affa8d28869fa47188b75842/n/i/nintendo_game_watch_multi_screen_gold_cliff_pre-owned_2_.jpg"
     },
     {
         "Title": "Zelda",
@@ -387,7 +400,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "hit-japan(ebay)|https://i.ebayimg.com/images/g/fxUAAOSwR1xjI-Ue/s-l1600.jpg"
     },
     {
         "Title": "Mario Bros.",
@@ -400,7 +413,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "aceved-64(ebay)|https://i.ebayimg.com/images/g/lK0AAOSwdl1kf7lf/s-l1600.jpg"
     },
     {
         "Title": "Rain Shower",
@@ -413,7 +426,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "YaYa_showroom(ebay)|https://i.ebayimg.com/images/g/ffQAAOSw~SZgJvDg/s-l1600.jpg"
     },
     {
         "Title": "Lifeboat",
@@ -426,7 +439,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "auctionet.com|https://images.auctionet.com/uploads/item_2138830_ae6bdbc360.jpg"
     },
     {
         "Title": "Mario's Cement Factory",
@@ -439,7 +452,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "The Game Display(Youtube)|https://i.ytimg.com/vi/DgOwdBAQ8ZM/maxresdefault.jpg"
     },
     {
         "Title": "Manhole (NWS)",
@@ -452,20 +465,20 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Titoulechien(wikipedia)|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Manhole_Game_%26_Watch_New_Wide_Screen.jpg/1126px-Manhole_Game_%26_Watch_New_Wide_Screen.jpg"
     },
     {
         "Title": "Tropical Fish (NWS)",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "July 8, 1985",
-        "BGColor": "#e1aa4bFF",
+        "BGColor": "#cb711bFF",
         "TitleColor": "#7c8081FF",
         "SubTextColor": "#be001dff",
         "SubText": "New Wide Screen",
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Gamemonium(ebay)|https://i.ebayimg.com/images/g/xJIAAOSwP61k4esY/s-l1600.jpg"
     },
     {
         "Title": "Super Mario Bros.",
@@ -478,20 +491,20 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "The Game Display(YouTube)|https://i.ytimg.com/vi/Bal1d9_oLcM/sddefault.jpg"
     },
     {
         "Title": "Climber",
         "Manufacturer": "Nintendo",
         "ReleaseDate": "March 8, 1988",
-        "BGColor": "#c8685bFF",
+        "BGColor": "#f88334FF",
         "TitleColor": "#FFFFFFFF",
         "SubTextColor": "#be001dff",
         "SubText": "New Wide Screen",
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "captdf(Reddit)|https://preview.redd.it/63pds26fhpp51.jpg?width=1080&crop=smart&auto=webp&s=1db38eec8795f850aec186e1e50686989def07f1"
     },
     {
         "Title": "Balloon Fight",
@@ -504,7 +517,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Bluestone19(Fandom)|https://static.wikia.nocookie.net/balloon-fight/images/3/30/BFGWSystem.jpg/revision/latest?cb=20150628212758"
     },
     {
         "Title": "Mario the Juggler",
@@ -517,7 +530,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Shedletground(Fandom)|https://static.wikia.nocookie.net/gameandwatch/images/6/6d/Perfect10_Mariojuggler.png/revision/latest?cb=20170708034104"
     },
     {
         "Title": "Donkey Kong Jr. (TT)",
@@ -530,7 +543,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Wii Play Games|https://cc-client-assets.nyc3.cdn.digitaloceanspaces.com/photo/wiiplaygames/file/970643/large/game-watch-tabletop-donkey-kong-jr.jpg?1504856866"
     },
     {
         "Title": "Mario's Cement Factory (TT)",
@@ -543,7 +556,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "33heismanwv(ebay)|https://i.ebayimg.com/images/g/SMwAAOSw3-9kaRAH/s-l1600.jpg"
     },
     {
         "Title": "Snoopy (TT)",
@@ -556,7 +569,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Retro Collection Studio(YouTube)|https://i.ytimg.com/vi/4sBBmuN7yF8/hqdefault.jpg"
     },
     {
         "Title": "Popeye (TT)",
@@ -569,7 +582,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "nintendogameandwatch.co|https://nintendogameandwatch.com/wp-content/uploads/images/TabletopPopeye3.jpg"
     },
     {
         "Title": "Snoopy (P)",
@@ -582,7 +595,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "PikClick|https://www.picclickimg.com/d9EAAeSwiG9oeGxY/Nintendo-Game-and-Watch-Snoopy-Panorama-Screen-SM-91.webp"
     },
     {
         "Title": "Popeye (P)",
@@ -595,7 +608,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Wii Play Games|https://cc-client-assets.nyc3.cdn.digitaloceanspaces.com/photo/wiiplaygames/file/970823/large/popeye%20pan.jpg?1504858506"
     },
     {
         "Title": "Donkey Kong Jr. (P)",
@@ -608,7 +621,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "joebmxkid08(Reddit)|https://external-preview.redd.it/gnOARmHwZs6cGXqH-a0Ze9qIT6cr7Mj9mbwZqKu_ndQ.jpg?width=1080&crop=smart&auto=webp&s=a6f3952124a69ddebcfce17d793426b83f313fb4"
     },
     {
         "Title": "Mario's Bombs Away",
@@ -621,7 +634,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "lulu-berlu.com|https://www.lulu-berlu.com/upload/image/nintendo-game---watch---panorama-screen---mario-s-bomb-away--loose--p-image-426623-grande.jpg"
     },
     {
         "Title": "Mickey Mouse (P)",
@@ -634,7 +647,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Paden110(Fandom)|https://static.wikia.nocookie.net/game-watch-appreciation/images/d/dc/Mickey_Mouse_DC-95.jpg/revision/latest/scale-to-width-down/1200?cb=20191125124556"
     },
     {
         "Title": "Donkey Kong Circus",
@@ -647,7 +660,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "hirudov2d(YouTube)https://i.ytimg.com/vi/iQ80ueE09Jk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEkgPihyMA8=&rs=AOn4CLA_FkbBsIfUiOcGJAc5QdRWIhEjQQ"
     },
     {
         "Title": "Spitball Sparky",
@@ -660,7 +673,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "retrogamesdf_5(ebay)|https://i.ebayimg.com/images/g/VsEAAOSwsDth0LBu/s-l1600.jpg"
     },
     {
         "Title": "Crab Grab",
@@ -673,7 +686,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "retro_digger.japan(ebay)|https://i.ebayimg.com/images/g/xL8AAOSwv9Fm74wb/s-l1600.jpg"
     },
     {
         "Title": "Boxing",
@@ -686,7 +699,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Miguel Discart(Wikipedia)|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nintendo_Game_%26_Watch_-_Boxing.jpg/1600px-Nintendo_Game_%26_Watch_-_Boxing.jpg"
     },
     {
         "Title": "Donkey Kong 3",
@@ -699,7 +712,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "SWFlash(mariowiki.com)|https://mario.wiki.gallery/images/a/a4/Game_watch_donkey_kong_3-1-.jpg"
     },
     {
         "Title": "Donkey Kong Hockey",
@@ -712,7 +725,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "Dwhitney(mariowiki.com)|https://mario.wiki.gallery/images/c/c2/DKH_HK-303_Game_Front.jpg"
     },
     {
         "Title": "Super Mario Bros. (CS)",
@@ -725,7 +738,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Trans",
-        "Logo": ""
+        "Logo": "Paden110(mariowiki.com)|https://static.wikia.nocookie.net/game-watch-appreciation/images/d/db/SMB_Crystal_Screen.png/revision/latest?cb=20191115161252"
     },
     {
         "Title": "Climber",
@@ -738,7 +751,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Trans",
-        "Logo": ""
+        "Logo": "David Lee(digitec.ch)|https://www.digitec.ch/Files/7/5/1/8/9/0/0/0/Nintendo%20Climber%201-121.png"
     },
     {
         "Title": "Balloon Fight (CS)",
@@ -751,7 +764,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Trans",
-        "Logo": ""
+        "Logo": "hearstapps.com|https://hips.hearstapps.com/hmg-prod/images/gw-crystal-screen-1605225864.jpg"
     },
     {
         "Title": "Super Mario Bros. (Disk-Kun)",
@@ -762,9 +775,9 @@
         "SubTextColor": "#6a191eff",
         "SubText": "Special",
         "Info": "",
-        "Extra": "",
+        "Extra": "PRIZE",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "SilentFebreze(Reddit)|https://preview.redd.it/rqug429lfg481.jpg?width=1080&crop=smart&auto=webp&s=98bb64e6794d2ad2e8254f3f9cb64ffaa1ab07bc"
     },
     {
         "Title": "Super Mario Bros. (35th)",
@@ -777,7 +790,7 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "heliomass.com|https://heliomass.com/posts/113-super-mario-bros-game-and-watch/content/IMG_1955.jpg"
     },
     {
         "Title": "The Legend of Zelda",
@@ -790,6 +803,6 @@
         "Info": "",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Nintendo|https://i.blogs.es/9d1ad7/game-watch-legend-of-zelda_6143555/1366_2000.jpeg"
     }
 ]
