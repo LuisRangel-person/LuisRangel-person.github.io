@@ -10,7 +10,7 @@
         "Info": "Thanks to odyssey2.info",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Magnavox-Odyssey-2-Console-Set.jpg/1202px-Magnavox-Odyssey-2-Console-Set.jpg"
     },
     {
         "Title": "Videopac G7000",
@@ -23,7 +23,7 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "the-liberator.net|https://www.the-liberator.net/site-files/retro-games/hardware/Philips-VIDEOPAC-Computer-G7000/Philips-VIDEOPAC-Computer-G7000/002-Philips-VIDEOPAC-Computer-G7000.JPG"
     },
     {
         "Title": "Videopac G7200",
@@ -36,7 +36,7 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "bendich(reddit)|https://preview.redd.it/philips-videopac-g7200-1983-v0-a99phhx8x17c1.jpeg?width=1080&crop=smart&auto=webp&s=509f2d489512067eb3765d8f2e652d16f95254bf"
     },
     {
         "Title": "N60",
@@ -49,7 +49,7 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "None",
-        "Logo": ""
+        "Logo": "console-picture-page.de|https://preview.redd.it/6g81vp1b57u01.jpg?width=640&crop=smart&auto=webp&s=06e8651c481045b344be4ecda60bff7c490397da"
     },
     {
         "Title": "Videopac+ G7400",
@@ -62,7 +62,7 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "Marco van den Hout|https://upload.wikimedia.org/wikipedia/commons/3/3d/Philips_Videopac_G7400.jpg"
     },
     {
         "Title": "Brandt J0 7400",
@@ -75,7 +75,7 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "scalpel(AtariAge)|https://media.invisioncic.com/r322239/monthly_12_2018/post-32817-0-63511900-1545222848_thumb.jpg"
     },
     {
         "Title": "SABA J0 1450",
@@ -88,7 +88,7 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "odyssey2.info|https://odyssey2.info/collect/hardware/euroconsoles/img/console-saba.jpg"
     },
     {
         "Title": "JET 47",
@@ -101,6 +101,6 @@
         "Info": "https://odyssey2.info/collect/hardware/euroconsoles/",
         "Extra": "",
         "BGEffect": "Metal",
-        "Logo": ""
+        "Logo": "retroordenadoresorty.blogspot.com|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIxGNCozUR_a7pwy9Fv-EjXz7Zg7v8yKH-zY7i66V1AFo_ftEp190cGBLYMmByM7OH_z_3gWCq5rXC7QxEkuRpPAdNd5yJE9cTmlxujnz-K3OWfqrkzFD_0jfyBvKmJSRo_CLibCHQ970/s400/Radiola+JET+47+F1.jpg"
     }
 ]
