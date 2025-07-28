@@ -472,7 +472,7 @@
         "Manufacturer": "Nintendo",
         "ReleaseDate": "July 8, 1985",
         "BGColor": "#cb711bFF",
-        "TitleColor": "#7c8081FF",
+        "TitleColor": "#FFFFFFFF",
         "SubTextColor": "#be001dff",
         "SubText": "New Wide Screen",
         "Info": "",
