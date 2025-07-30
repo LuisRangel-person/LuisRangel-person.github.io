@@ -1,0 +1,80 @@
+[
+  {
+    "Title": "Famicom Disk System",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": "1983",
+    "BGColor": "#980e20FF",
+    "TitleColor": "#000000FF",
+    "SubTextColor": "#ffd000FF",
+    "SubText": "Famicom Disk System",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "ects_shop(ebay)|https://i.ebayimg.com/images/g/cYAAAOSw8mhnzrdz/s-l1600.jpg"
+  },
+  {
+    "Title": "Twin Famicom",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": "1983",
+    "BGColor": "#12283eFF",
+    "TitleColor": "#fa5b69FF",
+    "SubTextColor": "#09b2a5FF",
+    "SubText": "Twin Famicom",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "STOPXWHISPERING(retro-video-gaming.com)|https://retro-video-gaming.com/wp-content/uploads/2015/03/sharp-twin-famicom-2.jpg"
+  },
+  {
+    "Title": "Twin Famicom RED",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": "1983",
+    "BGColor": "#ef3b3aFF",
+    "TitleColor": "#151215FF",
+    "SubTextColor": "#fff858FF",
+    "SubText": "Twin Famicom",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Smijes08(Fandom)|https://static.wikia.nocookie.net/ultimatepopculture/images/4/4b/CurvyFamicom.jpg/revision/latest?cb=20190812165043"
+  },
+  {
+    "Title": "Twin Famicom Turbo",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": "1983",
+    "BGColor": "#000000FF",
+    "TitleColor": "#a8b0c9FF",
+    "SubTextColor": "#09b2a5FF",
+    "SubText": "Twin Famicom",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "STOPXWHISPERING(retro-video-gaming.com)|https://retro-video-gaming.com/wp-content/uploads/2015/03/twin-famicom-turbo.jpg"
+  },
+  {
+    "Title": "Twin Famicom RED Turbo",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": "1983",
+    "BGColor": "#000000FF",
+    "TitleColor": "#9daea0FF",
+    "SubTextColor": "#09b2a5FF",
+    "SubText": "Twin Famicom",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "STOPXWHISPERING(retro-video-gaming.com)|https://retro-video-gaming.com/wp-content/uploads/2015/03/sharp-twin-famicom-an-505.jpg"
+  },
+  {
+    "Title": "Disk Writer Kiosk",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": "1983",
+    "BGColor": "#b9b8c4FF",
+    "TitleColor": "#323232FF",
+    "SubTextColor": "#f0aa03FF",
+    "SubText": "Kiosk",
+    "Info": "",
+    "Extra": "RARE",
+    "BGEffect": "None",
+    "Logo": "poo_poo_undies(Reddit)|https://i.redd.it/th6siwt2zxfb1.jpg"
+  }
+]
