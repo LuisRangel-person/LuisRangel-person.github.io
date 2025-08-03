@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Silver",
+        "Manufacturer": "Bandai",
+        "ReleaseDate": "1983",
+        "BGColor": "#bbbabdFF",
+        "TitleColor": "#080202FF",
+        "SubTextColor": "#df5051FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "Metal",
+        "Logo": "Johnny Blanchard(re-enthused.com)|https://re-enthused.com/wp-content/uploads/2018/10/RX-78-Test.jpg"
+    },
+    {
+        "Title": "Black",
+        "Manufacturer": "Bandai",
+        "ReleaseDate": "1983",
+        "BGColor": "#111514FF",
+        "TitleColor": "#d0cedbFF",
+        "SubTextColor": "#ca2f20FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Toragiku|https://www.ithistory.org/sites/default/files/hardware/bandai-rx-78.jpg"
+    }
+]
