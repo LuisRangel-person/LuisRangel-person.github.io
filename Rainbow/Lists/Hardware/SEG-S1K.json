@@ -1,0 +1,80 @@
+[
+  {
+      "Title": "SG-1000",
+      "Manufacturer": "SEGA",
+      "ReleaseDate": "1983",
+      "BGColor": "#dfddd8FF",
+      "TitleColor": "#000000FF",
+      "SubTextColor": "#fc2f00FF",
+      "SubText": "Standard",
+      "Info": "",
+      "Extra": "",
+      "BGEffect": "None",
+      "Logo": "Doc eggfan(Sega Retro)|https://segaretro.org/images/a/ae/Sega_SG1000_German_model_JP_Front.jpg"
+  },
+  {
+      "Title": "SG-1000 Blue Stripe",
+      "Manufacturer": "SEGA",
+      "ReleaseDate": "1983",
+      "BGColor": "#dfddd8FF",
+      "TitleColor": "#0038b4FF",
+      "SubTextColor": "#fc2f00FF",
+      "SubText": "Standard",
+      "Info": "",
+      "Extra": "",
+      "BGEffect": "None",
+      "Logo": "kaiserkrieg956(Reddit)|https://preview.redd.it/playing-sg-1000-on-a-modern-us-tv-v0-790ryb0bwv0c1.jpg?width=1080&crop=smart&auto=webp&s=35b449a85d1d49658d9d94b06e3686772983cae3"
+  },
+  {
+        "Title": "SG-3000",
+        "Manufacturer": "SEGA",
+        "ReleaseDate": "1983",
+        "BGColor": "#0f1a21FF",
+        "TitleColor": "#6f6f66FF",
+        "SubTextColor": "#e6a826FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Bilby(Wikipedia)|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sega_SC-3000_wb.jpg/2560px-Sega_SC-3000_wb.jpg"
+  },
+  {
+        "Title": "SG-1000 II",
+        "Manufacturer": "SEGA",
+        "ReleaseDate": "1983",
+        "BGColor": "#dfe1deFF",
+        "TitleColor": "#121214FF",
+        "SubTextColor": "#00aadfFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sega-SG-1000-MkII-Console-FL.jpg/2880px-Sega-SG-1000-MkII-Console-FL.jpg"
+  },
+  {
+        "Title": "Othello Multivision",
+        "Manufacturer": "Tsukuda Original",
+        "ReleaseDate": "1983",
+        "BGColor": "#eae7deFF",
+        "TitleColor": "#223d74FF",
+        "SubTextColor": "#792746FF",
+        "SubText": "Othello Multivision",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Black Squirrel(SegaRetro)|https://segaretro.org/images/archive/3/35/20200824205629%21OthelloMultivision_FG-1000_1.jpg"
+  },
+  {
+        "Title": "FG-2000",
+        "Manufacturer": "Tsukuda Original",
+        "ReleaseDate": "1983",
+        "BGColor": "#eae7deFF",
+        "TitleColor": "#223d74FF",
+        "SubTextColor": "#792746FF",
+        "SubText": "Othello Multivision",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Black Squirrel(SegaRetro)|https://segaretro.org/images/6/60/OthelloMultivision_FG-2000_1.jpg"
+  }
+]
