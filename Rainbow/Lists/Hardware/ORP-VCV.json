@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Creativision",
+        "Manufacturer": "VTech",
+        "ReleaseDate": "1982",
+        "BGColor": "#000000FF",
+        "TitleColor": "#f8d682FF",
+        "SubTextColor": "#aa5729FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/CreatiVision-Console-Set.jpg/1174px-CreatiVision-Console-Set.jpg"
+    },
+    {
+        "Title": "Dick Smith Wizzard",
+        "Manufacturer": "VTech",
+        "ReleaseDate": "1982",
+        "BGColor": "#000000FF",
+        "TitleColor": "#f8d682FF",
+        "SubTextColor": "#aa5729FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/VTech-CreatiVision-Console-02.jpg/1131px-VTech-CreatiVision-Console-02.jpg"
+    }
+]
