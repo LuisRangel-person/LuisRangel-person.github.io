@@ -1,0 +1,50 @@
+[
+  {
+    "Title": "五目ならべ 連珠",
+    "Developer": "Nihon Bussan",
+    "Publisher": "Nichibutsu",
+    "JPN": "A 1983",
+    "BGART": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_GozenBeetle.png",
+    "BGART_SMALL": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_GozenBeetle.png"
+  },
+  {
+    "Title": "ハナフダ",
+    "Developer": "Logitec",
+    "Publisher": "Nichibutsu",
+    "JPN": "A 1983",
+    "BGART": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_HanafudaBox.png",
+    "BGART_SMALL": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_HanafudaBox.png"
+  },
+  {
+    "Title": "マージャン",
+    "Developer": "Nihon Bussan",
+    "Publisher": "Nichibutsu",
+    "JPN": "A 1983",
+    "BGART": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_Mahjong.png",
+    "BGART_SMALL": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_Mahjong.png"
+  },
+  {
+    "Title": "マスターマインド",
+    "Developer": "Logitec",
+    "Publisher": "Nichibutsu",
+    "JPN": "A 1983",
+    "BGART": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_MasterMind.png",
+    "BGART_SMALL": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_MasterMind.png"
+  },
+  {
+    "Title": "リバーシ",
+    "Developer": "Logitec",
+    "Publisher": "Nichibutsu",
+    "JPN": "A 1983",
+    "BGART": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_Reversi.jpg",
+    "BGART_SMALL": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_Reversi.jpg"
+  },
+  {
+    "Title": "ツメショウギ",
+    "Developer": "Logitec",
+    "Publisher": "Nichibutsu",
+    "JPN": "A 1983",
+    "BGART": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_Tsumeishougi.png",
+    "BGART_SMALL": "http://videogamekraken.com/wp-content/uploads/2019/01/MyVision_Tsumeishougi.png"
+  }
+]
