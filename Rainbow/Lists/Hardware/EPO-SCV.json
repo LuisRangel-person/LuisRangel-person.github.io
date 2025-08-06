@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "Super Cassette Vision",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1984",
+        "BGColor": "#e8e7e5FF",
+        "TitleColor": "#1e1e1eFF",
+        "SubTextColor": "#5cc12aFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Super-Cassette-Vision-Both-Controllers.jpg/1072px-Super-Cassette-Vision-Both-Controllers.jpg"
+    },
+    {
+        "Title": "Super Lady",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1984",
+        "BGColor": "#f2dfd1FF",
+        "TitleColor": "#f32b85FF",
+        "SubTextColor": "#f30708FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "RARE",
+        "BGEffect": "None",
+        "Logo": "The Video Game Kraken|https://scontent-dfw5-1.xx.fbcdn.net/v/t1.6435-9/82132729_3797979370219847_3365291276541886464_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3NcSD7tGp6QQ7kNvwGwp_oL&_nc_oc=AdmjdT6vJBqgkO6oIukSSZzLJ7KnvHrDNRH4pJO82H_RW4sIFVamuc1tO9QDduSUjbI&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=YwqTn3p1ftZ8F3WLOGXbcw&oh=00_AfUeu3zZlHud4IBjDzHzsYX95P4mDnLaC2UF0skAso-iKQ&oe=68BA0EF7"
+    },
+    {
+        "Title": "Yeno",
+        "Manufacturer": "Epoch",
+        "ReleaseDate": "1984",
+        "BGColor": "#e8e7e5FF",
+        "TitleColor": "#1e1e1eFF",
+        "SubTextColor": "#5cc12aFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "leboncoin.fr|https://img.leboncoin.fr/api/v1/lbcpb1/images/1f/2b/98/1f2b987d3aa765d3579a48069770f98b8ed7cbf5.jpg?rule=ad-large"
+    }
+]
