@@ -1,0 +1,54 @@
+[
+    {
+        "Title": "7800",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#414141FF",
+        "TitleColor": "#eaeaeaFF",
+        "SubTextColor": "#eaeaeaFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "The Northeast Ohio Video Hunter|https://neovideohunter.wordpress.com/wp-content/uploads/2018/01/doubledragon7800-8.png?w=400&h=256"
+    },
+    {
+        "Title": "European",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#414141FF",
+        "TitleColor": "#eaeaeaFF",
+        "SubTextColor": "#eaeaeaFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "wikwand|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Atari_7800_with_Cartridge.jpg/1343px-Atari_7800_with_Cartridge.jpg"
+    },
+    {
+        "Title": "Nolan Bushnell Black",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#414141FF",
+        "TitleColor": "#eaeaeaFF",
+        "SubTextColor": "#eaeaeaFF",
+        "SubText": "Prototype",
+        "Info": "",
+        "Extra": "DEV",
+        "BGEffect": "None",
+        "Logo": "Video Game Console Library|https://lh3.googleusercontent.com/proxy/zXc2qEo-UkFat_dEMsUo7bN8M5r5ITXtbUHltzo99ee-2_MakKhyuoAQzYQV6ZYu2rZY-LBgOjDELTPMhwy8Q2u75E8BznXp5qRBlJ3jpG2Cz5mLVSLdXPyJpHXEqojPxb-WXB-Tq269dpq2HmXNiQgbuspLBS4fQ86_Dy7fp9ICrw"
+    },
+    {
+        "Title": "Nolan Bushnell White",
+        "Manufacturer": "Atari",
+        "ReleaseDate": "1986",
+        "BGColor": "#dde6cbFF",
+        "TitleColor": "#65705cFF",
+        "SubTextColor": "#65705cFF",
+        "SubText": "Prototype",
+        "Info": "",
+        "Extra": "DEV",
+        "BGEffect": "None",
+        "Logo": "Video Game Console Library|https://lh3.googleusercontent.com/proxy/iVdtQmkAgHW2BClwCtF93VZ52gwE50DcQH4k09g43WYSz04amdii71TRwlJ-sF5s0BtHsIIDhJM1gzgVOvV0zX0T02TeblU1rCJ43D34km67Q0HzsZa8W_Pypoi08kTT4FEZr33VcnVKF8B5kW5x4LBgLVJnrg"
+    }
+]
