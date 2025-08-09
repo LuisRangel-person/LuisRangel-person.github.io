@@ -4,16 +4,16 @@
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/a/ac/Cosmo_no_Famicom_Trade_box_art.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/a/ac/Cosmo_no_Famicom_Trade_box_art.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "Famicom ANSER",
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/5/5f/Famicom_Anser_boxart.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/5/5f/Famicom_Anser_boxart.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "Heart no Benrikun Mini",
@@ -44,8 +44,8 @@
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/a/ad/JRA-PAT_Famicom_boxart.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/a/ad/JRA-PAT_Famicom_boxart.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "JRA-PAT Revision 2",
@@ -132,24 +132,24 @@
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/thumb/2/23/Nomura_Famicom_Trade_black.png/190px-Nomura_Famicom_Trade_black.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/thumb/2/23/Nomura_Famicom_Trade_black.png/190px-Nomura_Famicom_Trade_black.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "Nomura no Famicom Trade (Blue)",
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/thumb/9/99/Nomura_Famicom_Trade_blue.png/198px-Nomura_Famicom_Trade_blue.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/thumb/9/99/Nomura_Famicom_Trade_blue.png/198px-Nomura_Famicom_Trade_blue.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "Nomura no Famicom Trade (Orange)",
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/7/7b/Nomura_no_Famicom_Trade_orange_cart.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/7/7b/Nomura_no_Famicom_Trade_orange_cart.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "Sanwa Personal Banking Pegasus",
@@ -188,8 +188,8 @@
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/3/31/SMCR_boxart.jpg",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/3/31/SMCR_boxart.jpg"
+    "BGART": "",
+    "BGART_SMALL": ""
   },
   {
     "Title": "Tsuushin Shogi Club",
@@ -236,7 +236,7 @@
     "Developer": "Nintendo",
     "Publisher": "Nintendo",
     "JPN": "A 1988",
-    "BGART": "https://niwanetwork.org/wiki/images/c/c1/Yamatane_no_Famicom_Trade_box.png",
-    "BGART_SMALL": "https://niwanetwork.org/wiki/images/c/c1/Yamatane_no_Famicom_Trade_box.png"
+    "BGART": "",
+    "BGART_SMALL": ""
   }
 ]
