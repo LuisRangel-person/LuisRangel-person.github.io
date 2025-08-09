@@ -216,8 +216,8 @@
     "Title" : "Necromancer"
   },
   {
-    "BGART" : "REVIEW",
-    "BGART_SMALL" : "REVIEW",
+    "BGART" : "https://www.atarimania.com/8bit/boxes/hi_res/one_on_one_atari_cart_2.jpg",
+    "BGART_SMALL" : "https://www.atarimania.com/8bit/boxes/hi_res/one_on_one_atari_cart_2.jpg",
     "Developer" : "Sculptured Software",
     "NA" : "1987",
     "Publisher" : "Sculptured Software",
