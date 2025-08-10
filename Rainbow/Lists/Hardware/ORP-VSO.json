@@ -1,0 +1,30 @@
+[
+    {
+        "Title": "Socrates",
+        "Manufacturer": "VTech",
+        "ReleaseDate": "1989",
+        "BGColor": "#e8e8e8FF",
+        "TitleColor": "#7ebbd9FF",
+        "SubTextColor": "#7ebbd9FF",
+        "dualToneColor": "#636363FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "Dual",
+        "Logo": "leadedsolder.com|https://www.leadedsolder.com/assets/vtech-socrates-hero.jpg"
+    },
+    {
+        "Title": "Prof. Weiss-Alles",
+        "Manufacturer": "VTech",
+        "ReleaseDate": "1989",
+        "BGColor": "#e8e8e8FF",
+        "TitleColor": "#7ebbd9FF",
+        "SubTextColor": "#7ebbd9FF",
+        "dualToneColor": "#636363FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "Dual",
+        "Logo": "Internet Archive|https://archive.org/download/socrates_library/socrates.jpg"
+    }
+]
