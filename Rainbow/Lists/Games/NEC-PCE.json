@@ -2413,5 +2413,29 @@
     "JPN" : "December 14, 1990",
     "Publisher" : "Pack-In-Video",
     "Title" : "Zipang"
+  },
+  {
+    "BGART" : "https://static.wikia.nocookie.net/darius/images/0/0a/DariusAlphaCover.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200131172012",
+    "BGART_SMALL" : "https://static.wikia.nocookie.net/darius/images/0/0a/DariusAlphaCover.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200131172012",
+    "Developer" : "NEC Avenue",
+    "NA" : "1990",
+    "Publisher" : "NEC Avenue",
+    "Title" : "Darius Alpha"
+  },
+  {
+    "BGART" : "https://static.wikia.nocookie.net/darius/images/a/a1/DariusPlusCover.jpg/revision/latest?cb=20200205140644",
+    "BGART_SMALL" : "https://static.wikia.nocookie.net/darius/images/a/a1/DariusPlusCover.jpg/revision/latest?cb=20200205140644",
+    "Developer" : "NEC Avenue",
+    "NA" : "September 21, 1990",
+    "Publisher" : "NEC Avenue",
+    "Title" : "Darius Plus"
+  },
+  {
+    "BGART" : "https://upload.wikimedia.org/wikipedia/en/c/c5/PanzaKickBoxing_cover.png",
+    "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/c/c5/PanzaKickBoxing_cover.png",
+    "Developer" : "NEC",
+    "NA" : "July 31, 1992",
+    "Publisher" : "NEC",
+    "Title" : "Andre Panza Kick Boxing"
   }
 ]
