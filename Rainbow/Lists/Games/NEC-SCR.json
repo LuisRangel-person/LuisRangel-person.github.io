@@ -1945,5 +1945,13 @@
     "JPN" : "March 5, 1993",
     "Publisher" : "Media Rings",
     "Title" : "Zero4 Champ II"
+  },
+  {
+    "BGART" : "https://www.pcengine.co.uk/HiRes/Kick-Boxing-Front.jpg",
+    "BGART_SMALL" : "https://www.pcengine.co.uk/HiRes/Kick-Boxing-Front.jpg",
+    "Developer" : "Micro World",
+    "JPN" : "December 1991",
+    "Publisher" : "Micro World",
+    "Title" : "The Kick Boxing"
   }
 ]
