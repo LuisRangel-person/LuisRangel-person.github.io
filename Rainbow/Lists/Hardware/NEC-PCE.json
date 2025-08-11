@@ -2,7 +2,7 @@
   {
     "Title": "PC Engine",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#e4e3e1",
     "TitleColor": "#ff583f",
     "SubTextColor": "#009766",
@@ -16,7 +16,7 @@
   {
     "Title": "TurboGrafix 16",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#3b3839",
     "TitleColor": "#ff583f",
     "SubTextColor": "#e9d937",
@@ -30,7 +30,7 @@
   {
     "Title": "PC Engine GT",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#3e3a35",
     "TitleColor": "#858580",
     "SubTextColor": "#858580",
@@ -44,7 +44,7 @@
   {
     "Title": "TurboExpress",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#3e3a35",
     "TitleColor": "#858580",
     "SubTextColor": "#858580",
@@ -58,7 +58,7 @@
   {
     "Title": "PC Engine LT",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#636e67",
     "TitleColor": "#23272b",
     "SubTextColor": "#398e62",
@@ -72,7 +72,7 @@
   {
     "Title": "Core Grafx",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#6c7d86",
     "TitleColor": "#8ac4ec",
     "SubTextColor": "#8ac4ec",
@@ -86,7 +86,7 @@
   {
     "Title": "Core Grafx II",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#6d6a6a",
     "TitleColor": "#f17360",
     "SubTextColor": "#f17360",
@@ -100,7 +100,7 @@
   {
     "Title": "Shuttle",
     "Manufacturer": "NEC",
-    "ReleaseDate": 1987,
+    "ReleaseDate": "1987",
     "BGColor": "#32322f",
     "TitleColor": "#5caccf",
     "SubTextColor": "#5caccf",
