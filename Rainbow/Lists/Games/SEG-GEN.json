@@ -119,8 +119,8 @@
     "Title" : "Aero the Acro-Bat 2"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/447-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/447-1.jpg",
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4239-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4239-1.jpg",
     "Developer" : "Koei",
     "JPN" : "November 1, 1992",
     "NA" : "April 1993",
@@ -485,7 +485,7 @@
     "NA" : "March 1994",
     "PAL" : "April 1994",
     "Publisher" : "Accolade",
-    "Title" : "Barkley Shut Up and Jam!"
+    "Title" : "Barkley Shut Up and Jam"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4275-1.jpg",
@@ -885,7 +885,7 @@
     "NA" : "October 15, 1994",
     "PAL" : "October 28, 1994",
     "Publisher" : "Accolade",
-    "Title" : "Bubsy 2"
+    "Title" : "Bubsy II"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/3884-1.jpg",
@@ -3367,16 +3367,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/539-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/539-1.jpg",
-    "Developer" : "Namco",
-    "JPN" : "September 7, 1990",
-    "Publisher" : "Namco",
-    "Title" : "Klax"
-  },
-  {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/539-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/539-1.jpg",
     "Developer" : "Tengen",
     "NA" : "1990",
+    "JPN" : "September 7, 1990",
     "PAL" : "November 1991",
     "Publisher" : "Tengen",
     "Title" : "Klax"
@@ -3680,15 +3673,8 @@
     "Developer" : "Electronic Arts",
     "NA" : "1991",
     "PAL" : "March 1992",
-    "Publisher" : "Electronic Arts",
-    "Title" : "Marble Madness"
-  },
-  {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4493-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4493-1.jpg",
-    "Developer" : "Tengen",
     "JPN" : "August 13, 1993",
-    "Publisher" : "Tengen",
+    "Publisher" : "Electronic Arts",
     "Title" : "Marble Madness"
   },
   {
@@ -7312,8 +7298,8 @@
     "Title" : "WarpSpeed"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4717-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4717-1.jpg",
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4716-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4716-1.jpg",
     "Developer" : "Micronet",
     "JPN" : "February 24, 1991",
     "NA" : "May 1991",
