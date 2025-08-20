@@ -6,7 +6,7 @@
     "BGColor": "#363636ff",
     "TitleColor": "#daad75ff",
     "SubTextColor": "#9b1d55ff",
-    "dualToneColor": "",
+    "dualToneColor": "#FFFFFFFF",
     "SubText": "Mega Drive",
     "Info": "",
     "Extra": "",
