@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "CD-ROM²",
+    "Manufacturer": "NEC",
+    "ReleaseDate": 1988,
+    "BGColor": "#d8d5cdFF",
+    "TitleColor": "#090909FF",
+    "SubTextColor": "#55555aFF",
+    "dualToneColor": "#00000000",
+    "SubText": "CD-ROM²",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Retro Maquinitas|https://retromaquinitas.com/wp-content/uploads/2023/05/Collection0603-1.jpg"
+  },
+  {
+    "Title": "TurboGrafx CD",
+    "Manufacturer": "NEC",
+    "ReleaseDate": 1988,
+    "BGColor": "#282828FF",
+    "TitleColor": "#d7d7d7FF",
+    "SubTextColor": "#d7d7d7FF",
+    "dualToneColor": "#00000000",
+    "SubText": "TurboGrafx CD",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NEC-TurboGrafx-16-CD-FL.jpg/960px-NEC-TurboGrafx-16-CD-FL.jpg"
+  },
+  {
+    "Title": "TurboDuo",
+    "Manufacturer": "NEC",
+    "ReleaseDate": 1988,
+    "BGColor": "#484848FF",
+    "TitleColor": "#d7d7d7FF",
+    "SubTextColor": "#d7d7d7FF",
+    "dualToneColor": "#00000000",
+    "SubText": "TurboGrafx CD",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NEC-TurboDuo-Console-wController-L.jpg/1280px-NEC-TurboDuo-Console-wController-L.jpg"
+  },
+  {
+    "Title": "Duo-R",
+    "Manufacturer": "NEC",
+    "ReleaseDate": 1988,
+    "BGColor": "#e9e9e7FF",
+    "TitleColor": "#a3a5e3FF",
+    "SubTextColor": "#9e9e9eFF",
+    "dualToneColor": "#00000000",
+    "SubText": "CD-ROM²",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/PC-Engine-Duo-R.jpg/1280px-PC-Engine-Duo-R.jpg"
+  },
+  {
+    "Title": "Super CD-ROM²",
+    "Manufacturer": "NEC",
+    "ReleaseDate": 1988,
+    "BGColor": "#9c9992FF",
+    "TitleColor": "#f07231FF",
+    "SubTextColor": "#f07231FF",
+    "dualToneColor": "#00000000",
+    "SubText": "CD-ROM²",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Hit-Japan(eBay)|https://i.ebayimg.com/images/g/n5YAAOSwreZoT73V/s-l1600.jpg"
+  }
+]
