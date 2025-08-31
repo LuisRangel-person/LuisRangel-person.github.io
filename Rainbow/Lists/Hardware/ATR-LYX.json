@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "Lynx",
+    "Manufacturer": "Atari",
+    "ReleaseDate": 1989,
+    "BGColor": "#8796b5FF",
+    "TitleColor": "#fdc002FF",
+    "SubTextColor": "#000000FF",
+    "dualToneColor": "",
+    "SubText": "Lynx",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "StopXWhispering(Retro-video-gamimg.com)| https://retro-video-gaming.com/wp-content/uploads/2015/05/atari-lynx-1.jpg"
+  },
+  {
+    "Title": "Lynx II",
+    "Manufacturer": "Atari",
+    "ReleaseDate": 1989,
+    "BGColor": "#092833FF",
+    "TitleColor": "#fdc002FF",
+    "SubTextColor": "#FFFFFFFF",
+    "dualToneColor": "",
+    "SubText": "Lynx II",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Westport Tech Museum| https://www.westporttechmuseum.com/cdn/shop/files/AtariLynx.jpg?v=1708540591"
+  },
+  {
+    "Title": "Marlboro Abenteuer Team",
+    "Manufacturer": "Atari",
+    "ReleaseDate": 1989,
+    "BGColor": "#ac131bFF",
+    "TitleColor": "#eddfbfFF",
+    "SubTextColor": "#000000FF",
+    "dualToneColor": "",
+    "SubText": "Lynx II",
+    "Info": "",
+    "Extra": "PRIZE",
+    "BGEffect": "None",
+    "Logo": "Rouge(Twitter)|https://pbs.twimg.com/media/GcOks1sWIAAE8rl.jpg:large"
+  }
+]
