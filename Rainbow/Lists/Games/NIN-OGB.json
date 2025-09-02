@@ -64,11 +64,11 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/14164-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/14164-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "March 6, 1992",
     "NA" : "February 1992",
     "PAL" : "April 23, 1992",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Adventure Island"
   },
   {
@@ -256,38 +256,38 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46822-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46822-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "December 23, 1990",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "America Ōdan Ultra Quiz"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46823-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46823-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "December 20, 1991",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "America Ōdan Ultra Quiz Part 2"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46824-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46824-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "November 27, 1992",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "America Ōdan Ultra Quiz Part 3"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46825-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46825-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "October 29, 1993",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "America Ōdan Ultra Quiz Part 4"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/26080-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/119426-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/26080-1.jpg",
     "Developer" : "Sofix",
     "JPN" : "October 23, 1990",
     "Publisher" : "Sofix",
@@ -296,17 +296,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46826-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46826-1.jpg",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "September 11, 1997",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "Animal Breeder"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46827-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46827-1.jpg",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "May 15, 1998",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "Animal Breeder 2"
   },
   {
@@ -329,9 +329,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46828-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46828-1.jpg",
-    "Developer" : "",
+    "Developer" : "Banpresto",
     "JPN" : "April 7, 1995",
-    "Publisher" : "",
+    "Publisher" : "Banpresto",
     "Title" : "Aoki Densetsu Shoot!"
   },
   {
@@ -478,9 +478,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46301-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46301-1.jpg",
-    "Developer" : "",
+    "Developer" : "SETA",
     "JPN" : "May 25, 1990",
-    "Publisher" : "",
+    "Publisher" : "SETA",
     "Title" : "Ayakashi no Shiro"
   },
   {
@@ -519,9 +519,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/83924-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/83924-1.jpg",
-    "Developer" : "",
+    "Developer" : "Starfish",
     "JPN" : "July 24, 1998",
-    "Publisher" : "",
+    "Publisher" : "Starfish",
     "Title" : "Bakuchou Retsuden Shou: Hyper Fishing"
   },
   {
@@ -574,9 +574,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/83925-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/83925-1.jpg",
-    "Developer" : "",
+    "Developer" : "Starfish",
     "JPN" : "June 21, 1996",
-    "Publisher" : "",
+    "Publisher" : "Starfish",
     "Title" : "Bass Fishing Tatsujin Techou"
   },
   {
@@ -688,9 +688,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46840-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46840-1.jpg",
-    "Developer" : "",
+    "Developer" : "Namco",
     "JPN" : "December 25, 1992",
-    "Publisher" : "",
+    "Publisher" : "Namco",
     "Title" : "Battle Space"
   },
   {
@@ -876,9 +876,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/40227-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/40227-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tonkin House",
     "JPN" : "April 20, 1990",
-    "Publisher" : "",
+    "Publisher" : "Tokin House",
     "Title" : "Blodia"
   },
   {
@@ -943,11 +943,11 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18322-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18322-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "November 27, 1992",
     "NA" : "December 1992",
     "PAL" : "1992",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Bonk's Adventure"
   },
   {
@@ -1169,9 +1169,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47586-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47586-1.jpg",
-    "Developer" : "",
+    "Developer" : "Capcom",
     "JPN" : "December 21, 1990",
-    "Publisher" : "",
+    "Publisher" : "Capcom",
     "Title" : "Capcom Quiz: Hatena? no Daibouken"
   },
   {
@@ -1185,9 +1185,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47587-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47587-1.jpg",
-    "Developer" : "",
+    "Developer" : "Graphic Research",
     "JPN" : "September 14, 1995",
-    "Publisher" : "",
+    "Publisher" : "Tecmo",
     "Title" : "Captain Tsubasa J: Zenkoku Seiha Heno Chousen"
   },
   {
@@ -1301,17 +1301,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47589-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47589-1.jpg",
-    "Developer" : "",
+    "Developer" : "Human Enterainment",
     "JPN" : "April 19, 1991",
-    "Publisher" : "",
+    "Publisher" : "Human Entertainment",
     "Title" : "Chacha-Maru Panic"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46382-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46382-1.jpg",
-    "Developer" : "",
+    "Developer" : "Human Enterainment",
     "JPN" : "August 2, 1991",
-    "Publisher" : "",
+    "Publisher" : "Human Enterainment",
     "Title" : "Chachamaru Boukenki 3: Abyss no Tou"
   },
   {
@@ -1393,17 +1393,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47595-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47595-1.jpg",
-    "Developer" : "",
+    "Developer" : "Atlus",
     "JPN" : "March 27, 1992",
-    "Publisher" : "",
+    "Publisher" : "Atlus",
     "Title" : "Chiki Chiki Machine Mō Race"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/40299-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/40299-1.jpg",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "April 28, 1995",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "Chiki Chiki Tengoku"
   },
   {
@@ -1451,9 +1451,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/92322-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/92322-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "September 18, 1998",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Chousoku Spinner"
   },
   {
@@ -1477,9 +1477,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47598-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47598-1.jpg",
-    "Developer" : "",
+    "Developer" : "Naxat Soft",
     "JPN" : "November 21, 1997",
-    "Publisher" : "",
+    "Publisher" : "Naxat Soft",
     "Title" : "Collection Pocket"
   },
   {
@@ -1664,26 +1664,26 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46208-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46208-1.jpg",
-    "Developer" : "",
+    "Developer" : "Irem",
     "JPN" : "March 25, 1994",
-    "Publisher" : "",
+    "Publisher" : "Irem",
     "Title" : "Daiku no Gen-san: Robot Teikoku no Yabou"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/42664-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/42664-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hiro",
     "JPN" : "June 12, 1991",
-    "Publisher" : "",
+    "Publisher" : "Hiro",
     "Title" : "Daisenryaku"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1260-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1260-1.jpg",
-    "Developer" : "",
+    "Developer" : "Ocean",
     "NA" : "December 1992",
     "PAL" : "1992",
-    "Publisher" : "",
+    "Publisher" : "Ocean",
     "Title" : "Darkman"
   },
   {
@@ -1779,9 +1779,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47608-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47608-1.jpg",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "June 5, 1998",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "Dino Breeder 2"
   },
   {
@@ -1866,49 +1866,49 @@
   {
     "BGART" : "https://gamefaqs.gamespot.com/a/box/9/6/7/879967_front.jpg",
     "BGART_SMALL" : "https://gamefaqs.gamespot.com/a/box/9/6/7/879967_front.jpg",
-    "Developer" : "",
+    "Developer" : "Epoch",
     "JPN" : "1997",
-    "Publisher" : "",
+    "Publisher" : "Epoch",
     "Title" : "Doraemon no Study Boy 1: Shouichi Koguko Kanji"
   },
   {
     "BGART" : "https://eta.vgmtreasurechest.com/soundtracks/doraemon-no-study-boy-2-shou-1-sansuu-keisan-game-boy/Doraemon%20no%20Study%20Boy%202%20-%20Shou%201%20Sansuu%20Keisan.jpg",
     "BGART_SMALL" : "https://eta.vgmtreasurechest.com/soundtracks/doraemon-no-study-boy-2-shou-1-sansuu-keisan-game-boy/Doraemon%20no%20Study%20Boy%202%20-%20Shou%201%20Sansuu%20Keisan.jpg",
-    "Developer" : "",
+    "Developer" : "Epoch",
     "JPN" : "1997",
-    "Publisher" : "",
+    "Publisher" : "Epoch",
     "Title" : "Doraemon no Study Boy 2: Shouichi Sansuu Keisan"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/106456-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/106456-1.jpg",
-    "Developer" : "",
+    "Developer" : "Epoch",
     "JPN" : "1997",
-    "Publisher" : "",
+    "Publisher" : "Epoch",
     "Title" : "Doraemon no Study Boy 3: Ku Ku Master"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/a/ac/Doraemon_no_Study_Boy_4_Shō_ni_Kokugo_Kanji_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250211022443&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/a/ac/Doraemon_no_Study_Boy_4_Shō_ni_Kokugo_Kanji_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250211022443&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Epoch",
     "JPN" : "1997",
-    "Publisher" : "",
+    "Publisher" : "Epoch",
     "Title" : "Doraemon no Study Boy 4: Shouni Kokugo Kanji"
   },
   {
     "BGART" : "https://vgmsite.com/soundtracks/doraemon-no-study-boy-5-shou-2-sansuu-keisan-game-boy/Doraemon%20no%20Study%20Boy%205%20-%20Shou%202%20Sansuu%20Keisan.jpg",
     "BGART_SMALL" : "https://vgmsite.com/soundtracks/doraemon-no-study-boy-5-shou-2-sansuu-keisan-game-boy/Doraemon%20no%20Study%20Boy%205%20-%20Shou%202%20Sansuu%20Keisan.jpg",
-    "Developer" : "",
+    "Developer" : "Epoch",
     "JPN" : "1997",
-    "Publisher" : "",
+    "Publisher" : "Epoch",
     "Title" : "Doraemon no Study Boy 5: Shouni Sansuu Keisan"
   },
   {
     "BGART" : "https://kappa.vgmsite.com/soundtracks/doraemon-no-study-boy-6-gakushuu-kanji-master-1006-game-boy/Doraemon%20no%20Study%20Boy%206%20-%20Gakushuu%20Kanji%20Master%201006.jpg",
     "BGART_SMALL" : "https://kappa.vgmsite.com/soundtracks/doraemon-no-study-boy-6-gakushuu-kanji-master-1006-game-boy/Doraemon%20no%20Study%20Boy%206%20-%20Gakushuu%20Kanji%20Master%201006.jpg",
-    "Developer" : "",
+    "Developer" : "Epoch",
     "JPN" : "1998",
-    "Publisher" : "",
+    "Publisher" : "Epoch",
     "Title" : "Doraemon no Study Boy 6: Gakushuu Kanji Master 1006"
   },
   {
@@ -2142,9 +2142,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/122912-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/122912-1.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "October 31, 1997",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Eiken 2-Kyuu Level no Kaiwa Hyuugen 333"
   },
   {
@@ -2158,11 +2158,11 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18622-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18622-1.jpg",
-    "Developer" : "",
+    "Developer" : "Taito",
     "JPN" : "August 9, 1991",
     "NA" : "December 1991",
     "PAL" : "1991",
-    "Publisher" : "",
+    "Publisher" : "Taito",
     "Title" : "Elevator Action"
   },
   {
@@ -2240,17 +2240,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/51708-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/51708-1.jpg",
-    "Developer" : "",
+    "Developer" : "Namco",
     "JPN" : "July 30, 1992",
-    "Publisher" : "",
+    "Publisher" : "Namco",
     "Title" : "Famista 2"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/51709-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/51709-1.jpg",
-    "Developer" : "",
+    "Developer" : "Namco",
     "JPN" : "October 29, 1993",
-    "Publisher" : "",
+    "Publisher" : "Namco",
     "Title" : "Famista 3"
   },
   {
@@ -2265,10 +2265,10 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18628-1.png",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18628-1.png",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "NA" : "July 1993",
     "PAL" : "1993",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Felix the Cat"
   },
   {
@@ -2410,9 +2410,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/26078-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/26078-1.jpg",
-    "Developer" : "",
+    "Developer" : "ASCII Corp",
     "JPN" : "March 23, 1990",
-    "Publisher" : "",
+    "Publisher" : "ASCII Corp",
     "Title" : "Flappy Special"
   },
   {
@@ -2427,9 +2427,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/73418-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/73418-1.jpg",
-    "Developer" : "",
+    "Developer" : "ASCII Corp",
     "JPN" : "August 2, 1991",
-    "Publisher" : "",
+    "Publisher" : "ASCII Corp",
     "Title" : "Fleet Commander Vs."
   },
   {
@@ -2508,9 +2508,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/73706-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/73706-1.jpg",
-    "Developer" : "",
+    "Developer" : "Nichibutsu",
     "JPN" : "July 14, 1995",
-    "Publisher" : "",
+    "Publisher" : "Nichibutsu",
     "Title" : "Frisky Tom"
   },
   {
@@ -2532,9 +2532,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/73697-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/73697-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "May 18, 1991",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "G-Arms: Operation Gundam"
   },
   {
@@ -2548,9 +2548,9 @@
   {
     "BGART" : "https://retro.gg/img/covers/3750-goukaku-boy-series-gakken-kanyouku-kotowaza-210.webp",
     "BGART_SMALL" : "https://retro.gg/img/covers/3750-goukaku-boy-series-gakken-kanyouku-kotowaza-210.webp",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "January 30, 1998",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Gakken Kanyouku: Kotowaza 210"
   },
   {
@@ -2564,9 +2564,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33118--gakken-shiaza-jukugo-288.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33118--gakken-shiaza-jukugo-288.png",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "January 30, 1998",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Gakken Shiaza Jukugo 288"
   },
   {
@@ -2606,9 +2606,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/19079-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/19079-1.jpg",
-    "Developer" : "",
+    "Developer" : "Intelligent Systems",
     "JPN" : "June 27, 1997",
-    "Publisher" : "",
+    "Publisher" : "Nintendo",
     "Title" : "Game Boy Wars Turbo"
   },
   {
@@ -2654,9 +2654,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/82370-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/82370-1.jpg",
-    "Developer" : "",
+    "Developer" : "Irem",
     "JPN" : "July 11, 1991",
-    "Publisher" : "",
+    "Publisher" : "Irem",
     "Title" : "Ganso!! Yancha-Maru"
   },
   {
@@ -2689,9 +2689,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/107582-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/107582-1.jpg",
-    "Developer" : "",
+    "Developer" : "Sammy",
     "JPN" : "July 29, 1994",
-    "Publisher" : "",
+    "Publisher" : "Sammy",
     "Title" : "GB Pachi-Slot Hisshouhou Jr."
   },
   {
@@ -2781,9 +2781,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/55227-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/55227-1.jpg",
-    "Developer" : "",
+    "Developer" : "Banpresto",
     "JPN" : "August 25, 1995",
-    "Publisher" : "",
+    "Publisher" : "Banpresto",
     "Title" : "Go Go Ackman"
   },
   {
@@ -2926,9 +2926,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/49217-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/49217-1.jpg",
-    "Developer" : "",
+    "Developer" : "Jaleco",
     "JPN" : "July 31, 1998",
-    "Publisher" : "",
+    "Publisher" : "Jaleco",
     "Title" : "Hayaoshi Quiz: Ouza Ketteisen"
   },
   {
@@ -2952,9 +2952,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/b/b7/Heisei_Tensai_Bakabon_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230213201845&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/b/b7/Heisei_Tensai_Bakabon_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230213201845&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Namco",
     "JPN" : "February 28, 1992",
-    "Publisher" : "",
+    "Publisher" : "Namco",
     "Title" : "Heisei Tensai Bakabon"
   },
   {
@@ -2977,33 +2977,33 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54918-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54918-1.jpg",
-    "Developer" : "",
+    "Developer" : "Jaleco",
     "JPN" : "January 12, 1990",
-    "Publisher" : "",
+    "Publisher" : "Jaleco",
     "Title" : "Hero Shugo!! Pinball Party"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47585-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47585-1.jpg",
-    "Developer" : "",
+    "Developer" : "Yonezawa PR21",
     "JPN" : "November 22, 1991",
-    "Publisher" : "",
+    "Publisher" : "Yonezawa PR21",
     "Title" : "Hiden Inyo Kikoho: Ca Da"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33279--higashio-osamu-kanshuu-pro-yakyuu-stadium-91.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33279--higashio-osamu-kanshuu-pro-yakyuu-stadium-91.png",
-    "Developer" : "",
+    "Developer" : "Tokuma Shoten",
     "JPN" : "August 9, 1991",
-    "Publisher" : "",
+    "Publisher" : "Tokuma Shoten",
     "Title" : "Higashio Osamu Kanshuu Pro Yakyuu Stadium '91"
   },
   {
     "BGART" : "https://i.ebayimg.com/images/g/7m0AAOSw~Y1lBLva/s-l400.jpg",
     "BGART_SMALL" : "https://i.ebayimg.com/images/g/7m0AAOSw~Y1lBLva/s-l400.jpg",
-    "Developer" : "",
+    "Developer" : "Tokuma Shoten",
     "JPN" : "July 17, 1992",
-    "Publisher" : "",
+    "Publisher" : "Tokuma Shoten",
     "Title" : "Higashio Osamu Kanshuu Pro Yakyuu Stadium '92"
   },
   {
@@ -3053,9 +3053,9 @@
   {
     "BGART" : "https://media.okini.land/27932-home_default/hon-shogi.jpg",
     "BGART_SMALL" : "https://media.okini.land/27932-home_default/hon-shogi.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "November 25, 1994",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Hon Shogi"
   },
   {
@@ -3069,17 +3069,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/122916-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/122916-1.jpg",
-    "Developer" : "",
+    "Developer" : "Nichibutsu",
     "JPN" : "October 7, 1994",
-    "Publisher" : "",
+    "Publisher" : "Nichibutsu",
     "Title" : "Honmei Boy"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47610-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47610-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "April 24, 1992",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Honō no Dōkyūji: Dodge Danpei"
   },
   {
@@ -3140,9 +3140,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/122976-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/122976-1.jpg",
-    "Developer" : "",
+    "Developer" : "Black Label Games",
     "JPN" : "October 20, 1995",
-    "Publisher" : "",
+    "Publisher" : "Black Label Games",
     "Title" : "Hyper Black Bass '95"
   },
   {
@@ -3158,9 +3158,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/44725-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/44725-1.jpg",
-    "Developer" : "",
+    "Developer" : "Jaleco",
     "JPN" : "February 21, 1992",
-    "Publisher" : "",
+    "Publisher" : "Jaleco",
     "Title" : "Ikari no Yousai 2"
   },
   {
@@ -3236,9 +3236,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/1/18/Ishida_Masao_no_Tsumego_Paradise_%28GB%29_%28JP%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250208233726&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/1/18/Ishida_Masao_no_Tsumego_Paradise_%28GB%29_%28JP%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250208233726&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Pony Canyon",
     "JPN" : "December 21, 1990",
-    "Publisher" : "",
+    "Publisher" : "Pony Canyon",
     "Title" : "Ishida Masao no Tsumego Paradise"
   },
   {
@@ -3277,9 +3277,9 @@
   {
     "BGART" : "https://s.pacn.ws/1/p/PA.67552.001.jpg?v=j1gjon",
     "BGART_SMALL" : "https://s.pacn.ws/1/p/PA.67552.001.jpg?v=j1gjon",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "June 26, 1998",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "J-League Supporter Soccer"
   },
   {
@@ -3311,33 +3311,33 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54921-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54921-1.jpg",
-    "Developer" : "",
+    "Developer" : "NCS",
     "JPN" : "December 27, 1991",
-    "Publisher" : "",
+    "Publisher" : "NCS",
     "Title" : "Janken Man"
   },
   {
     "BGART" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUIanJWsb6eivS0At1q0JyWhdPkIokI08AA&s",
     "BGART_SMALL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUIanJWsb6eivS0At1q0JyWhdPkIokI08AA&s",
-    "Developer" : "",
+    "Developer" : "Sammy",
     "JPN" : "March 27, 1992",
-    "Publisher" : "",
+    "Publisher" : "Sammy",
     "Title" : "Janshirou"
   },
   {
     "BGART" : "https://i.ebayimg.com/images/g/8hUAAOSwvsxk7QGP/s-l400.jpg",
     "BGART_SMALL" : "https://i.ebayimg.com/images/g/8hUAAOSwvsxk7QGP/s-l400.jpg",
-    "Developer" : "",
+    "Developer" : "Sammy",
     "JPN" : "March 18, 1994",
-    "Publisher" : "",
+    "Publisher" : "Sammy",
     "Title" : "Janshirou II: Sekai Saikyou no Janshi"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/115100-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/115100-1.jpg",
-    "Developer" : "",
+    "Developer" : "Namco",
     "JPN" : "January 24, 1992",
-    "Publisher" : "",
+    "Publisher" : "Namco",
     "Title" : "Jantaku Boy"
   },
   {
@@ -3400,9 +3400,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/92410-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/92410-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "September 13, 1991",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Jikuu Senki Mu"
   },
   {
@@ -3418,17 +3418,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/101894-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/101894-1.jpg",
-    "Developer" : "",
+    "Developer" : "Takara",
     "JPN" : "June 23, 1995",
-    "Publisher" : "",
+    "Publisher" : "Takara",
     "Title" : "Jinsei Game"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/101894-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/101894-1.jpg",
-    "Developer" : "",
+    "Developer" : "Takara",
     "JPN" : "June 28, 1991",
-    "Publisher" : "",
+    "Publisher" : "Takara",
     "Title" : "Jinsei Game Densetsu"
   },
   {
@@ -3523,9 +3523,9 @@
   {
     "BGART" : "https://upload.wikimedia.org/wikipedia/en/9/9c/KOGjp121793.jpg",
     "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/9/9c/KOGjp121793.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "December 17, 1993",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Kaijū-ō Godzilla"
   },
   {
@@ -3539,17 +3539,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/43753-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/43753-1.jpg",
-    "Developer" : "",
+    "Developer" : "Yukata",
     "JPN" : "August 20, 1993",
-    "Publisher" : "",
+    "Publisher" : "Yukata",
     "Title" : "Kamen Rider SD: Hashire! Mighty Riders"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/8/83/Kandume_Monsters_%28GB%29.jpg/revision/latest?cb=20220414143750&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/8/83/Kandume_Monsters_%28GB%29.jpg/revision/latest?cb=20220414143750&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Starfish",
     "JPN" : "March 27, 1998",
-    "Publisher" : "",
+    "Publisher" : "Starfish",
     "Title" : "Kandume Monsters"
   },
   {
@@ -3579,25 +3579,25 @@
   {
     "BGART" : "https://media.okini.land/27831-medium_default/katsuba-yosou-keiba-kizoku.jpg",
     "BGART_SMALL" : "https://media.okini.land/27831-medium_default/katsuba-yosou-keiba-kizoku.jpg",
-    "Developer" : "",
+    "Developer" : "King Records",
     "JPN" : "August 27, 1993",
-    "Publisher" : "",
+    "Publisher" : "King Records",
     "Title" : "Katsuba Yosou Keiba Kizoku"
   },
   {
     "BGART" : "https://m.media-amazon.com/images/I/716IMC0ymdL.jpg",
     "BGART_SMALL" : "https://m.media-amazon.com/images/I/716IMC0ymdL.jpg",
-    "Developer" : "",
+    "Developer" : "King Records",
     "JPN" : "July 29, 1994",
-    "Publisher" : "",
+    "Publisher" : "King Records",
     "Title" : "Katsuba Yosou Keiba Kizoku EX '94"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33435--katsuba-yosou-keiba-kizoku-ex-95.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33435--katsuba-yosou-keiba-kizoku-ex-95.png",
-    "Developer" : "",
+    "Developer" : "King Records",
     "JPN" : "April 14, 1995",
-    "Publisher" : "",
+    "Publisher" : "King Records",
     "Title" : "Katsuba Yosou Keiba Kizoku EX '95"
   },
   {
@@ -3611,9 +3611,9 @@
   {
     "BGART" : "https://storage.googleapis.com/images.pricecharting.com/p5desmry66dcck55/240.jpg",
     "BGART_SMALL" : "https://storage.googleapis.com/images.pricecharting.com/p5desmry66dcck55/240.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "November 18, 1994",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Keitai Keiba Eight Special"
   },
   {
@@ -3628,9 +3628,9 @@
   {
     "BGART" : "https://www.detectiveconanworld.com/wiki/images/thumb/3/34/Kenyuu_Densetsu_Yaiba_Game_Boy_Cover.jpg/275px-Kenyuu_Densetsu_Yaiba_Game_Boy_Cover.jpg",
     "BGART_SMALL" : "https://www.detectiveconanworld.com/wiki/images/thumb/3/34/Kenyuu_Densetsu_Yaiba_Game_Boy_Cover.jpg/275px-Kenyuu_Densetsu_Yaiba_Game_Boy_Cover.jpg",
-    "Developer" : "",
+    "Developer" : "Banpresto",
     "JPN" : "March 25, 1994",
-    "Publisher" : "",
+    "Publisher" : "Banpresto",
     "Title" : "Kenyuu Densetsu Yaiba"
   },
   {
@@ -3732,9 +3732,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54922-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54922-1.jpg",
-    "Developer" : "",
+    "Developer" : "Yukata",
     "JPN" : "September 12, 1992",
-    "Publisher" : "",
+    "Publisher" : "Yukata",
     "Title" : "Kinnikuman: The Dream Match"
   },
   {
@@ -3798,9 +3798,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33503--kiteretsu-daihyakka-bouken-ooedo-juraki.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33503--kiteretsu-daihyakka-bouken-ooedo-juraki.png",
-    "Developer" : "",
+    "Developer" : "Video System",
     "JPN" : "July 15, 1994",
-    "Publisher" : "",
+    "Publisher" : "Video System",
     "Title" : "Kiteretsu Daihyakka: Bouken Ouedo Juraki"
   },
   {
@@ -3965,9 +3965,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47609-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47609-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "April 28, 1995",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle – Puritto Pon"
   },
   {
@@ -4019,9 +4019,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48253-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48253-1.jpg",
-    "Developer" : "",
+    "Developer" : "Quest",
     "JPN" : "May 31, 1991",
-    "Publisher" : "",
+    "Publisher" : "Quest",
     "Title" : "Legend: Ashita e no Tsubasa"
   },
   {
@@ -4171,9 +4171,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54924-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54924-1.jpg",
-    "Developer" : "",
+    "Developer" : "Pack-In-Video",
     "JPN" : "September 21, 1990",
-    "Publisher" : "",
+    "Publisher" : "Pack-In-Video",
     "Title" : "Lunar Lander"
   },
   {
@@ -4288,9 +4288,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/51704-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/51704-1.jpg",
-    "Developer" : "",
+    "Developer" : "Naxat Soft",
     "JPN" : "September 25, 1992",
-    "Publisher" : "",
+    "Publisher" : "Naxat Soft",
     "Title" : "Marchen Club"
   },
   {
@@ -4497,9 +4497,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/65187-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/65187-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "August 7, 1998",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Meitantei Conan: Giwaku no Gouka Ressha"
   },
   {
@@ -4605,9 +4605,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/f/f1/Mikineko_Holmes_no_Kishi_Michi_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250209171648&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/f/f1/Mikineko_Holmes_no_Kishi_Michi_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250209171648&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "ASK Kodansha",
     "JPN" : "February 15, 1991",
-    "Publisher" : "",
+    "Publisher" : "ASK Kodansha",
     "Title" : "Mikineko Holmes no Kishi Michi"
   },
   {
@@ -4639,25 +4639,25 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/102416-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/102416-1.jpg",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "December 27, 1996",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "Mini 4 Boy"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/101916-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/101916-1.jpg",
-    "Developer" : "",
+    "Developer" : "J-Wing",
     "JPN" : "September 26, 1997",
-    "Publisher" : "",
+    "Publisher" : "J-Wing",
     "Title" : "Mini 4 Boy II"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54925-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54925-1.jpg",
-    "Developer" : "",
+    "Developer" : "A-Wave",
     "JPN" : "April 26, 1991",
-    "Publisher" : "",
+    "Publisher" : "A-Wave",
     "Title" : "Mini-Putt"
   },
   {
@@ -4696,17 +4696,17 @@
   {
     "BGART" : "https://www.video-games-museum.com/en/boxart/Game%20Boy/1190_jp-MoguMogu-Gombo-Harukanaru-Chou-Ryouri-Densetsu.jpg",
     "BGART_SMALL" : "https://www.video-games-museum.com/en/boxart/Game%20Boy/1190_jp-MoguMogu-Gombo-Harukanaru-Chou-Ryouri-Densetsu.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "June 16, 1995",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Mogu Mogu Gombo: Harukanaru Chou Ryouri Densetsu"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/1/1e/Mogura_de_Pon_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210030617&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/1/1e/Mogura_de_Pon_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210030617&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Athena",
     "JPN" : "April 15, 1994",
-    "Publisher" : "",
+    "Publisher" : "Athena",
     "Title" : "Mogura de Pon!"
   },
   {
@@ -4722,33 +4722,33 @@
   {
     "BGART" : "https://cdn.suruga-ya.com/database/pics_webp/game/165000620.jpg.webp",
     "BGART_SMALL" : "https://cdn.suruga-ya.com/database/pics_webp/game/165000620.jpg.webp",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "August 9, 1996",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Momotaro Collection"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/3/35/Momotaro_Collection_2_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210231148&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/3/35/Momotaro_Collection_2_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210231148&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "December 6, 1996",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Momotaro Collection 2"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/41696-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/41696-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "August 8, 1993",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Momotaro Dengeki: Momotaro Thunderbolt"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54929-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54929-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "December 16, 1994",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Momotaro Dengeki 2: Momotaro Thunderbolt"
   },
   {
@@ -4788,33 +4788,33 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/83458-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/83458-1.jpg",
-    "Developer" : "",
+    "Developer" : "Koei",
     "JPN" : "March 6, 1998",
-    "Publisher" : "",
+    "Publisher" : "Koei",
     "Title" : "Monster * Race"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33792--monster-race-okawari.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33792--monster-race-okawari.png",
-    "Developer" : "",
+    "Developer" : "Koei",
     "JPN" : "October 2, 1998",
-    "Publisher" : "",
+    "Publisher" : "Koei",
     "Title" : "Monster * Race Okawari"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/3/30/Monster_Maker.jpg/revision/latest?cb=20221001113404&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/3/30/Monster_Maker.jpg/revision/latest?cb=20221001113404&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "SOFEL",
     "JPN" : "December 22, 1990",
-    "Publisher" : "",
+    "Publisher" : "SOFEL",
     "Title" : "Monster Maker"
   },
   {
     "BGART" : "https://media.okini.land/27799-home_default/monster-maker-2-uru-no-hiten.jpg",
     "BGART_SMALL" : "https://media.okini.land/27799-home_default/monster-maker-2-uru-no-hiten.jpg",
-    "Developer" : "",
+    "Developer" : "SOFEL",
     "JPN" : "March 19, 1993",
-    "Publisher" : "",
+    "Publisher" : "SOFEL",
     "Title" : "Monster Maker 2: Uru no Hiten"
   },
   {
@@ -4926,9 +4926,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33821--mr-go-no-baken-tekichuu-sube.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33821--mr-go-no-baken-tekichuu-sube.png",
-    "Developer" : "",
+    "Developer" : "Taito",
     "JPN" : "April 1, 1994",
-    "Publisher" : "",
+    "Publisher" : "Taito",
     "Title" : "Mr. Go no Baken Tekichuu Sube"
   },
   {
@@ -4988,9 +4988,9 @@
   {
     "BGART" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MLlSINWoE_3oMz_DJm1YT33rV1ZRcubj1g&s",
     "BGART_SMALL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MLlSINWoE_3oMz_DJm1YT33rV1ZRcubj1g&s",
-    "Developer" : "",
+    "Developer" : "Affect",
     "JPN" : "December 25, 1998",
-    "Publisher" : "",
+    "Publisher" : "Yojigen",
     "Title" : "Nada Asatarou & Kojima Takeo no Jissen Mahjong Kyoushitsu"
   },
   {
@@ -5054,9 +5054,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/3/32/Nanonote_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250209202925&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/3/32/Nanonote_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250209202925&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Konami",
     "JPN" : "August 7, 1992",
-    "Publisher" : "",
+    "Publisher" : "Konami",
     "Title" : "Nanonote"
   },
   {
@@ -5150,9 +5150,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/6/6e/Nekojara_Monogatari_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250208233827&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/6/6e/Nekojara_Monogatari_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250208233827&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Kemco",
     "JPN" : "December 14, 1990",
-    "Publisher" : "",
+    "Publisher" : "Kemco",
     "Title" : "Nekojara Monogatari"
   },
   {
@@ -5255,9 +5255,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33900--nichibutsu-mahjong-yoshimoto-gekijou.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33900--nichibutsu-mahjong-yoshimoto-gekijou.png",
-    "Developer" : "",
+    "Developer" : "Nichibutsu",
     "JPN" : "November 18, 1994",
-    "Publisher" : "",
+    "Publisher" : "Nichibutsu",
     "Title" : "Nichibutsu Mahjong: Yoshimoto Gekijou"
   },
   {
@@ -5280,9 +5280,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47584-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47584-1.jpg",
-    "Developer" : "",
+    "Developer" : "I'Max",
     "JPN" : "June 26, 1998",
-    "Publisher" : "",
+    "Publisher" : "I'Max",
     "Title" : "Nikkan Berutomo Club"
   },
   {
@@ -5343,17 +5343,17 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33922--nintama-rantarou-gb.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33922--nintama-rantarou-gb.png",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "December 27, 1995",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "Nintama Rantarō GB"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/117765-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/117765-1.jpg",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "June 19, 1998",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "Nintama Rantarō GB: Eawase Challenge Puzzle"
   },
   {
@@ -5394,9 +5394,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/22569-1.png",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/22569-1.png",
-    "Developer" : "",
+    "Developer" : "Irem",
     "JPN" : "December 11, 1992",
-    "Publisher" : "",
+    "Publisher" : "Irem",
     "Title" : "Noobow"
   },
   {
@@ -5470,10 +5470,10 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/24097-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/24097-1.jpg",
-    "Developer" : "",
+    "Developer" : "Kawada",
     "JPN" : "February 9, 1990",
     "PAL" : "1990",
-    "Publisher" : "",
+    "Publisher" : "Kawada",
     "Title" : "Othello"
   },
   {
@@ -5511,9 +5511,9 @@
   {
     "BGART" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9hsh.jpg",
     "BGART_SMALL" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9hsh.jpgs",
-    "Developer" : "",
+    "Developer" : "Starfish",
     "JPN" : "September 26, 1997",
-    "Publisher" : "",
+    "Publisher" : "Starfish",
     "Title" : "Oyatsu Quiz Mogumogu Q"
   },
   {
@@ -5549,17 +5549,17 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33975--pachi-slot-hisshou-guide-gb.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33975--pachi-slot-hisshou-guide-gb.png",
-    "Developer" : "",
+    "Developer" : "Magifact",
     "JPN" : "January 27, 1995",
-    "Publisher" : "",
+    "Publisher" : "Magifact",
     "Title" : "Pachi-Slot Hisshou Guide GB"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/6/60/Pachi-Slot_Kids_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210015922&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/6/60/Pachi-Slot_Kids_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210015922&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Coconuts Japan",
     "JPN" : "June 18, 1993",
-    "Publisher" : "",
+    "Publisher" : "Coconuts Japan",
     "Title" : "Pachi-Slot Kids"
   },
   {
@@ -5581,25 +5581,25 @@
   {
     "BGART" : "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0505/users/ce69330bf55ccbcbb84806ce7fd4b806329edf06/i-img1200x1200-17147202514iw8tp390348.jpg",
     "BGART_SMALL" : "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0505/users/ce69330bf55ccbcbb84806ce7fd4b806329edf06/i-img1200x1200-17147202514iw8tp390348.jpg",
-    "Developer" : "",
+    "Developer" : "I'Max",
     "JPN" : "July 29, 1994",
-    "Publisher" : "",
+    "Publisher" : "I'Max",
     "Title" : "Pachi-Slot World Cup '94"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/33980--pachinko-cr-daiku-no-gen-san-gb.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/33980--pachinko-cr-daiku-no-gen-san-gb.png",
-    "Developer" : "",
+    "Developer" : "Telenet Japan",
     "JPN" : "March 13, 1998",
-    "Publisher" : "",
+    "Publisher" : "Telenet Japan",
     "Title" : "Pachinko CR Daiku no Gen-San GB"
   },
   {
     "BGART" : "https://media.okini.land/28161-medium_default/pachinko-data-card-chou-ataru-kun.jpg",
     "BGART_SMALL" : "https://media.okini.land/28161-medium_default/pachinko-data-card-chou-ataru-kun.jpg",
-    "Developer" : "",
+    "Developer" : "Boss Communications",
     "JPN" : "January 28, 1999",
-    "Publisher" : "",
+    "Publisher" : "Boss Communications",
     "Title" : "Pachinko Data Card: Chou Ataru-kun"
   },
   {
@@ -5678,9 +5678,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/122037-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/122037-1.jpg",
-    "Developer" : "",
+    "Developer" : "Sigma Enterprises",
     "JPN" : "December 7, 1990",
-    "Publisher" : "",
+    "Publisher" : "Sigma Enterprises",
     "Title" : "Painter Momopie"
   },
   {
@@ -5754,9 +5754,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47685-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47685-1.jpg",
-    "Developer" : "",
+    "Developer" : "Yukata",
     "JPN" : "August 25, 1990",
-    "Publisher" : "",
+    "Publisher" : "Yukata",
     "Title" : "Patlabor: The Mobile Police"
   },
   {
@@ -5926,17 +5926,17 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34041--pocket-bass-fishing.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34041--pocket-bass-fishing.png",
-    "Developer" : "",
+    "Developer" : "Bottom Up",
     "JPN" : "April 24, 1998",
-    "Publisher" : "",
+    "Publisher" : "Bottom Up",
     "Title" : "Pocket Bass Fishing"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34042--pocket-battle.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34042--pocket-battle.png",
-    "Developer" : "",
+    "Developer" : "Sigma Enterprises",
     "JPN" : "April 28, 1992",
-    "Publisher" : "",
+    "Publisher" : "Sigma Enterprises",
     "Title" : "Pocket Battle"
   },
   {
@@ -5951,9 +5951,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/71716-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/71716-1.jpg",
-    "Developer" : "",
+    "Developer" : "Coconuts Japan",
     "JPN" : "October 30, 1998",
-    "Publisher" : "",
+    "Publisher" : "Coconuts Japan",
     "Title" : "Pocket Densha"
   },
   {
@@ -5967,9 +5967,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/102150-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/102150-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bottom Up",
     "JPN" : "September 25, 1998",
-    "Publisher" : "",
+    "Publisher" : "Bottom Up",
     "Title" : "Pocket Golf"
   },
   {
@@ -6007,9 +6007,9 @@
   {
     "BGART" : "https://upload.wikimedia.org/wikipedia/en/a/a8/YakumanBoxShotGameBoy.jpg",
     "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/a/a8/YakumanBoxShotGameBoy.jpg",
-    "Developer" : "",
+    "Developer" : "Bottom Up",
     "JPN" : "July 25, 1997",
-    "Publisher" : "",
+    "Publisher" : "Bottom Up",
     "Title" : "Pocket Mahjong"
   },
   {
@@ -6031,17 +6031,17 @@
   {
     "BGART" : "https://i.ebayimg.com/images/g/EMgAAOSw6x1i1~5B/s-l400.jpg",
     "BGART_SMALL" : "https://i.ebayimg.com/images/g/EMgAAOSw6x1i1~5B/s-l400.jpg",
-    "Developer" : "",
+    "Developer" : "Bottom Up",
     "JPN" : "September 11, 1998",
-    "Publisher" : "",
+    "Publisher" : "Bottom Up",
     "Title" : "Pocket Shogi"
   },
   {
     "BGART" : "https://now.estarland.com/images/products/44/37644/183975.jpg",
     "BGART_SMALL" : "https://now.estarland.com/images/products/44/37644/183975.jpg",
-    "Developer" : "",
+    "Developer" : "Atlus",
     "JPN" : "December 14, 1990",
-    "Publisher" : "",
+    "Publisher" : "Atlus",
     "Title" : "Pocket Stadium"
   },
   {
@@ -6077,17 +6077,17 @@
   {
     "BGART" : "https://storage.googleapis.com/images.pricecharting.com/a0cf23ba6024e4451da094087f5c9af9339383f2c43fa15cb06df476027932a8/1600.jpg",
     "BGART_SMALL" : "https://storage.googleapis.com/images.pricecharting.com/a0cf23ba6024e4451da094087f5c9af9339383f2c43fa15cb06df476027932a8/1600.jpg",
-    "Developer" : "",
+    "Developer" : "Toho",
     "JPN" : "August 5, 1994",
-    "Publisher" : "",
+    "Publisher" : "Toho",
     "Title" : "Pokonyan! Yume no Daibouken"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34096--ponta-to-hinako-no-chindouchuu-yuutou-hen.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34096--ponta-to-hinako-no-chindouchuu-yuutou-hen.png",
-    "Developer" : "",
+    "Developer" : "Naxat Soft",
     "JPN" : "December 20, 1990",
-    "Publisher" : "",
+    "Publisher" : "Naxat Soft",
     "Title" : "Ponta to Hinako no Chindouchuu: Yuutou Hen"
   },
   {
@@ -6166,9 +6166,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/81360-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/81360-1.jpg",
-    "Developer" : "",
+    "Developer" : "Sunsoft",
     "JPN" : "December 12, 1990",
-    "Publisher" : "",
+    "Publisher" : "Sunsoft",
     "Title" : "Pri Pri: Primitive Princess!"
   },
   {
@@ -6193,9 +6193,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/6/64/Pro_Mahjong_Kiwame_GB_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230222172157&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/6/64/Pro_Mahjong_Kiwame_GB_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230222172157&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Athena",
     "JPN" : "December 23, 1994",
-    "Publisher" : "",
+    "Publisher" : "Athena",
     "Title" : "Pro Mahjong Kiwame GB"
   },
   {
@@ -6218,9 +6218,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34127--purikura-pocket-2-kareshi-kaizou-daisakusen.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34127--purikura-pocket-2-kareshi-kaizou-daisakusen.png",
-    "Developer" : "",
+    "Developer" : "Atlus",
     "JPN" : "November 29, 1997",
-    "Publisher" : "",
+    "Publisher" : "Atlus",
     "Title" : "Purikura Pocket 2: Kareshi Kaizou Daisakusen"
   },
   {
@@ -6234,9 +6234,9 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/1/16/Purikura_Pocket_Fukanzen_Joshikōsei_Manual_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230222173016&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/1/16/Purikura_Pocket_Fukanzen_Joshikōsei_Manual_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230222173016&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Atlus",
     "JPN" : "October 17, 1997",
-    "Publisher" : "",
+    "Publisher" : "Atlus",
     "Title" : "Purikura Pocket: Fukanzen Joshikousei Manual"
   },
   {
@@ -6250,17 +6250,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/65294-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/65294-1.jpg",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "November 1, 1996",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "Puzzle Nintama Rantarō GB"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54940-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54940-1.jpg",
-    "Developer" : "",
+    "Developer" : "Taito",
     "JPN" : "July 31, 1990",
-    "Publisher" : "",
+    "Publisher" : "Taito",
     "Title" : "Puzznic"
   },
   {
@@ -6312,9 +6312,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/46837-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/46837-1.jpg",
-    "Developer" : "",
+    "Developer" : "Athena",
     "JPN" : "December 18, 1992",
-    "Publisher" : "",
+    "Publisher" : "Athena",
     "Title" : "Quiz Nihon Mukashi Banashi: Athena no Hatena"
   },
   {
@@ -6385,11 +6385,11 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/16293-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/16293-1.jpg",
-    "Developer" : "",
+    "Developer" : "Jaleco",
     "JPN" : "October 30, 1992",
     "NA" : "1993",
     "PAL" : "1993",
-    "Publisher" : "",
+    "Publisher" : "Jaleco",
     "Title" : "Rampart"
   },
   {
@@ -6403,25 +6403,25 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/f/f7/Ranma_%C2%BD_Kakuren_Bodesu_Match.jpg/revision/latest?cb=20221030210401&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/f/f7/Ranma_%C2%BD_Kakuren_Bodesu_Match.jpg/revision/latest?cb=20221030210401&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Sun L",
     "JPN" : "July 28, 1990",
-    "Publisher" : "",
+    "Publisher" : "Banpresto",
     "Title" : "Ranma ½: Kakuren Bodesu Match"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/43764-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/43764-1.jpg",
-    "Developer" : "",
+    "Developer" : "Banpresto",
     "JPN" : "July 17, 1992",
-    "Publisher" : "",
+    "Publisher" : "Banpresto",
     "Title" : "Ranma ½: Netsuretsu Kakutouhen"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54969-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54969-1.jpg",
-    "Developer" : "",
+    "Developer" : "Nichibutsu",
     "JPN" : "February 8, 1991",
-    "Publisher" : "",
+    "Publisher" : "Nichibutsu",
     "Title" : "Ray-Thunder"
   },
   {
@@ -6478,9 +6478,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34184--rentaiou.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34184--rentaiou.png",
-    "Developer" : "",
+    "Developer" : "Visit",
     "JPN" : "September 16, 1994",
-    "Publisher" : "",
+    "Publisher" : "Visit",
     "Title" : "Rentaiou"
   },
   {
@@ -6539,11 +6539,11 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18676-1.png",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18676-1.png",
-    "Developer" : "",
+    "Developer" : "Ocean",
     "JPN" : "March 1, 1991",
     "NA" : "December 1990",
     "PAL" : "1990",
-    "Publisher" : "",
+    "Publisher" : "Ocean",
     "Title" : "RoboCop"
   },
   {
@@ -6635,17 +6635,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/40183-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/40183-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "November 13, 1992",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Saint Paradise"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/53001-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/53001-1.jpg",
-    "Developer" : "",
+    "Developer" : "Yukata",
     "JPN" : "August 4, 1990",
-    "Publisher" : "",
+    "Publisher" : "Yukata",
     "Title" : "Sakigake!! Otokojuku: Meikoushima Kessen"
   },
   {
@@ -6685,17 +6685,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54974-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54974-1.jpg",
-    "Developer" : "",
+    "Developer" : "Character Soft",
     "JPN" : "March 19, 1993",
-    "Publisher" : "",
+    "Publisher" : "Character Soft",
     "Title" : "Sanrio Carnival 2"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/115863-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/115863-1.jpg",
-    "Developer" : "",
+    "Developer" : "Character Soft",
     "JPN" : "December 5, 1997",
-    "Publisher" : "",
+    "Publisher" : "Character Soft",
     "Title" : "Sanrio Uranai Party"
   },
   {
@@ -6725,41 +6725,41 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/69347-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/69347-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "March 24, 1990",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "SD Gundam: SD Sengokuden: Kunitori Monogatari"
   },
   {
     "BGART" : "https://storage.googleapis.com/images.pricecharting.com/a5fb080119f329489b74403113a905bf0b886ba2e2f85ecfb4ab049032e1f7ea/240.jpg",
     "BGART_SMALL" : "https://storage.googleapis.com/images.pricecharting.com/a5fb080119f329489b74403113a905bf0b886ba2e2f85ecfb4ab049032e1f7ea/240.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "January 18, 1992",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "SD Gundam: Sengokuden 2: Tenka Touitsuhen"
   },
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34230--sd-gundam-sd-sengokuden-3-chijou-saikyouhen.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34230--sd-gundam-sd-sengokuden-3-chijou-saikyouhen.png",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "September 4, 1992",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "SD Gundam: SD Sengokuden 3: Chijou Saikyouhen"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/106132-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/106132-1.jpg",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "April 14, 1995",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "SD Hiryū no Ken Gaiden"
   },
   {
     "BGART" : "https://images.launchbox-app.com//1dc6c4a3-a28f-4484-8b97-e4bdc6dd3793.png",
     "BGART_SMALL" : "https://images.launchbox-app.com//1dc6c4a3-a28f-4484-8b97-e4bdc6dd3793.png",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "September 27, 1996",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "SD Hiryū no Ken Gaiden 2"
   },
   {
@@ -6790,9 +6790,9 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34238--selection-i-ii-erabareshi-mono-ankoku-no-fuuin.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34238--selection-i-ii-erabareshi-mono-ankoku-no-fuuin.png",
-    "Developer" : "",
+    "Developer" : "Kemco",
     "JPN" : "May 1, 1998",
-    "Publisher" : "",
+    "Publisher" : "Kemco",
     "Title" : "Selection I & II: Erabareshi Mono & Ankoku no Fuuin"
   },
   {
@@ -6840,81 +6840,81 @@
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "June 26, 1998",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru"
   },
   {
     "BGART" : "https://images.launchbox-app.com//2c061f3a-fb1d-4208-aa1b-09ef5fe31b61.jpg",
     "BGART_SMALL" : "https://images.launchbox-app.com//2c061f3a-fb1d-4208-aa1b-09ef5fe31b61.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "March 17, 2000",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Joushiki no Sho"
   },
   {
     "BGART" : "https://www.romstation.fr/romstation/resources/games/gb/cover/65583.jpg",
     "BGART_SMALL" : "https://www.romstation.fr/romstation/resources/games/gb/cover/65583.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "March 30, 2001",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Kanji no Tatsujin"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/e/e4/Shikakui_Atama_o_Marukusuru_Keisan_no_Tatsujin_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250211035514&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/e/e4/Shikakui_Atama_o_Marukusuru_Keisan_no_Tatsujin_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250211035514&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "March 30, 2001",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Keisan no Tatsujin"
   },
   {
     "BGART" : "https://storage.googleapis.com/images.pricecharting.com/358c19129807221bcb9f0effb63ce126244db2acebab01188faf43aa40aa60cd/240.jpg",
     "BGART_SMALL" : "https://storage.googleapis.com/images.pricecharting.com/358c19129807221bcb9f0effb63ce126244db2acebab01188faf43aa40aa60cd/240.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "September 24, 1999",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Kokugo Battle-Hen"
   },
   {
     "BGART" : "https://www.romstation.fr/romstation/resources/games/gb/cover/65586.jpg?1590794470",
     "BGART_SMALL" : "https://www.romstation.fr/romstation/resources/games/gb/cover/65586.jpg?1590794470",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "March 17, 2000",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Nanmon no Sho"
   },
   {
     "BGART" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFg-5DiQcxbtaUucu1wLnQ_WhcmDkrbMBEkrYg6KbslfsLav7myOOk3CLSq9A89rbXdCI&usqp=CAU",
     "BGART_SMALL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFg-5DiQcxbtaUucu1wLnQ_WhcmDkrbMBEkrYg6KbslfsLav7myOOk3CLSq9A89rbXdCI&usqp=CAU",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "November 5, 1999",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Rika Battle-Hen"
   },
   {
     "BGART" : "https://www.romstation.fr/romstation/resources/games/gb/cover/65588.jpg?1590795128",
     "BGART_SMALL" : "https://www.romstation.fr/romstation/resources/games/gb/cover/65588.jpg?1590795128",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "March 12, 1999",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Sansuu Battle-Hen"
   },
   {
     "BGART" : "https://i.ebayimg.com/images/g/sGEAAOSwBm5nFOWb/s-l400.png",
     "BGART_SMALL" : "https://i.ebayimg.com/images/g/sGEAAOSwBm5nFOWb/s-l400.png",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "July 16, 1999",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Shakai Battle-Hen"
   },
   {
     "BGART" : "https://romsfun.me/wp-content/uploads/2024/06/goukaku-boy-gold-shikakui-atama-o-maruku-suru-zukei-no-tatsujin-300x340.jpg",
     "BGART_SMALL" : "https://romsfun.me/wp-content/uploads/2024/06/goukaku-boy-gold-shikakui-atama-o-maruku-suru-zukei-no-tatsujin-300x340.jpg",
-    "Developer" : "",
+    "Developer" : "Imagineer",
     "JPN" : "October 27, 2000",
-    "Publisher" : "",
+    "Publisher" : "Imagineer",
     "Title" : "Shikakui Atama o Maruku Suru: Zukei no Tatsujin"
   },
   {
@@ -6936,9 +6936,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31737-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31737-1.jpg",
-    "Developer" : "",
+    "Developer" : "Varie",
     "JPN" : "January 29, 1993",
-    "Publisher" : "",
+    "Publisher" : "Varie",
     "Title" : "Shin Nippon Pro Wrestling: Toukon Sanjushi"
   },
   {
@@ -6952,25 +6952,25 @@
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/8/84/The_Shinri_Game_Akuma_no_Kokoroji_%28GB%29_%28JP%29.jpg/revision/latest?cb=20221208224725&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/8/84/The_Shinri_Game_Akuma_no_Kokoroji_%28GB%29_%28JP%29.jpg/revision/latest?cb=20221208224725&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Visit",
     "JPN" : "June 10, 1994",
-    "Publisher" : "",
+    "Publisher" : "Visit",
     "Title" : "The Shinri Game"
   },
   {
     "BGART" : "https://www.video-games-museum.com/en/boxart/Game%20Boy/1682_jp-Shinri-Game-2-The-Osaka-Hen.jpg",
     "BGART_SMALL" : "https://www.video-games-museum.com/en/boxart/Game%20Boy/1682_jp-Shinri-Game-2-The-Osaka-Hen.jpg",
-    "Developer" : "",
+    "Developer" : "Visit",
     "JPN" : "October 14, 1994",
-    "Publisher" : "",
+    "Publisher" : "Visit",
     "Title" : "The Shinri Game 2: Osaka-Hen"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/47604-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/47604-1.jpg",
-    "Developer" : "",
+    "Developer" : "Visit",
     "JPN" : "February 28, 1992",
-    "Publisher" : "",
+    "Publisher" : "Visit",
     "Title" : "Shinseiki GPX Cyber Formula"
   },
   {
@@ -6992,33 +6992,33 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/102149-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/102149-1.jpg",
-    "Developer" : "",
+    "Developer" : "Pony Canyon",
     "JPN" : "December 19, 1989",
-    "Publisher" : "",
+    "Publisher" : "Pony Canyon",
     "Title" : "Shogi"
   },
   {
     "BGART" : "https://i.ebayimg.com/images/g/PDAAAOSwlFNmbMQ8/s-l400.jpg",
     "BGART_SMALL" : "https://i.ebayimg.com/images/g/PDAAAOSwlFNmbMQ8/s-l400.jpg",
-    "Developer" : "",
+    "Developer" : "Magical Company",
     "JPN" : "December 23, 1994",
-    "Publisher" : "",
+    "Publisher" : "Magical Company",
     "Title" : "Shogi Saikyou"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/65293-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/65293-1.jpg",
-    "Developer" : "",
+    "Developer" : "Takara",
     "JPN" : "September 27, 1991",
-    "Publisher" : "",
+    "Publisher" : "Takara",
     "Title" : "Shounen Ashibe: Yuuenchi Panic"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/80276-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/80276-1.jpg",
-    "Developer" : "",
+    "Developer" : "Irem",
     "JPN" : "July 30, 1993",
-    "Publisher" : "",
+    "Publisher" : "Irem",
     "Title" : "Shuyaku Sentai Irem Fighter"
   },
   {
@@ -7079,17 +7079,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52990-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/52990-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "August 11, 1994",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Slam Dunk: Gakeppuchi no Kesshou League"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52991-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/52991-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "March 17, 1995",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Slam Dunk 2: Zenkoku e no Tip Off"
   },
   {
@@ -7185,9 +7185,9 @@
   {
     "BGART" : "https://s.pacn.ws/1/p/iq/soldam-337265.1.jpg?v=mv7ohh",
     "BGART_SMALL" : "https://s.pacn.ws/1/p/iq/soldam-337265.1.jpg?v=mv7ohh",
-    "Developer" : "",
+    "Developer" : "Jaleco",
     "JPN" : "August 6, 1993",
-    "Publisher" : "",
+    "Publisher" : "Jaleco",
     "Title" : "Soldam"
   },
   {
@@ -7355,11 +7355,11 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8381-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8381-1.jpg",
-    "Developer" : "",
+    "Developer" : "Kemco",
     "JPN" : "May 2, 1992",
     "NA" : "September 1992",
     "PAL" : "1992",
-    "Publisher" : "",
+    "Publisher" : "Kemco",
     "Title" : "Spy vs. Spy: Operation Boobytrap"
   },
   {
@@ -7550,35 +7550,35 @@
   {
     "BGART" : "https://upload.wikimedia.org/wikipedia/en/d/dd/Super_Chinese_Fighter_GB.jpg",
     "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/d/dd/Super_Chinese_Fighter_GB.jpg",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "December 28, 1996",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "Super Chinese Fighter GB"
   },
   {
     "BGART" : "https://www.video-games-museum.com/en/boxart/Game%20Boy/1791_jp-Super-Chinese-Land-1-2-3-Dash.jpg",
     "BGART_SMALL" : "https://www.video-games-museum.com/en/boxart/Game%20Boy/1791_jp-Super-Chinese-Land-1-2-3-Dash.jpg",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "September 13, 1996",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "Super Chinese Land 1-2-3 Dash"
   },
   {
     "BGART" : "https://upload.wikimedia.org/wikipedia/en/2/26/Super_Chinese_Land_3_Game_Boy_Cover_Art.jpg",
     "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/2/26/Super_Chinese_Land_3_Game_Boy_Cover_Art.jpg",
-    "Developer" : "",
+    "Developer" : "Culture Brain",
     "JPN" : "January 13, 1995",
-    "Publisher" : "",
+    "Publisher" : "Culture Brain",
     "Title" : "Super Chinese Land 3"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21589-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21589-1.jpg",
-    "Developer" : "",
+    "Developer" : "Ocean",
     "JPN" : "June 26, 1992",
     "NA" : "April 1992",
     "PAL" : "1992",
-    "Publisher" : "",
+    "Publisher" : "Ocean",
     "Title" : "Super Hunchback"
   },
   {
@@ -7621,17 +7621,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/48499-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/48499-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "March 8, 1991",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Super Momotaro Dentetsu"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/114535-1.jpg",
   "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/114535-1.jpg",
-    "Developer" : "",
+    "Developer" : "Hudson Soft",
     "JPN" : "February 18, 1994",
-    "Publisher" : "",
+    "Publisher" : "Hudson Soft",
     "Title" : "Super Momotaro Dentetsu II"
   },
   {
@@ -7751,9 +7751,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54980-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54980-1.jpg",
-    "Developer" : "",
+    "Developer" : "Towa Chiki",
     "JPN" : "February 23, 1990",
-    "Publisher" : "",
+    "Publisher" : "Towa Chiki",
     "Title" : "Taikyoku Renju"
   },
   {
@@ -7769,9 +7769,9 @@
   {
     "BGART" : "https://media.okini.land/27889-home_default/taiyou-no-tenshi-marlow-o-hanabatake-wa-dai-panic.jpg",
     "BGART_SMALL" : "https://media.okini.land/27889-home_default/taiyou-no-tenshi-marlow-o-hanabatake-wa-dai-panic.jpg",
-    "Developer" : "",
+    "Developer" : "Technos Japan",
     "JPN" : "May 27, 1994",
-    "Publisher" : "",
+    "Publisher" : "Technos Japan",
     "Title" : "Taiyou no Tenshi Marlow: O Hanabatake wa Dai-Panic"
   },
   {
@@ -7813,10 +7813,10 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21780-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21780-1.jpg",
-    "Developer" : "",
+    "Developer" : "Pony Canyon",
     "JPN" : "July 27, 1990",
     "NA" : "April 1991",
-    "Publisher" : "",
+    "Publisher" : "Pony Canyon",
     "Title" : "Tasmania Story"
   },
   {
@@ -7879,9 +7879,9 @@
   {
     "BGART" : "https://s.pacn.ws/1/p/PA.49580.001.jpg?v=iouxne",
     "BGART_SMALL" : "https://s.pacn.ws/1/p/PA.49580.001.jpg?v=iouxne",
-    "Developer" : "",
+    "Developer" : "Japan Clary Business",
     "JPN" : "July 30, 1993",
-    "Publisher" : "",
+    "Publisher" : "Japan Clary Business",
     "Title" : "Tekichuu Rush"
   },
   {
@@ -8061,17 +8061,17 @@
   {
     "BGART" : "https://www.retroplace.com/pics/gameboy/packshots/34546--tokio-senki-eiyuu-retsuden.png",
     "BGART_SMALL" : "https://www.retroplace.com/pics/gameboy/packshots/34546--tokio-senki-eiyuu-retsuden.png",
-    "Developer" : "",
+    "Developer" : "Human Entertainment",
     "JPN" : "January 10, 1992",
-    "Publisher" : "",
+    "Publisher" : "Human Entertainment",
     "Title" : "Tokio Senki: Eiyuu Retsuden"
   },
   {
     "BGART" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9idk.jpg",
     "BGART_SMALL" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9idk.jpg",
-    "Developer" : "",
+    "Developer" : "Vic Tokai",
     "JPN" : "December 22, 1994",
-    "Publisher" : "",
+    "Publisher" : "Vic Tokai",
     "Title" : "Tokoro's Mahjong Jr."
   },
   {
@@ -8140,18 +8140,18 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21790-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21790-1.jpg",
-    "Developer" : "",
+    "Developer" : "Malibu Games",
     "NA" : "February 1994",
     "PAL" : "1994",
-    "Publisher" : "",
+    "Publisher" : "Malibu Games",
     "Title" : "Total Carnage"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/114709-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/114709-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bandai",
     "JPN" : "September 22, 1994",
-    "Publisher" : "",
+    "Publisher" : "Bandai",
     "Title" : "Tottemo! Lucky Man: Lucky Cookie Minna Daisuki!!"
   },
   {
@@ -8230,33 +8230,33 @@
   {
     "BGART" : "https://cdn.mobygames.com/covers/17970394-trump-boy-game-boy-front-cover.png",
     "BGART_SMALL" : "https://cdn.mobygames.com/covers/17970394-trump-boy-game-boy-front-cover.png",
-    "Developer" : "",
+    "Developer" : "Pack-In-Video",
     "JPN" : "March 29, 1990",
-    "Publisher" : "",
+    "Publisher" : "Pack-In-Video",
     "Title" : "Trump Boy"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/7/7e/Trump_Boy_II_%28GB%29_%28JP%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250208231802&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/7/7e/Trump_Boy_II_%28GB%29_%28JP%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250208231802&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Pack-In-Video",
     "JPN" : "November 9, 1990",
-    "Publisher" : "",
+    "Publisher" : "Pack-In-Video",
     "Title" : "Trump Boy II"
   },
   {
     "BGART" : "https://i.ebayimg.com/images/g/sKUAAOSwfIBkLDpL/s-l1200.jpg",
     "BGART_SMALL" : "https://i.ebayimg.com/images/g/sKUAAOSwfIBkLDpL/s-l1200.jpg",
-    "Developer" : "",
+    "Developer" : "Bottom Up",
     "JPN" : "November 28, 1997",
-    "Publisher" : "",
+    "Publisher" : "Bottom Up",
     "Title" : "Trump Collection GB"
   },
   {
     "BGART" : "https://images.launchbox-app.com//27764bff-36f3-4513-a7f4-0eae43637248.jpg",
     "BGART_SMALL" : "https://images.launchbox-app.com//27764bff-36f3-4513-a7f4-0eae43637248.jpg",
-    "Developer" : "",
+    "Developer" : "Magical Company",
     "JPN" : "October 19, 1994",
-    "Publisher" : "",
+    "Publisher" : "Magical Company",
     "Title" : "Tsume Go Series 1: Fujisawa Hideyuki Meiyo Kisei"
   },
   {
@@ -8278,9 +8278,9 @@
   {
     "BGART" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9EL675BZhQIRAfffKmWCVzrsCl0VUlCS1A&s",
     "BGART_SMALL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9EL675BZhQIRAfffKmWCVzrsCl0VUlCS1A&s",
-    "Developer" : "",
+    "Developer" : "Magical Company",
     "JPN" : "October 19, 1994",
-    "Publisher" : "",
+    "Publisher" : "Magical Company",
     "Title" : "Tsume Shogi: Kanki Godan"
   },
   {
@@ -8339,9 +8339,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/60792-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/60792-1.jpg",
-    "Developer" : "",
+    "Developer" : "Athena",
     "JPN" : "January 31, 1992",
-    "Publisher" : "",
+    "Publisher" : "Athena",
     "Title" : "Twin"
   },
   {
@@ -8355,9 +8355,9 @@
   {
     "BGART" : "https://www.jnlgame.com/cdn/shop/files/296607_front.jpg?v=1702488081&width=5760",
     "BGART_SMALL" : "https://www.jnlgame.com/cdn/shop/files/296607_front.jpg?v=1702488081&width=5760",
-    "Developer" : "",
+    "Developer" : "Bec",
     "JPN" : "July 17, 1992",
-    "Publisher" : "",
+    "Publisher" : "Bec",
     "Title" : "Uchuu Senkan Yamato"
   },
   {
@@ -8391,25 +8391,25 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/117166-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/117166-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bec",
     "JPN" : "December 29, 1991",
-    "Publisher" : "",
+    "Publisher" : "Bec",
     "Title" : "Ultraman"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/35366-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/35366-1.jpg",
-    "Developer" : "",
+    "Developer" : "Bec",
     "JPN" : "December 22, 1994",
-    "Publisher" : "",
+    "Publisher" : "Bec",
     "Title" : "Ultraman Ball"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/42722-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/42722-1.jpg",
-    "Developer" : "",
+    "Developer" : "Angel",
     "JPN" : "August 26, 1994",
-    "Publisher" : "",
+    "Publisher" : "Angel",
     "Title" : "Ultraman Chou Toushi Gekiden"
   },
   {
@@ -8431,9 +8431,9 @@
   {
     "BGART" : "https://upload.wikimedia.org/wikipedia/en/9/90/UndercoverCopsHakaishinGarumaa_frontcover.png",
     "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/9/90/UndercoverCopsHakaishinGarumaa_frontcover.png",
-    "Developer" : "",
+    "Developer" : "Irem",
     "JPN" : "December 10, 1993",
-    "Publisher" : "",
+    "Publisher" : "Irem",
     "Title" : "Undercover Cops Gaiden: Hakaishin Garumaa"
   },
   {
@@ -8456,9 +8456,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/95180-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/95180-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "November 26, 1993",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "Uno: Small World"
   },
   {
@@ -8489,17 +8489,17 @@
   {
     "BGART" : "https://lh5.googleusercontent.com/proxy/OcBY1_M7ir62mqbNDLWzhDFLpWHjyALdmnxYPZ8Dp_BA6xwqVBlYiOnPgdwDeWPf4tPqyv6pS8E08CAlU5umy3Rq-e8kBkskMVkNaklPrk0WnvSWgs5cN8CaaJPDZ7K123559zMjGcz-ng",
     "BGART_SMALL" : "https://lh5.googleusercontent.com/proxy/OcBY1_M7ir62mqbNDLWzhDFLpWHjyALdmnxYPZ8Dp_BA6xwqVBlYiOnPgdwDeWPf4tPqyv6pS8E08CAlU5umy3Rq-e8kBkskMVkNaklPrk0WnvSWgs5cN8CaaJPDZ7K123559zMjGcz-ng",
-    "Developer" : "",
+    "Developer" : "Jaleco",
     "JPN" : "July 26, 1991",
-    "Publisher" : "",
+    "Publisher" : "Jaleco",
     "Title" : "Vanishing Racer"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54983-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54983-1.jpg",
-    "Developer" : "",
+    "Developer" : "IGS",
     "JPN" : "July 12, 1991",
-    "Publisher" : "",
+    "Publisher" : "IGS",
     "Title" : "Vattle Giuce"
   },
   {
@@ -8514,17 +8514,17 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/71719-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/71719-1.jpg",
-    "Developer" : "",
+    "Developer" : "Banpresto",
     "JPN" : "August 7, 1992",
-    "Publisher" : "",
+    "Publisher" : "Banpresto",
     "Title" : "Versus Hero: Kakutou Ou e no Michi"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/26077-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/26077-1.jpg",
-    "Developer" : "",
+    "Developer" : "Toei Animation",
     "JPN" : "June 29, 1990",
-    "Publisher" : "",
+    "Publisher" : "Toei Animation",
     "Title" : "Volley Fire"
   },
   {
@@ -8761,9 +8761,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/54985-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/54985-1.jpg",
-    "Developer" : "",
+    "Developer" : "Athena",
     "JPN" : "April 12, 1991",
-    "Publisher" : "",
+    "Publisher" : "Athena",
     "Title" : "World Ice Hockey"
   },
   {
@@ -8928,25 +8928,25 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52985-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/52985-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "December 10, 1993",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "Yū Yū Hakusho Dai-Ni-Dan: Ankoku Bujutsu Kai Hen"
   },
   {
     "BGART" : "https://static.wikia.nocookie.net/nintendo/images/e/ef/Yu_Yu_Hakusho_Dai-San-Dan_Makai_no_Tobira_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210182711&path-prefix=en",
     "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/e/ef/Yu_Yu_Hakusho_Dai-San-Dan_Makai_no_Tobira_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250210182711&path-prefix=en",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "June 3, 1994",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "Yū Yū Hakusho Dai-San-Dan: Makai no Tobira"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/52987-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/52987-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "December 9, 1994",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "Yū Yū Hakusho Dai-Yon-Dan: Makai Tōitsu Hen"
   },
   {
@@ -8993,9 +8993,9 @@
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/42723-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/42723-1.jpg",
-    "Developer" : "",
+    "Developer" : "Tomy",
     "JPN" : "December 28, 1991",
-    "Publisher" : "",
+    "Publisher" : "Tomy",
     "Title" : "Zettai Muteki Raijin-Oh"
   },
   {
