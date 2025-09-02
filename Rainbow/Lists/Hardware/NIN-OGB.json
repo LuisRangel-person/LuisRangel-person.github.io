@@ -424,7 +424,7 @@
     "Manufacturer": "Nintendo",
     "ReleaseDate": 1989,
     "BGColor": "#ade8a0FF",
-    "TitleColor": "#c3ff4fFF",
+    "TitleColor": "#FFFFFFFF",
     "SubTextColor": "#625752FF",
     "dualToneColor": "#000000FF",
     "SubText": "Game Boy Pocket",
