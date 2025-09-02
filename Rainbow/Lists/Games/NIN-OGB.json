@@ -1888,8 +1888,8 @@
     "Title" : "Doraemon no Study Boy 3: Ku Ku Master"
   },
   {
-    "BGART" : "https://static.wikia.nocookie.net/nintendo/images/a/ac/Doraemon_no_Study_Boy_4_Shō_ni_Kokugo_Kanji_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250211022443&path-prefix=en",
-    "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/a/ac/Doraemon_no_Study_Boy_4_Shō_ni_Kokugo_Kanji_%28GB%29_%28JP%29.jpg/revision/latest?cb=20250211022443&path-prefix=en",
+    "BGART" : "https://static.wikia.nocookie.net/nintendo/images/a/ac/Doraemon_no_Study_Boy_4_Shō_ni_Kokugo_Kanji_%28GB%29_%28JP%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250211022443&path-prefix=en",
+    "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/a/ac/Doraemon_no_Study_Boy_4_Shō_ni_Kokugo_Kanji_%28GB%29_%28JP%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250211022443&path-prefix=en",
     "Developer" : "Epoch",
     "JPN" : "1997",
     "Publisher" : "Epoch",
@@ -3416,8 +3416,8 @@
     "Title" : "Jimmy Connors Tennis"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/101894-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/101894-1.jpg",
+    "BGART" : "https://static.wikia.nocookie.net/nintendo/images/8/8c/Jinsei_Game_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230222040446&path-prefix=en",
+    "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/8/8c/Jinsei_Game_%28GB%29_%28JP%29.jpg/revision/latest?cb=20230222040446&path-prefix=en",
     "Developer" : "Takara",
     "JPN" : "June 23, 1995",
     "Publisher" : "Takara",
@@ -5510,7 +5510,7 @@
   },
   {
     "BGART" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9hsh.jpg",
-    "BGART_SMALL" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9hsh.jpgs",
+    "BGART_SMALL" : "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9hsh.jpg",
     "Developer" : "Starfish",
     "JPN" : "September 26, 1997",
     "Publisher" : "Starfish",
