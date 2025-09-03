@@ -1,0 +1,42 @@
+[
+  {
+    "BGART" : "https://www.pcengine.co.uk/HiRes/1941-Counter-Attack-Box-Front.jpg",
+    "BGART_SMALL" : "https://www.pcengine.co.uk/HiRes/1941-Counter-Attack-Box-Front.jpg",
+    "Developer" : "Capcom",
+    "JPN" : "1989",
+    "Publisher" : "NEC",
+    "Title" : "1941: Counter Attack"
+  },
+  {
+    "BGART" : "https://upload.wikimedia.org/wikipedia/en/1/10/PC_Engine_SuperGrafx_Aldynes_cover_art.jpg",
+    "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/1/10/PC_Engine_SuperGrafx_Aldynes_cover_art.jpg",
+    "Developer" : "Produce!",
+    "JPN" : "1989",
+    "Publisher" : "NEC",
+    "Title" : "Aldynes"
+  },
+  {
+    "BGART" : "https://www.pcengine.co.uk/HiRes/Battle-Ace-Box-Front.jpg",
+    "BGART_SMALL" : "https://www.pcengine.co.uk/HiRes/Battle-Ace-Box-Front.jpg",
+    "Developer" : "Hudson Soft",
+    "JPN" : "1989",
+    "Publisher" : "NEC",
+    "Title" : "Battle Ace"
+  },
+  {
+    "BGART" : "https://archive.org/download/DaimakaimuraSuperGrafxHiResScans/Daimakaimura%20-%20Box%20Front.jpg",
+    "BGART_SMALL" : "https://archive.org/download/DaimakaimuraSuperGrafxHiResScans/Daimakaimura%20-%20Box%20Front.jpg",
+    "Developer" : "Capcom",
+    "JPN" : "1989",
+    "Publisher" : "NEC",
+    "Title" : "Daimakaimura"
+  },
+  {
+    "BGART" : "https://cdn.mobygames.com/covers/6794342-mado-king-granzort-supergrafx-front-cover.jpg",
+    "BGART_SMALL" : "https://cdn.mobygames.com/covers/6794342-mado-king-granzort-supergrafx-front-cover.jpg",
+    "Developer" : "Hudson Soft",
+    "JPN" : "1989",
+    "Publisher" : "NEC",
+    "Title" : "Madö King Granzört"
+  }
+]
