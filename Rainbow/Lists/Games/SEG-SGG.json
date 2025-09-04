@@ -1339,8 +1339,8 @@
     "Title" : "Last Action Hero"
   },
   {
-    "BGART" : "REVIEW",
-    "BGART_SMALL" : "REVIEW",
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21320-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/21320-1.jpg",
     "Developer" : "Aspect",
     "JPN" : "January 13, 1995",
     "NA" : "January 1995",
@@ -1648,8 +1648,8 @@
     "Title" : "Ms. Pac-Man"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/27398-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/27398-1.jpg",
+    "BGART" : "https://storage.googleapis.com/images.pricecharting.com/accd723eccb8967b4d3941bfc860733d25a5cbb10857c2ae41eaa4c82e18f32c/1600.jpg",
+    "BGART_SMALL" : "https://storage.googleapis.com/images.pricecharting.com/accd723eccb8967b4d3941bfc860733d25a5cbb10857c2ae41eaa4c82e18f32c/1600.jpg",
     "Developer" : "Compile",
     "JPN" : "July 23, 1993",
     "Publisher" : "Sega",
@@ -1664,8 +1664,8 @@
     "Title" : "Nazo Puyo 2"
   },
   {
-    "BGART" : "REVIEW",
-    "BGART_SMALL" : "REVIEW",
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/27398-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/27398-1.jpg",
     "Developer" : "Compile",
     "JPN" : "July 29, 1994",
     "Publisher" : "Sega",
