@@ -110,5 +110,19 @@
     "Extra": "RARE",
     "BGEffect": "None",
     "Logo": "Deleted Reddit User|https://preview.redd.it/xukcxs7411q61.jpg?width=1080&crop=smart&auto=webp&s=5a0defc3be3f324fc35fcc1625c785f98750d713"
+  },
+  {
+    "Title": "Majesco",
+    "Manufacturer": "Majesco",
+    "ReleaseDate": 1990,
+    "BGColor": "#394954FF",
+    "TitleColor": "#fefbeeFF",
+    "SubTextColor": "#fefbeeFF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Game Gear",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "robmeason(Reddit)|https://preview.redd.it/anyone-buy-a-majesco-when-they-were-new-hard-to-believe-v0-4rro6xsg25ba1.jpg?width=1080&crop=smart&auto=webp&s=99f9f0c37ebf4496055f76058c7d71c7d0fcf105"
   }
 ]
