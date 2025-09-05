@@ -1,0 +1,938 @@
+[
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1485-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1485-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 23, 1993",
+    "Publisher" : "SNK",
+    "Title" : "3 Count Bout"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/743-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/743-1.jpg",
+    "Developer" : "Video System",
+    "JPN" : "August 26, 1994",
+    "Publisher" : "SNK",
+    "Title" : "Aero Fighters 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/742-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/742-1.jpg",
+    "Developer" : "Video System",
+    "JPN" : "November 17, 1995",
+    "Publisher" : "SNK, Video System",
+    "Title" : "Aero Fighters 3"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1487-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1487-1.jpg",
+    "Developer" : "ADK",
+    "JPN" : "August 26, 1994",
+    "Publisher" : "SNK, ADK",
+    "Title" : "Aggressors of Dark Kombat"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10036-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10036-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Alpha Mission II"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/6464-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/6464-1.jpg",
+    "Developer" : "Visco",
+    "JPN" : "July 17, 1992",
+    "Publisher" : "SNK, Visco",
+    "Title" : "Andro Dunos"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18829-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18829-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 11, 1992",
+    "Publisher" : "SNK",
+    "Title" : "Art of Fighting"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1334-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1334-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "March 11, 1994",
+    "Publisher" : "SNK",
+    "Title" : "Art of Fighting 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/6465-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/6465-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 26, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Art of Fighting 3: The Path of the Warrior"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18953-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18953-1.jpg",
+    "Developer" : "Monolith",
+    "JPN" : "December 20, 1991",
+    "Publisher" : "Monolith",
+    "Title" : "Bakatono-sama Mahjong Manyūki"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1488-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1488-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 28, 1992",
+    "Publisher" : "SNK",
+    "Title" : "Baseball Stars 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1489-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1489-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Baseball Stars Professional"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/6468-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/6468-1.jpg",
+    "Developer" : "Yumekobo",
+    "JPN" : "February 26, 1998",
+    "Publisher" : "SNK, Yumekobo",
+    "Title" : "Blazing Star"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10050-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10050-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "Blue's Journey"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/6469-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/6469-1.jpg",
+    "Developer" : "Visco",
+    "JPN" : "March 21, 1997",
+    "Publisher" : "SNK, Visco",
+    "Title" : "Breakers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1335-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1335-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "August 9, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Burning Fight"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18954-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18954-1.jpg",
+    "Developer" : "Be Top",
+    "JPN" : "January 26, 1996",
+    "Publisher" : "SNK, Takara",
+    "Title" : "Chibi Maruko-chan: Maruko Deluxe Quiz"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/6471-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/6471-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "October 1, 1991",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "Crossed Swords"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/6472-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/6472-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Cyber-Lip"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18532-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18532-1.jpg",
+    "Developer" : "Technōs Japan",
+    "JPN" : "March 31, 1995",
+    "Publisher" : "SNK, Technōs Japan",
+    "Title" : "Double Dragon"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/50770-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/50770-1.jpg",
+    "Developer" : "Pallas, SNK",
+    "JPN" : "November 20, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Eight Man"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/122316-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/122316-1.jpg",
+    "Developer" : "Racjin, Red Entertainment",
+    "JPN" : "July 28, 1995",
+    "Publisher" : "SNK, Hudson Soft",
+    "Title" : "Far East of Eden: Kabuki Klash"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2907-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2907-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 20, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Fatal Fury: King of Fighters"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2862-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2862-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "March 5, 1993",
+    "Publisher" : "SNK",
+    "Title" : "Fatal Fury 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1491-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1491-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 21, 1995",
+    "Publisher" : "SNK",
+    "Title" : "Fatal Fury 3: Road to the Final Victory"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/93387-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/93387-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 22, 1993",
+    "Publisher" : "SNK",
+    "Title" : "Fatal Fury Special"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10054-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10054-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "February 21, 1992",
+    "Publisher" : "SNK",
+    "Title" : "Football Frenzy"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10056-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10056-1.jpg",
+    "Developer" : "Sunsoft",
+    "JPN" : "February 25, 1995",
+    "Publisher" : "SNK, Sunsoft",
+    "Title" : "Galaxy Fight: Universal Warriors"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1336-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1336-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "February 25, 2000",
+    "Publisher" : "SNK",
+    "Title" : "Garou: Mark of the Wolves"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/976-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/976-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Ghost Pilots"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18534-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18534-1.jpg",
+    "Developer" : "Data East",
+    "JPN" : "April 28, 1994",
+    "Publisher" : "SNK, Data East",
+    "Title" : "Karnov's Revenge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8673-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8673-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "King of the Monsters"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10065-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10065-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "June 1, 1992",
+    "Publisher" : "SNK",
+    "Title" : "King of the Monsters 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8262-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8262-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "November 8, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Kizuna Encounter"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1494-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1494-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 24, 1992",
+    "Publisher" : "SNK",
+    "Title" : "Last Resort"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/2608-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2608-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "League Bowling"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10066-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10066-1.jpg",
+    "Developer" : "Wave",
+    "JPN" : "August 30, 1991",
+    "Publisher" : "SNK, Wave",
+    "Title" : "Legend of Success Joe"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/982-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/982-1.jpg",
+    "Developer" : "Data East",
+    "JPN" : "April 19, 1996",
+    "Publisher" : "SNK, Data East",
+    "Title" : "Magical Drop II"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/983-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/983-1.jpg",
+    "Developer" : "Data East",
+    "JPN" : "April 25, 1997",
+    "Publisher" : "SNK, Data East",
+    "Title" : "Magical Drop III"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1495-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1495-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "Magician Lord"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/51962-1.png",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/51962-1.png",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Mahjong-kyō Retsuden: Nishi Nihon Hen"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10067-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10067-1.jpg",
+    "Developer" : "Noise Factory",
+    "JPN" : "May 29, 2003",
+    "Publisher" : "Playmore, Sun Amusement",
+    "Title" : "Matrimelee"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/222-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/222-1.jpg",
+    "Developer" : "Nazca Corporation",
+    "JPN" : "May 24, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Metal Slug"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/223-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/223-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 2, 1998",
+    "Publisher" : "SNK",
+    "Title" : "Metal Slug 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/224-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/224-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "June 1, 2000",
+    "Publisher" : "SNK",
+    "Title" : "Metal Slug 3"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/225-2.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/225-2.jpg",
+    "Developer" : "MEGA, Noise Factory",
+    "JPN" : "June 13, 2002",
+    "Publisher" : "Playmore, Sun Amusement, BrezzaSoft",
+    "Title" : "Metal Slug 4"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/226-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/226-1.jpg",
+    "Developer" : "SNK Playmore",
+    "JPN" : "February 19, 2004",
+    "Publisher" : "SNK Playmore",
+    "Title" : "Metal Slug 5"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/973-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/973-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "May 27, 1999",
+    "Publisher" : "SNK",
+    "Title" : "Metal Slug X"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18956-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18956-1.jpg",
+    "Developer" : "Monolith",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK, Monolith",
+    "Title" : "Mina-san no Okage-sama Desu! Dai Sugoroku Taikai"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1496-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1496-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 17, 1992",
+    "Publisher" : "SNK",
+    "Title" : "Mutation Nation"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1338-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1338-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "NAM-1975"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8505-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8505-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 30, 1998",
+    "Publisher" : "SNK",
+    "Title" : "Neo Geo Cup '98: The Road to the Victory"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8674-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8674-1.jpg",
+    "Developer" : "Nazca Corporation",
+    "JPN" : "March 1, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Neo Turf Masters"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10450-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10450-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "Ninja Combat"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1497-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1497-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "May 29, 1992",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "Ninja Commando"
+  },
+  {
+    "BGART" : "https://upload.wikimedia.org/wikipedia/en/6/67/Ninja_Masters_Haou_Ninpou-ko.jpg",
+    "BGART_SMALL" : "https://upload.wikimedia.org/wikipedia/en/6/67/Ninja_Masters_Haou_Ninpou-ko.jpg",
+    "Developer" : "ADK, SNK",
+    "JPN" : "June 28, 1996",
+    "Publisher" : "SNK, ADK",
+    "Title" : "Ninja Master's: Haō Ninpō Chō"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10455-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10455-1.jpg",
+    "Developer" : "ADK",
+    "JPN" : "May 24, 1996",
+    "Publisher" : "SNK, ADK",
+    "Title" : "Over Top"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8675-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8675-1.jpg",
+    "Developer" : "Aicom",
+    "JPN" : "September 29, 1995",
+    "Publisher" : "SNK",
+    "Title" : "Pulstar"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10061-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10061-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Puzzled"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18957-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18957-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "August 30, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Quiz Daisōsasen: The Last Count Down"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18959-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18959-1.jpg",
+    "Developer" : "Saurus, SNK",
+    "JPN" : "March 10, 1995",
+    "Publisher" : "SNK, Saurus",
+    "Title" : "Quiz King of Fighters"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18958-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18958-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 24, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Quiz Meitantei Neo & Geo: Quiz Daisōsasen Part 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10468-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10468-1.jpg",
+    "Developer" : "Evoga Entertainment, Noise Factory",
+    "JPN" : "September 26, 2002",
+    "Publisher" : "Playmore, BrezzaSoft",
+    "Title" : "Rage of the Dragons"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10464-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10464-1.jpg",
+    "Developer" : "Saurus, System Vision",
+    "JPN" : "July 26, 1996",
+    "Publisher" : "SNK, Saurus",
+    "Title" : "Ragnagard"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10465-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10465-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "January 26, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Real Bout Fatal Fury"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10466-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10466-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 29, 1998",
+    "Publisher" : "SNK",
+    "Title" : "Real Bout Fatal Fury 2: The Newcomers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10467-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10467-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "February 28, 1997",
+    "Publisher" : "SNK",
+    "Title" : "Real Bout Fatal Fury Special"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8676-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8676-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Riding Hero"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1500-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1500-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 20, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Robo Army"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/744-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/744-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "August 11, 1993",
+    "Publisher" : "SNK",
+    "Title" : "Samurai Shodown"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/984-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/984-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 2, 1994",
+    "Publisher" : "SNK",
+    "Title" : "Samurai Shodown II"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1504-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1504-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 1, 1995",
+    "Publisher" : "SNK",
+    "Title" : "Samurai Shodown III: Blades of Blood"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/985-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/985-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "November 29, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Samurai Shodown IV: Amakusa's Revenge"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10470-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10470-1.jpg",
+    "Developer" : "Yuki Enterprise",
+    "JPN" : "December 11, 2003",
+    "Publisher" : "SNK Playmore",
+    "Title" : "Samurai Shodown V"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8267-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8267-1.jpg",
+    "Developer" : "Yuki Enterprise",
+    "JPN" : "July 15, 2004",
+    "Publisher" : "SNK Playmore",
+    "Title" : "Samurai Shodown V Special"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1339-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1339-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "May 26, 1995",
+    "Publisher" : "SNK",
+    "Title" : "Savage Reign"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8677-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8677-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Sengoku"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8678-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8678-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 9, 1993",
+    "Publisher" : "SNK",
+    "Title" : "Sengoku 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10472-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10472-1.jpg",
+    "Developer" : "Noise Factory",
+    "JPN" : "October 25, 2001",
+    "Publisher" : "SNK",
+    "Title" : "Sengoku 3"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10473-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10473-1.jpg",
+    "Developer" : "Saurus",
+    "JPN" : "June 24, 1999",
+    "Publisher" : "SNK",
+    "Title" : "Shock Troopers: 2nd Squad"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18960-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18960-1.jpg",
+    "Developer" : "ADK, SNK",
+    "JPN" : "October 13, 1995",
+    "Publisher" : "SNK, ADK",
+    "Title" : "Shōgi no Tatsujin: Master of Syougi"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10482-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10482-1.jpg",
+    "Developer" : "SNK Playmore",
+    "JPN" : "November 13, 2003",
+    "Publisher" : "SNK Playmore",
+    "Title" : "SNK vs. Capcom: SVC Chaos"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10474-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10474-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "March 13, 1992",
+    "Publisher" : "SNK",
+    "Title" : "Soccer Brawl"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10475-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10475-1.jpg",
+    "Developer" : "Data East",
+    "JPN" : "February 18, 1994",
+    "Publisher" : "SNK, Data East",
+    "Title" : "Spinmaster"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10479-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10479-1.jpg",
+    "Developer" : "Saurus",
+    "JPN" : "October 27, 1995",
+    "Publisher" : "SNK, Saurus",
+    "Title" : "Stakes Winner"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10480-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10480-1.jpg",
+    "Developer" : "Saurus",
+    "JPN" : "December 13, 1996",
+    "Publisher" : "SNK",
+    "Title" : "Stakes Winner 2"
+  },
+  {
+    "BGART" : "https://images.launchbox-app.com/f03d6d6d-7dae-470c-8d1c-875596671d44.png",
+    "BGART_SMALL" : "https://images.launchbox-app.com/f03d6d6d-7dae-470c-8d1c-875596671d44.png",
+    "Developer" : "Data East",
+    "JPN" : "December 9, 1994",
+    "Publisher" : "SNK, Data East",
+    "Title" : "Street Slam"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1486-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1486-1.jpg",
+    "Developer" : "Pallas, SNK",
+    "JPN" : "October 25, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Super Baseball 2020"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10476-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10476-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "February 19, 1993",
+    "Publisher" : "SNK",
+    "Title" : "Super Sidekicks"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10477-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10477-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "May 27, 1994",
+    "Publisher" : "SNK",
+    "Title" : "Super Sidekicks 2: The World Championship"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/8681-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/8681-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "April 7, 1995",
+    "Publisher" : "SNK",
+    "Title" : "Super Sidekicks 3: The Next Glory"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/977-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/977-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "October 1, 1994",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters '94"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/978-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/978-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "September 1, 1995",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters '95"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/979-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/979-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "September 27, 1996",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters '96"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/980-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/980-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "September 25, 1997",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters '97"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/18533-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/18533-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "September 23, 1998",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters '98: The Slugfest"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/981-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/981-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "September 23, 1999",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters '99: Millennium Battle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10062-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10062-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 21, 2000",
+    "Publisher" : "SNK",
+    "Title" : "The King of Fighters 2000"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10063-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10063-1.jpg",
+    "Developer" : "Eolith, BrezzaSoft",
+    "JPN" : "March 14, 2002",
+    "Publisher" : "Playmore, Sun Amusement",
+    "Title" : "The King of Fighters 2001"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10064-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10064-1.jpg",
+    "Developer" : "Eolith, Playmore",
+    "JPN" : "December 19, 2002",
+    "Publisher" : "Playmore, Eolith",
+    "Title" : "The King of Fighters 2002: Challenge to Ultimate Battle"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10064-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10064-1.jpg",
+    "Developer" : "SNK NeoGeo",
+    "JPN" : "March 18, 2004",
+    "Publisher" : "SNK Playmore",
+    "Title" : "The King of Fighters 2003"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1508-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1508-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "January 29, 1998",
+    "Publisher" : "SNK",
+    "Title" : "The Last Blade"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1510-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1510-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "January 28, 1999",
+    "Publisher" : "SNK",
+    "Title" : "The Last Blade 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10481-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10481-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "The Super Spy"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10478-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10478-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "December 20, 1996",
+    "Publisher" : "SNK",
+    "Title" : "The Ultimate 11: SNK Football Championship"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1340-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1340-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "December 20, 1991",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "Thrash Rally"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10483-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10483-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "June 24, 1994",
+    "Publisher" : "SNK",
+    "Title" : "Top Hunter: Roddy & Cathy"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10484-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10484-1.jpg",
+    "Developer" : "SNK",
+    "JPN" : "July 1, 1991",
+    "Publisher" : "SNK",
+    "Title" : "Top Player's Golf"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/107627-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/107627-1.jpg",
+    "Developer" : "ADK",
+    "JPN" : "January 31, 1997",
+    "Publisher" : "SNK, ADK",
+    "Title" : "Twinkle Star Sprites"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1513-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1513-1.jpg",
+    "Developer" : "Aicom, Sammy",
+    "JPN" : "December 11, 1992",
+    "Publisher" : "SNK, Sammy",
+    "Title" : "Viewpoint"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1514-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1514-1.jpg",
+    "Developer" : "Technōs Japan",
+    "JPN" : "October 20, 1995",
+    "Publisher" : "SNK, Technōs Japan",
+    "Title" : "Voltage Fighter Gowcaizer"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10486-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10486-1.jpg",
+    "Developer" : "Sunsoft",
+    "JPN" : "December 27, 1996",
+    "Publisher" : "SNK, Sunsoft",
+    "Title" : "Waku Waku 7"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/1516-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/1516-1.jpg",
+    "Developer" : "Data East",
+    "JPN" : "April 8, 1994",
+    "Publisher" : "SNK, Data East",
+    "Title" : "Windjammers"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/988-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/988-1.jpg",
+    "Developer" : "Alpha Denshi",
+    "JPN" : "September 11, 1992",
+    "Publisher" : "SNK, Alpha Denshi",
+    "Title" : "World Heroes"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/989-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/989-1.jpg",
+    "Developer" : "ADK",
+    "JPN" : "June 4, 1993",
+    "Publisher" : "SNK, ADK",
+    "Title" : "World Heroes 2"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/10487-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/10487-1.jpg",
+    "Developer" : "ADK",
+    "JPN" : "June 10, 1994",
+    "Publisher" : "SNK, ADK",
+    "Title" : "World Heroes 2 Jet"
+  },
+  {
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/990-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/990-1.jpg",
+    "Developer" : "ADK",
+    "JPN" : "June 30, 1995",
+    "Publisher" : "SNK, ADK",
+    "Title" : "World Heroes Perfect"
+  }
+]
