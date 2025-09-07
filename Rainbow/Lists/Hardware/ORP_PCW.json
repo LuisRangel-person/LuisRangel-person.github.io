@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "Business Grey",
+    "Manufacturer": "Benesse",
+    "ReleaseDate": 1990,
+    "BGColor": "#949bb6FF",
+    "TitleColor": "#c7d0ceFF",
+    "SubTextColor": "#f9ca02FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "cnpoint(eBay)|https://i.ebayimg.com/images/g/yKEAAOSw0AhkGb~Z/s-l1600.jpg"
+  },
+  {
+    "Title": "Lime Green",
+    "Manufacturer": "Benesse",
+    "ReleaseDate": 1990,
+    "BGColor": "#92d93fFF",
+    "TitleColor": "#d9e1e7FF",
+    "SubTextColor": "#d9e1e7FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "Video Games Museum|https://www.video-games-museum.com/screenshots/Pocket Challenge W/system.jpg"
+  },
+  {
+    "Title": "Berry Blue",
+    "Manufacturer": "Benesse",
+    "ReleaseDate": 1990,
+    "BGColor": "#0466acFF",
+    "TitleColor": "#efe2eaFF",
+    "SubTextColor": "#efe2eaFF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "Yahoo Auctions|https://cdnyauction.buyee.jp/images.auctions.yahoo.co.jp/image/dr000/auc0104/users/f4b72ec92cdb0e52c9e8521e7b1da81374f729cc/i-img900x1200-17452151755dgt9p25.jpg"
+  },
+  {
+    "Title": "Cherry Red",
+    "Manufacturer": "Benesse",
+    "ReleaseDate": 1990,
+    "BGColor": "#f02a34FF",
+    "TitleColor": "#efe2eaFF",
+    "SubTextColor": "#efe2eaFF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "RARE",
+    "BGEffect": "Trans",
+    "Logo": "The Retro Future(YouTube)|https://github.com/LuisRangel-person/LuisRangel-person.github.io/blob/main/Rainbow/Lists/Image/ORP-PCW_Red.jpg?raw=true"
+  }
+]
