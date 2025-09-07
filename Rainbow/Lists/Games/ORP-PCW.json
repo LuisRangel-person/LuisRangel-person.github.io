@@ -3,176 +3,152 @@
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo"
+    "Title" : "頻出英単語"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku"
-  },
-  {
-    "BGART" : "https://wiki.no-intro.org/images/f/fd/PCW_S21.png",
-    "BGART_SMALL" : "https://wiki.no-intro.org/images/f/fd/PCW_S21.png",
-    "Developer" : "Benesse",
-    "NA" : "1990",
-    "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo"
-  },
-  {
-    "BGART" : "https://wiki.no-intro.org/images/0/07/S32.png",
-    "BGART_SMALL" : "https://wiki.no-intro.org/images/0/07/S32.png",
-    "Developer" : "Benesse",
-    "NA" : "1990",
-    "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo"
+    "Title" : "頻出英熟語"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack"
+    "Title" : "重要英語構文"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri"
+    "Title" : "重要古文攻略"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu"
+    "Title" : "頻出世界史攻略"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin"
+    "Title" : "頻出日本史攻略"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi"
+    "Title" : "中一英語"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Rika 1-bunya"
+    "Title" : "中二英語"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Rika 2-bunya"
-  },
-  {
-    "BGART" : "https://wiki.no-intro.org/images/3/36/PCW_SLP.png",
-    "BGART_SMALL" : "https://wiki.no-intro.org/images/3/36/PCW_SLP.png",
-    "Developer" : "Benesse",
-    "NA" : "1990",
-    "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack"
+    "Title" : "中三英語"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Hinshutsu Nihonshi Kouryaku"
+    "Title" : "中学理科(1分野)"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Hinshutsu Sekaishi Kouryaku"
+    "Title" : "中学理科(2分野)"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Jitsugi 4-kyouka"
+    "Title" : "中学理科パック"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Koukou Juken Ei - Sha - Ri"
+    "Title" : "中学歴史"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Chuugaku Kouza - Koukou Juken Koku - Suu"
+    "Title" : "中学地理"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eijukugo"
+    "Title" : "中学地理・歴史パック"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eitango"
+    "Title" : "中学公民"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Juuyou Eigo Koubun"
+    "Title" : "高校受験(国・数)"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Koukou Kouza - Hinshutsu Nihonshi Kouryaku"
+    "Title" : "高校受験(英・社・理)"
   },
   {
     "BGART" : "REVIEW",
     "BGART_SMALL" : "REVIEW",
     "Developer" : "Benesse",
-    "NA" : "1990",
+    "JPN" : "1990",
     "Publisher" : "Benesse",
-    "Title" : "Shinkenzemi Koukou Kouza - Hinshutsu Sekaishi Kouryaku"
+    "Title" : "実技4教科"
   }
 ]
