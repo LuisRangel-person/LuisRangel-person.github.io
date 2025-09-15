@@ -152,5 +152,19 @@
     "Extra": "",
     "BGEffect": "None",
     "Logo": "kintaro__oe(Reddit)|https://preview.redd.it/5ytd5w3flym01.jpg?width=1080&crop=smart&auto=webp&s=15b965a53922705c39ad7bca92ed2dc67d13590e"
+  },
+  {
+    "Title": "Copera",
+    "Manufacturer": "Yamaha",
+    "ReleaseDate": 1993,
+    "BGColor": "#3b4d9eFF",
+    "TitleColor": "#c2a4a5FF",
+    "SubTextColor": "#c2a4a5FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Copera",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "retrostuff.org|https://preview.redd.it/only-the-yamaha-copera-has-midi-ports-and-you-can-listen-to-v0-64opoo8tehte1.jpg?width=1080&crop=smart&auto=webp&s=110cd2cade9da0675781d287fb7771a0a5f28df8"
   }
 ]
