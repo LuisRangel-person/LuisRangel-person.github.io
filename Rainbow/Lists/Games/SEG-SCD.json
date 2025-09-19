@@ -13,6 +13,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/41470-1.jpg",
     "Developer" : "Telenet Japan",
     "Publisher" : "Telenet Japan",
+    "JPN" : "1993",
     "Title" : "A-Rank Thunder Tanjouhen"
   },
   {
@@ -38,6 +39,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34263-1.jpg",
     "Developer" : "Pandora Box",
     "Publisher" : "Pandora Box",
+    "JPN" : "1993",
     "Title" : "After Armageddon Gaiden: Majū Tōshōden Eclipse"
   },
   {
@@ -46,6 +48,7 @@
     "Developer" : "CRI",
     "NA" : "1993",
     "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "CRI",
     "Title" : "After Burner III"
   },
@@ -61,6 +64,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34265-1.jpg",
     "Developer" : "Right StuffCRC",
     "Publisher" : "Right StuffCRC",
+    "JPN" : "1993",
     "Title" : "Alshark"
   },
   {
@@ -77,15 +81,16 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4936-1.jpg",
     "Developer" : "Human Entertainment",
     "NA" : "October 1994",
-    "PAL" : "October 1994",
+    "JPN" : "1993",
     "Publisher" : "Human Entertainment",
-    "Title" : "Android Assault: The Revenge of Bari-ArmNA"
+    "Title" : "Android Assault: The Revenge of Bari-Arm"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/25432-1.png",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/25432-1.png",
     "Developer" : "Wolf Team",
     "Publisher" : "Wolf Team",
+    "JPN" : "1993",
     "Title" : "Anett Futatabi"
   },
   {
@@ -93,6 +98,7 @@
     "BGART_SMALL" : "https://bdjogos.com.br/capas/1746-genghis-khan-ii-clan-of-the-gray-wolf-sega-cd-capa-1.jpg",
     "Developer" : "Koei",
     "Publisher" : "Koei",
+    "JPN" : "1993",
     "Title" : "Aoki Ōkami to Shiroki Mejika: Genchō Hishi"
   },
   {
@@ -100,6 +106,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34266-1.jpg",
     "Developer" : "Wolf Team",
     "Publisher" : "Wolf Team",
+    "JPN" : "1993",
     "Title" : "Arcus I-II-III"
   },
   {
@@ -114,7 +121,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4937-1.jpg",
     "Developer" : "MicronetGenki",
     "NA" : "1994",
-    "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "MicronetGenki",
     "Title" : "A\/X-101"
   },
@@ -123,6 +130,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34320-1.jpg",
     "Developer" : "Kogado Software Products",
     "Publisher" : "Kogado Software Products",
+    "JPN" : "1993",
     "Title" : "Bakuden: Unbalance Zone"
   },
   {
@@ -140,6 +148,7 @@
     "Developer" : "Core Design",
     "NA" : "August 1994",
     "PAL" : "August 1994",
+    "JPN" : "1993",
     "Publisher" : "Core Design",
     "Title" : "Battlecorps"
   },
@@ -167,6 +176,7 @@
     "Developer" : "Micronet",
     "NA" : "October 15, 1992",
     "PAL" : "October 15, 1992",
+    "JPN" : "1993",
     "Publisher" : "Micronet",
     "Title" : "Black Hole Assault"
   },
@@ -175,6 +185,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31873-1.jpg",
     "Developer" : "Domark",
     "Publisher" : "Domark",
+    "JPN" : "1993",
     "Title" : "Bloodshot"
   },
   {
@@ -182,7 +193,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4943-1.jpg",
     "Developer" : "Dynamix",
     "NA" : "December 1994",
-    "PAL" : "December 1994",
     "Publisher" : "Dynamix",
     "Title" : "Bouncers"
   },
@@ -191,7 +201,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4944-1.jpg",
     "Developer" : "Psygnosis",
     "NA" : "November 1993",
-    "PAL" : "November 1993",
     "Publisher" : "Psygnosis",
     "Title" : "Bram Stoker's Dracula"
   },
@@ -209,6 +218,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34271-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Burai: Hachigyoku no Yūshi Densetsu"
   },
   {
@@ -216,7 +226,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4946-1.jpg",
     "Developer" : "Rocket Science Games",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Rocket Science Games",
     "Title" : "Cadillacs and Dinosaurs: The Second Cataclysm"
   },
@@ -225,6 +234,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34279-1.png",
     "Developer" : "SIMS",
     "Publisher" : "SIMS",
+    "JPN" : "1993",
     "Title" : "Capcom no Quiz Tonosama no Yabō"
   },
   {
@@ -232,6 +242,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34281-1.jpg",
     "Developer" : "Tecmo",
     "Publisher" : "Tecmo",
+    "JPN" : "1993",
     "Title" : "Captain Tsubasa"
   },
   {
@@ -257,7 +268,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4949-1.jpg",
     "Developer" : "Malibu Interactive",
     "NA" : "November 1993",
-    "PAL" : "November 1993",
     "Publisher" : "Malibu Interactive",
     "Title" : "Cliffhanger"
   },
@@ -267,8 +277,9 @@
     "Developer" : "Wolf Team",
     "NA" : "October 15, 1992",
     "PAL" : "October 15, 1992",
+    "JPN" : "1993",
     "Publisher" : "Wolf Team",
-    "Title" : "Cobra CommandWW"
+    "Title" : "Cobra Command"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4952-1.jpg",
@@ -277,13 +288,14 @@
     "NA" : "November 1994",
     "PAL" : "November 1994",
     "Publisher" : "Digital Pictures",
-    "Title" : "Corpse Killer †"
+    "Title" : "Corpse Killer"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34382-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34382-1.jpg",
     "Developer" : "Riot",
     "Publisher" : "Riot",
+    "JPN" : "1993",
     "Title" : "Cosmic Fantasy Stories"
   },
   {
@@ -291,7 +303,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4953-1.jpg",
     "Developer" : "American Laser Games",
     "NA" : "October 1994",
-    "PAL" : "October 1994",
     "Publisher" : "American Laser Games",
     "Title" : "Crime Patrol"
   },
@@ -300,6 +311,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34371-1.jpg",
     "Developer" : "Telenet Japan",
     "Publisher" : "Telenet Japan",
+    "JPN" : "1993",
     "Title" : "Cyborg 009"
   },
   {
@@ -307,6 +319,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34282-1.jpg",
     "Developer" : "Flashback",
     "Publisher" : "Flashback",
+    "JPN" : "1993",
     "Title" : "Daihoushinden"
   },
   {
@@ -314,7 +327,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4954-1.jpg",
     "Developer" : "Sega",
     "NA" : "1994",
-    "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "Sega",
     "Title" : "Dark Wizard"
   },
@@ -323,6 +336,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34374-1.jpg",
     "Developer" : "Riot",
     "Publisher" : "Riot",
+    "JPN" : "1993",
     "Title" : "Death Bringer"
   },
   {
@@ -330,7 +344,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/4955-1.jpg",
     "Developer" : "Alexandria",
     "NA" : "November 15, 1995",
-    "PAL" : "November 15, 1995",
     "Publisher" : "Alexandria",
     "Title" : "Demolition Man"
   },
@@ -339,6 +352,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34284-1.jpg",
     "Developer" : "Hot-B",
     "Publisher" : "Hot-B",
+    "JPN" : "1993",
     "Title" : "Detonator Orgun"
   },
   {
@@ -346,6 +360,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/36016-1.jpg",
     "Developer" : "Wolf Team",
     "Publisher" : "Wolf Team",
+    "JPN" : "1993",
     "Title" : "Devastator"
   },
   {
@@ -354,6 +369,7 @@
     "Developer" : "Digital Pictures",
     "NA" : "1993",
     "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "Digital Pictures",
     "Title" : "Double Switch"
   },
@@ -372,6 +388,7 @@
     "Developer" : "Epicenter Interactive",
     "NA" : "1993",
     "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "Epicenter Interactive",
     "Title" : "Dragon's Lair"
   },
@@ -399,6 +416,7 @@
     "Developer" : "FTL Games",
     "NA" : "September 1994",
     "PAL" : "September 1994",
+    "JPN" : "1993",
     "Publisher" : "FTL Games",
     "Title" : "Dungeon Master II: The Legend of Skullkeep"
   },
@@ -407,6 +425,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34357-1.jpg",
     "Developer" : "Sega AM3",
     "Publisher" : "Sega AM3",
+    "JPN" : "1993",
     "Title" : "Dynamic Country Club"
   },
   {
@@ -414,6 +433,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/25461-1.png",
     "Developer" : "Wolf Team",
     "Publisher" : "Wolf Team",
+    "JPN" : "1993",
     "Title" : "Earnest Evans"
   },
   {
@@ -431,6 +451,7 @@
     "Developer" : "Novotrade",
     "NA" : "1993",
     "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "Novotrade",
     "Title" : "Ecco the Dolphin"
   },
@@ -440,6 +461,7 @@
     "Developer" : "Novotrade",
     "NA" : "November 1994",
     "PAL" : "November 1994",
+    "JPN" : "1993",
     "Publisher" : "Novotrade",
     "Title" : "Ecco: The Tides of Time"
   },
@@ -448,6 +470,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34313-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Egawa Suguru no Super League CD"
   },
   {
@@ -455,7 +478,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5007-1.jpg",
     "Developer" : "Sony Imagesoft",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Sony Imagesoft",
     "Title" : "ESPN Baseball Tonight"
   },
@@ -464,7 +486,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5008-1.jpg",
     "Developer" : "Sony Imagesoft",
     "NA" : "November 1994",
-    "PAL" : "November 1994",
     "Publisher" : "Sony Imagesoft",
     "Title" : "ESPN National Hockey Night"
   },
@@ -473,7 +494,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31785-1.jpg",
     "Developer" : "Sony Imagesoft",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Sony Imagesoft",
     "Title" : "ESPN NBA Hangtime '95"
   },
@@ -482,7 +502,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5009-1.jpg",
     "Developer" : "Ringler Studios",
     "NA" : "November 1994",
-    "PAL" : "November 1994",
     "Publisher" : "Ringler Studios",
     "Title" : "ESPN Sunday Night NFL"
   },
@@ -501,6 +520,7 @@
     "Developer" : "Opera House",
     "NA" : "August 1994",
     "PAL" : "August 1994",
+    "JPN" : "1993",
     "Publisher" : "Opera House",
     "Title" : "Eye of the Beholder"
   },
@@ -509,6 +529,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34383-1.jpg",
     "Developer" : "Cream",
     "Publisher" : "Cream",
+    "JPN" : "1993",
     "Title" : "F1 Circus CD"
   },
   {
@@ -517,8 +538,9 @@
     "Developer" : "Sega",
     "NA" : "1995",
     "PAL" : "1995",
+    "JPN" : "1993",
     "Publisher" : "Sega",
-    "Title" : "Fahrenheit †"
+    "Title" : "Fahrenheit"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5014-1.jpg",
@@ -526,6 +548,7 @@
     "Developer" : "Funcom",
     "NA" : "1995",
     "PAL" : "1995",
+    "JPN" : "1993",
     "Publisher" : "Funcom",
     "Title" : "Fatal Fury Special"
   },
@@ -544,6 +567,7 @@
     "Developer" : "A Wave",
     "NA" : "April 1993",
     "PAL" : "April 1993",
+    "JPN" : "1993",
     "Publisher" : "A Wave",
     "Title" : "Final Fight CD"
   },
@@ -552,7 +576,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/443-1.png",
     "Developer" : "Delphine Software International",
     "NA" : "November 1994",
-    "PAL" : "November 1994",
     "Publisher" : "Delphine Software International",
     "Title" : "Flashback: The Quest for Identity"
   },
@@ -571,14 +594,16 @@
     "Developer" : "Sega",
     "NA" : "August 1994",
     "PAL" : "August 1994",
+    "JPN" : "1993",
     "Publisher" : "Sega",
-    "Title" : "Formula One World Championship: Beyond the LimitWW"
+    "Title" : "Formula One World Championship: Beyond the Limit"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34290-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34290-1.jpg",
     "Developer" : "Game Arts",
     "Publisher" : "Game Arts",
+    "JPN" : "1993",
     "Title" : "Gambler Jiko Chuushinha 2: Gekitou! Tokyo Mahjong Land Hen"
   },
   {
@@ -586,6 +611,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34379-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Game no Kanzume Vol. 1"
   },
   {
@@ -593,6 +619,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34376-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Game no Kanzume Vol. 2"
   },
   {
@@ -609,7 +636,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5019-1.png",
     "Developer" : "Interplay Productions",
     "NA" : "July 1994",
-    "PAL" : "July 1994",
     "Publisher" : "Interplay Productions",
     "Title" : "Heart of the Alien"
   },
@@ -618,6 +644,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34377-1.jpg",
     "Developer" : "Holocronet",
     "Publisher" : "Holocronet",
+    "JPN" : "1993",
     "Title" : "Heavy Nova"
   },
   {
@@ -626,6 +653,7 @@
     "Developer" : "The 8th Day",
     "NA" : "April 1994",
     "PAL" : "April 1994",
+    "JPN" : "1993",
     "Publisher" : "The 8th Day",
     "Title" : "Heimdall"
   },
@@ -643,6 +671,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34319-1.jpg",
     "Developer" : "Aisystem Tokyo",
     "Publisher" : "Aisystem Tokyo",
+    "JPN" : "1993",
     "Title" : "Illusion City (Genei Toshi)"
   },
   {
@@ -659,7 +688,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5021-1.jpg",
     "Developer" : "Drew Pictures",
     "NA" : "September 1994",
-    "PAL" : "September 1994",
     "Publisher" : "Drew Pictures",
     "Title" : "Iron Helix"
   },
@@ -668,6 +696,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34380-1.jpg",
     "Developer" : "G-Sat",
     "Publisher" : "G-Sat",
+    "JPN" : "1993",
     "Title" : "Ishii Hisaichi no Daiseikai"
   },
   {
@@ -676,6 +705,7 @@
     "Developer" : "Core Design",
     "NA" : "March 1993",
     "PAL" : "March 1993",
+    "JPN" : "1993",
     "Publisher" : "Core Design",
     "Title" : "Jaguar XJ220"
   },
@@ -684,6 +714,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/51693-1.jpg",
     "Developer" : "Victor Entertainment",
     "Publisher" : "Victor Entertainment",
+    "JPN" : "1993",
     "Title" : "Jango World Cup"
   },
   {
@@ -691,7 +722,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5022-1.jpg",
     "Developer" : "Absolute Entertainment",
     "NA" : "November 1993",
-    "PAL" : "November 1993",
     "Publisher" : "Absolute Entertainment",
     "Title" : "Jeopardy!"
   },
@@ -700,7 +730,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5023-1.jpg",
     "Developer" : "Malibu Interactive",
     "NA" : "October 1993",
-    "PAL" : "October 1993",
     "Publisher" : "Malibu Interactive",
     "Title" : "Joe Montana's NFL Football"
   },
@@ -710,6 +739,7 @@
     "Developer" : "Sega Multimedia Studio",
     "NA" : "1994",
     "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "Sega Multimedia Studio",
     "Title" : "Jurassic Park"
   },
@@ -719,6 +749,7 @@
     "Developer" : "Victor Entertainment",
     "NA" : "November 10, 1994",
     "PAL" : "November 10, 1994",
+    "JPN" : "1993",
     "Publisher" : "Victor Entertainment",
     "Title" : "Keio Flying Squadron"
   },
@@ -755,6 +786,7 @@
     "Developer" : "Konami",
     "NA" : "November 1993",
     "PAL" : "November 1993",
+    "JPN" : "1993",
     "Publisher" : "Konami",
     "Title" : "Lethal Enforcers"
   },
@@ -764,15 +796,15 @@
     "Developer" : "Konami",
     "NA" : "November 24, 1994",
     "PAL" : "November 24, 1994",
+    "JPN" : "1993",
     "Publisher" : "Konami",
-    "Title" : "Lethal Enforcers II: Gun FightersWW"
+    "Title" : "Lethal Enforcers II: Gun Fighters"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5050-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5050-1.jpg",
     "Developer" : "Papyrus Design Group",
     "NA" : "September 1994",
-    "PAL" : "September 1994",
     "Publisher" : "Papyrus Design Group",
     "Title" : "Links: The Challenge of Golf"
   },
@@ -781,7 +813,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5051-1.jpg",
     "Developer" : "Rocket Science Games",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Rocket Science Games",
     "Title" : "Loadstar: The Legend of Tully Bodine"
   },
@@ -799,7 +830,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5053-1.png",
     "Developer" : "Game ArtsStudio AlexWorking DesignsNA",
     "NA" : "September 1995",
-    "PAL" : "September 1995",
+    "JPN" : "1993",
     "Publisher" : "Game ArtsStudio AlexWorking DesignsNA",
     "Title" : "Lunar: Eternal Blue"
   },
@@ -808,7 +839,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5054-1.jpg",
     "Developer" : "Game ArtsStudio AlexWorking DesignsNA",
     "NA" : "December 1993",
-    "PAL" : "December 1993",
+    "JPN" : "1993",
     "Publisher" : "Game ArtsStudio AlexWorking DesignsNA",
     "Title" : "Lunar: The Silver Star"
   },
@@ -817,7 +848,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5056-1.jpg",
     "Developer" : "American Laser Games",
     "NA" : "1993",
-    "PAL" : "1993",
     "Publisher" : "American Laser Games",
     "Title" : "Mad Dog McCree"
   },
@@ -826,7 +856,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5055-1.jpg",
     "Developer" : "American Laser Games",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "American Laser Games",
     "Title" : "Mad Dog II: The Lost Gold"
   },
@@ -835,6 +864,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34291-1.jpg",
     "Developer" : "Riot",
     "Publisher" : "Riot",
+    "JPN" : "1993",
     "Title" : "Mahou no Shoujo: Silky Lip"
   },
   {
@@ -843,14 +873,16 @@
     "Developer" : "System Sacom",
     "NA" : "February 1994",
     "PAL" : "February 1994",
+    "JPN" : "1993",
     "Publisher" : "System Sacom",
-    "Title" : "Mansion of Hidden SoulsNA"
+    "Title" : "Mansion of Hidden Souls"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34292-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34292-1.jpg",
     "Developer" : "Domark",
     "Publisher" : "Domark",
+    "PAL" : "1993",
     "Title" : "Marko's Magic Football"
   },
   {
@@ -858,7 +890,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5059-1.jpg",
     "Developer" : "Digital Pictures",
     "NA" : "October 15, 1992",
-    "PAL" : "October 15, 1992",
     "Publisher" : "Digital Pictures",
     "Title" : "Marky Mark and the Funky Bunch: Make My Video"
   },
@@ -867,7 +898,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/15798-1.jpg",
     "Developer" : "Psygnosis",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Psygnosis",
     "Title" : "Mary Shelley's Frankenstein"
   },
@@ -876,16 +906,15 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5106-1.jpg",
     "Developer" : "Telenet Japan",
     "NA" : "1994",
-    "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "Telenet Japan",
-    "Title" : "The Masked Rider: Kamen Rider ZONA"
+    "Title" : "The Masked Rider: Kamen Rider ZO"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5061-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5061-1.jpg",
     "Developer" : "Cryo Interactive",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Cryo Interactive",
     "Title" : "MegaRace"
   },
@@ -894,6 +923,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34293-1.jpg",
     "Developer" : "Kogado Studio",
     "Publisher" : "Kogado Studio",
+    "JPN" : "1993",
     "Title" : "Mega Schwarzschild"
   },
   {
@@ -911,6 +941,7 @@
     "Developer" : "Psygnosis",
     "NA" : "December 22, 1993",
     "PAL" : "December 22, 1993",
+    "JPN" : "1993",
     "Publisher" : "Psygnosis",
     "Title" : "Microcosm"
   },
@@ -928,6 +959,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34294-1.jpg",
     "Developer" : "New World Computing",
     "Publisher" : "New World Computing",
+    "JPN" : "1993",
     "Title" : "Might and Magic III: Isles of Terra"
   },
   {
@@ -945,6 +977,7 @@
     "Developer" : "Probe Software",
     "NA" : "April 1994",
     "PAL" : "April 1994",
+    "JPN" : "1993",
     "Publisher" : "Probe Software",
     "Title" : "Mortal Kombat"
   },
@@ -953,7 +986,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5066-1.jpg",
     "Developer" : "WayForward",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "WayForward",
     "Title" : "My Paint: The Animated Paint Program"
   },
@@ -963,6 +995,7 @@
     "Developer" : "Iguana Entertainment",
     "NA" : "December 1994",
     "PAL" : "December 1994",
+    "JPN" : "1993",
     "Publisher" : "Iguana Entertainment",
     "Title" : "NBA Jam"
   },
@@ -971,7 +1004,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5068-1.jpg",
     "Developer" : "CapDisc",
     "NA" : "November 1994",
-    "PAL" : "November 1994",
     "Publisher" : "CapDisc",
     "Title" : "NFL Football Trivia Challenge"
   },
@@ -980,7 +1012,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5069-1.jpg",
     "Developer" : "Park Place Productions",
     "NA" : "October 1993",
-    "PAL" : "October 1993",
     "Publisher" : "Park Place Productions",
     "Title" : "NFL's Greatest: San Francisco vs. Dallas 1978-1993"
   },
@@ -998,6 +1029,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34378-1.jpg",
     "Developer" : "Aisystem Tokyo",
     "Publisher" : "Aisystem Tokyo",
+    "JPN" : "1993",
     "Title" : "Night Striker"
   },
   {
@@ -1006,14 +1038,16 @@
     "Developer" : "Digital Pictures",
     "NA" : "October 15, 1992",
     "PAL" : "October 15, 1992",
+    "JPN" : "1993",
     "Publisher" : "Digital Pictures",
-    "Title" : "Night Trap †"
+    "Title" : "Night Trap"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34318-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34318-1.jpg",
     "Developer" : "Aisystem Tokyo",
     "Publisher" : "Aisystem Tokyo",
+    "JPN" : "1993",
     "Title" : "The Ninja Warriors"
   },
   {
@@ -1028,6 +1062,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34300-1.jpg",
     "Developer" : "Takeru",
     "Publisher" : "Takeru",
+    "JPN" : "1993",
     "Title" : "Nostalgia 1907"
   },
   {
@@ -1044,9 +1079,9 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5073-1.jpg",
     "Developer" : "SegaOffice I",
     "NA" : "October 1994",
-    "PAL" : "October 1994",
+    "JPN" : "1993",
     "Publisher" : "SegaOffice I",
-    "Title" : "Panic!NA"
+    "Title" : "Panic!"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5075-1.png",
@@ -1062,7 +1097,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2646-1.jpg",
     "Developer" : "Sega FalcomWorking DesignsNA",
     "NA" : "February 23, 1995",
-    "PAL" : "February 23, 1995",
+    "JPN" : "1993",
     "Publisher" : "Sega FalcomWorking DesignsNA",
     "Title" : "Popful Mail"
   },
@@ -1090,6 +1125,7 @@
     "Developer" : "Bits Laboratory",
     "NA" : "1992",
     "PAL" : "1992",
+    "JPN" : "1993",
     "Publisher" : "Bits Laboratory",
     "Title" : "Prince of Persia"
   },
@@ -1099,6 +1135,7 @@
     "Developer" : "Digital Pictures",
     "NA" : "1993",
     "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "Digital Pictures",
     "Title" : "Prize Fighter"
   },
@@ -1107,6 +1144,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34312-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Pro Yakyū Super League CD"
   },
   {
@@ -1114,6 +1152,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34268-1.jpg",
     "Developer" : "DataWest",
     "Publisher" : "DataWest",
+    "JPN" : "1993",
     "Title" : "Psychic Detective Series Vol. 3: Aýa"
   },
   {
@@ -1121,6 +1160,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34269-1.jpg",
     "Developer" : "DataWest",
     "Publisher" : "DataWest",
+    "JPN" : "1993",
     "Title" : "Psychic Detective Series Vol. 4: Orgel"
   },
   {
@@ -1137,6 +1177,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34301-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Quiz Scramble Special"
   },
   {
@@ -1144,7 +1185,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/444-1.jpg",
     "Developer" : "Hammond & Leyland",
     "NA" : "1993",
-    "PAL" : "1993",
     "Publisher" : "Hammond & Leyland",
     "Title" : "Racing Aces"
   },
@@ -1153,7 +1193,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5081-1.jpg",
     "Developer" : "Beam Software",
     "NA" : "November 1994",
-    "PAL" : "November 1994",
     "Publisher" : "Beam Software",
     "Title" : "Radical Rex"
   },
@@ -1162,6 +1201,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/27806-1.jpg",
     "Developer" : "Klon",
     "Publisher" : "Klon",
+    "JPN" : "1993",
     "Title" : "Ranma ½: Byukuran Aika"
   },
   {
@@ -1169,7 +1209,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5082-1.jpg",
     "Developer" : "Absolute Entertainment",
     "NA" : "November 1994",
-    "PAL" : "November 1994",
     "Publisher" : "Absolute Entertainment",
     "Title" : "RDF Global Conflict"
   },
@@ -1178,6 +1217,7 @@
     "BGART_SMALL" : "https://static.wikia.nocookie.net/recordoflodosswar/images/7/7a/Record_of_Lodoss_War_%28Sega_CD%29_cover.jpg/revision/latest?cb=20211115181836",
     "Developer" : "Kogado Studio",
     "Publisher" : "Kogado Studio",
+    "JPN" : "1993",
     "Title" : "Record of Lodoss War"
   },
   {
@@ -1185,7 +1225,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5083-1.jpg",
     "Developer" : "Wolf Team",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Wolf Team",
     "Title" : "Revenge of the Ninja"
   },
@@ -1194,16 +1233,16 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5084-1.jpg",
     "Developer" : "Micronet",
     "NA" : "July 1994",
-    "PAL" : "July 1994",
+    "JPN" : "1993",
     "Publisher" : "Micronet",
-    "Title" : "Revengers of VengeanceNA"
+    "Title" : "Revengers of Vengeance"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5085-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5085-1.jpg",
     "Developer" : "Game Arts",
     "NA" : "1993",
-    "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "Game Arts",
     "Title" : "Rise of the Dragon"
   },
@@ -1213,15 +1252,15 @@
     "Developer" : "Wolf Team",
     "NA" : "March 1993",
     "PAL" : "March 1993",
+    "JPN" : "1993",
     "Publisher" : "Wolf Team",
-    "Title" : "Road AvengerWW"
+    "Title" : "Road Avenger"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5087-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5087-1.jpg",
     "Developer" : "Monkey Do ProductionsNew Level Software",
     "NA" : "March 1995",
-    "PAL" : "March 1995",
     "Publisher" : "Monkey Do ProductionsNew Level Software",
     "Title" : "Road Rash"
   },
@@ -1231,8 +1270,9 @@
     "Developer" : "Compile",
     "NA" : "August 1993",
     "PAL" : "August 1993",
+    "JPN" : "1993",
     "Publisher" : "Compile",
-    "Title" : "Robo AlesteWW"
+    "Title" : "Robo Aleste"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5088-1.jpg",
@@ -1257,6 +1297,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34303-1.jpg",
     "Developer" : "Koei",
     "Publisher" : "Koei",
+    "JPN" : "1993",
     "Title" : "Sangokushi III"
   },
   {
@@ -1264,7 +1305,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5089-1.jpg",
     "Developer" : "LucasArts",
     "NA" : "1993",
-    "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "LucasArts",
     "Title" : "The Secret of Monkey Island"
   },
@@ -1273,7 +1314,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/29399-1.png",
     "Developer" : "Sega",
     "NA" : "October 15, 1992",
-    "PAL" : "October 15, 1992",
+    "JPN" : "1993",
     "Publisher" : "Sega",
     "Title" : "Sega Classics Arcade Collection (4-in-1)"
   },
@@ -1291,6 +1332,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34262-1.jpg",
     "Developer" : "Sega",
     "Publisher" : "Sega",
+    "JPN" : "1993",
     "Title" : "Seima Densetsu 3×3 Eyes"
   },
   {
@@ -1298,6 +1340,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34289-1.jpg",
     "Developer" : "Wolf Team",
     "Publisher" : "Wolf Team",
+    "JPN" : "1993",
     "Title" : "Seireishin Seiki Fhey Area"
   },
   {
@@ -1305,6 +1348,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34305-1.jpg",
     "Developer" : "SNK",
     "Publisher" : "SNK",
+    "JPN" : "1993",
     "Title" : "Sengoku Denshou"
   },
   {
@@ -1314,7 +1358,7 @@
     "NA" : "September 1994",
     "PAL" : "September 1994",
     "Publisher" : "Psygnosis",
-    "Title" : "Sensible SoccerPAL"
+    "Title" : "Sensible Soccer"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/739-1.jpg",
@@ -1331,6 +1375,7 @@
     "Developer" : "Digital Developments",
     "NA" : "1994",
     "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "Digital Developments",
     "Title" : "Shadow of the Beast II"
   },
@@ -1339,6 +1384,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/23755-1.jpg",
     "Developer" : "Compile",
     "Publisher" : "Compile",
+    "JPN" : "1993",
     "Title" : "Shadowrun"
   },
   {
@@ -1364,6 +1410,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34310-1.jpg",
     "Developer" : "SIMS",
     "Publisher" : "SIMS",
+    "JPN" : "1993",
     "Title" : "Shin Megami Tensei"
   },
   {
@@ -1372,6 +1419,7 @@
     "Developer" : "Sonic! Software Planning",
     "NA" : "March 1995",
     "PAL" : "March 1995",
+    "JPN" : "1993",
     "Publisher" : "Sonic! Software Planning",
     "Title" : "Shining Force CD"
   },
@@ -1380,7 +1428,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5093-1.jpg",
     "Developer" : "Game Arts",
     "NA" : "October 1993",
-    "PAL" : "October 1993",
+    "PAL" : "October 1993","JPN" : "1993",
     "Publisher" : "Game Arts",
     "Title" : "Silpheed"
   },
@@ -1389,6 +1437,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34308-1.jpg",
     "Developer" : "Game Arts",
     "Publisher" : "Game Arts",
+    "JPN" : "1993",
     "Title" : "SimEarth"
   },
   {
@@ -1398,13 +1447,14 @@
     "NA" : "November 1994",
     "PAL" : "November 1994",
     "Publisher" : "Digital Pictures",
-    "Title" : "Slam City with Scottie Pippen †"
+    "Title" : "Slam City with Scottie Pippen"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/5107-1.png",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5107-1.png",
     "Developer" : "Malibu Interactive",
     "Publisher" : "Malibu Interactive",
+    "PAL" : "1993",
     "Title" : "The Smurfs"
   },
   {
@@ -1422,6 +1472,7 @@
     "Developer" : "Wolf Team",
     "NA" : "October 15, 1992",
     "PAL" : "October 15, 1992",
+    "JPN" : "1993",
     "Publisher" : "Wolf Team",
     "Title" : "Sol-Feace"
   },
@@ -1431,6 +1482,7 @@
     "Developer" : "Sega",
     "NA" : "November 23, 1993",
     "PAL" : "November 23, 1993",
+    "JPN" : "1993",
     "Publisher" : "Sega",
     "Title" : "Sonic CD"
   },
@@ -1441,6 +1493,7 @@
     "NA" : "September 1994",
     "PAL" : "September 1994",
     "Publisher" : "Core Design",
+    "JPN" : "1993",
     "Title" : "Soulstar"
   },
   {
@@ -1448,7 +1501,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5098-1.jpg",
     "Developer" : "ReadySoft",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "ReadySoft",
     "Title" : "Space Ace"
   },
@@ -1468,6 +1520,7 @@
     "NA" : "September 1994",
     "PAL" : "September 1994",
     "Publisher" : "Technosoft",
+    "JPN" : "1993",
     "Title" : "Starblade"
   },
   {
@@ -1485,6 +1538,7 @@
     "Developer" : "LucasArts",
     "NA" : "March 1994",
     "PAL" : "March 1994",
+    "JPN" : "1993",
     "Publisher" : "LucasArts",
     "Title" : "Star Wars: Rebel Assault"
   },
@@ -1493,7 +1547,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5103-1.jpg",
     "Developer" : "Infinite Laser Dog",
     "NA" : "December 1993",
-    "PAL" : "December 1993",
     "Publisher" : "Infinite Laser Dog",
     "Title" : "Stellar-Fire"
   },
@@ -1504,7 +1557,7 @@
     "NA" : "November 1994",
     "PAL" : "November 1994",
     "Publisher" : "Digital Pictures",
-    "Title" : "Supreme Warrior †"
+    "Title" : "Supreme Warrior"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/741-1.jpg",
@@ -1512,14 +1565,16 @@
     "Developer" : "The Code Monkeys",
     "NA" : "June 1995",
     "PAL" : "June 1995",
+    "JPN" : "1993",
     "Publisher" : "The Code Monkeys",
-    "Title" : "Surgical Strike †"
+    "Title" : "Surgical Strike"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34314-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34314-1.jpg",
     "Developer" : "Bullfrog Productions",
     "Publisher" : "Bullfrog Productions",
+    "PAL" : "1993",
     "Title" : "Syndicate"
   },
   {
@@ -1527,6 +1582,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34315-1.jpg",
     "Developer" : "Wolf Team",
     "Publisher" : "Wolf Team",
+    "JPN" : "1993",
     "Title" : "Tenbu Mega CD Special"
   },
   {
@@ -1534,6 +1590,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34316-1.jpg",
     "Developer" : "Game Arts",
     "Publisher" : "Game Arts",
+    "JPN" : "1993",
     "Title" : "Tenka Fubu: Eiyuutachi no Houkou"
   },
   {
@@ -1550,6 +1607,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34317-1.jpg",
     "Developer" : "Bullfrog Productions",
     "Publisher" : "Bullfrog Productions",
+    "PAL" : "1993",
     "Title" : "Theme Park"
   },
   {
@@ -1557,7 +1615,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5109-1.jpg",
     "Developer" : "Micronet",
     "NA" : "1994",
-    "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "Micronet",
     "Title" : "The Third World War"
   },
@@ -1567,8 +1625,9 @@
     "Developer" : "Core Design",
     "NA" : "1993",
     "PAL" : "1993",
+    "JPN" : "1993",
     "Publisher" : "Core Design",
-    "Title" : "ThunderhawkPAL\/JP"
+    "Title" : "Thunderhawk"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/79248-1.jpg",
@@ -1576,6 +1635,7 @@
     "Developer" : "Wolf Team",
     "NA" : "May 1993",
     "PAL" : "May 1993",
+    "JPN" : "1993",
     "Publisher" : "Wolf Team",
     "Title" : "Time Gal"
   },
@@ -1585,6 +1645,7 @@
     "Developer" : "The Code Monkeys",
     "NA" : "March 1994",
     "PAL" : "March 1994",
+    "JPN" : "1993",
     "Publisher" : "The Code Monkeys",
     "Title" : "Tomcat Alley"
   },
@@ -1593,7 +1654,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5112-1.jpg",
     "Developer" : "Western Technologies",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Western Technologies",
     "Title" : "Trivial Pursuit"
   },
@@ -1602,7 +1662,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5113-1.jpg",
     "Developer" : "Malibu Interactive",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Malibu Interactive",
     "Title" : "Ultraverse Prime"
   },
@@ -1611,6 +1670,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/27807-1.jpg",
     "Developer" : "Game Arts",
     "Publisher" : "Game Arts",
+    "JPN" : "1993",
     "Title" : "Urusei Yatsura: Dear My Friends"
   },
   {
@@ -1618,7 +1678,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/2579-1.jpg",
     "Developer" : "Hertz",
     "NA" : "July 1994",
-    "PAL" : "July 1994",
+    "JPN" : "1993",
     "Publisher" : "Hertz",
     "Title" : "Vay"
   },
@@ -1627,6 +1687,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34362-1.jpg",
     "Developer" : "Advance Communications Company",
     "Publisher" : "Advance Communications Company",
+    "JPN" : "1993",
     "Title" : "Wakusei Woodstock: Funky Horror Band"
   },
   {
@@ -1634,6 +1695,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/27808-1.jpg",
     "Developer" : "Compile",
     "Publisher" : "Compile",
+    "JPN" : "1993",
     "Title" : "Warau Salesman"
   },
   {
@@ -1641,7 +1703,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5114-1.jpg",
     "Developer" : "Absolute Entertainment",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Absolute Entertainment",
     "Title" : "Wheel of Fortune"
   },
@@ -1650,7 +1711,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5115-1.jpg",
     "Developer" : "American Laser Games",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "American Laser Games",
     "Title" : "Who Shot Johnny Rock?"
   },
@@ -1659,7 +1719,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5116-1.jpg",
     "Developer" : "Sega Multimedia Studio",
     "NA" : "September 1995",
-    "PAL" : "September 1995",
     "Publisher" : "Sega Multimedia Studio",
     "Title" : "Wild Woody"
   },
@@ -1668,7 +1727,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5118-1.jpg",
     "Developer" : "Game Arts",
     "NA" : "1994",
-    "PAL" : "1994",
+    "JPN" : "1993",
     "Publisher" : "Game Arts",
     "Title" : "Wing Commander"
   },
@@ -1677,6 +1736,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34321-1.jpg",
     "Developer" : "Koei",
     "Publisher" : "Koei",
+    "JPN" : "1993",
     "Title" : "Winning Post"
   },
   {
@@ -1684,7 +1744,6 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/5119-1.jpg",
     "Developer" : "The Code Monkeys",
     "NA" : "September 1995",
-    "PAL" : "September 1995",
     "Publisher" : "The Code Monkeys",
     "Title" : "Wirehead"
   },
@@ -1694,6 +1753,7 @@
     "Developer" : "Core Design",
     "NA" : "December 1992",
     "PAL" : "December 1992",
+    "JPN" : "1993",
     "Publisher" : "Core Design",
     "Title" : "Wolfchild"
   },
@@ -1703,6 +1763,7 @@
     "Developer" : "Core Design",
     "NA" : "1992",
     "PAL" : "1992",
+    "JPN" : "1993",
     "Publisher" : "Core Design",
     "Title" : "Wonder Dog"
   },
@@ -1711,6 +1772,7 @@
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34372-1.jpg",
     "Developer" : "JVC",
     "Publisher" : "JVC",
+    "JPN" : "1993",
     "Title" : "Wondermega Collection"
   },
   {
@@ -1728,22 +1790,32 @@
     "Developer" : "Sculptured Software",
     "NA" : "November 1993",
     "PAL" : "November 1993",
+    "JPN" : "1993",
     "Publisher" : "Sculptured Software",
-    "Title" : "WWF Rage in the CageWW"
+    "Title" : "WWF Rage in the Cage"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34322-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/34322-1.jpg",
     "Developer" : "Game Arts",
     "Publisher" : "Game Arts",
+    "JPN" : "1993",
     "Title" : "Yumimi Mix"
+  },
+  ,
+  {
+    "BGART" : "https://cdn.thegamesdb.net/images/original/boxart/front/4951-1.jpg",
+    "BGART_SMALL" : "https://cdn.thegamesdb.net/images/thumb/boxart/front/4951-1.jpg",
+    "Developer" : "Digital Pictures",
+    "NA" : "1994",
+    "Publisher" : "Digital Pictures",
+    "Title" : "Colors of Modern Rock"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/31786-1.jpg",
     "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/31786-1.jpg",
     "Developer" : "Compton's NewMedia",
     "NA" : "1994",
-    "PAL" : "1994",
     "Publisher" : "Compton's NewMedia",
     "Title" : "Compton's Interactive Encyclopedia"
   },
