@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "Mega Duck",
+    "Manufacturer": "Welback Holdings",
+    "ReleaseDate": 1993,
+    "BGColor": "#f2f0ecFF",
+    "TitleColor": "#48545fFF",
+    "SubTextColor": "#10d0d2FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mega-Duck-Handheld-01.jpg/1550px-Mega-Duck-Handheld-01.jpg?20180311230111"
+  },
+  {
+    "Title": "Cougar Boy",
+    "Manufacturer": "Welback Holdings",
+    "ReleaseDate": 1993,
+    "BGColor": "#f2f0ecFF",
+    "TitleColor": "#d90c13FF",
+    "SubTextColor": "#10d0d2FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "The Retro Future(YouTube)|https://i.ytimg.com/vi/frg67aNzoUI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQkxEgJOqZ1fPMDBzGk9Xdpj0RDw"
+  },
+  {
+    "Title": "Dark Mode",
+    "Manufacturer": "Welback Holdings",
+    "ReleaseDate": 1993,
+    "BGColor": "#545954F",
+    "TitleColor": "#e24437FF",
+    "SubTextColor": "#72cbfaFF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "LastDodo|https://assets.lastdodo.com/image/ld_medium/plain/assets/catalog/assets/2015/6/20/5/7/2/pdf_5720f03e-1751-11e5-898c-f3d5eae3b239.jpg"
+  },
+  {
+    "Title": "Super Computer",
+    "Manufacturer": "Welback Holdings",
+    "ReleaseDate": 1993,
+    "BGColor": "#b8b8aeFF",
+    "TitleColor": "#1f262aFF",
+    "SubTextColor": "#8dcfbcFF",
+    "dualToneColor": "#223649FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "RARE",
+    "BGEffect": "Dual",
+    "Logo": "The Retro Future(YouTube)|https://i.ytimg.com/vi/EkwFNbRbEm8/maxresdefault.jpg"
+  }
+]
