@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "Front-Loader",
+        "Manufacturer": "SNK",
+        "ReleaseDate": "1993",
+        "BGColor": "#181615FF",
+        "TitleColor": "#948b6eFF",
+        "SubTextColor": "#948b6eFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Hit-Japan(eBay)|https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/wwQAAOSwZ2tmOdkE/$_57.JPG?set_id=880000500F"
+    },
+    {
+        "Title": "Top Loader",
+        "Manufacturer": "SNK",
+        "ReleaseDate": "1993",
+        "BGColor": "#20201fFF",
+        "TitleColor": "#c2c4c0FF",
+        "SubTextColor": "#c2c4c0FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Hit-Japan(eBay)|https://i.ebayimg.com/images/g/CJEAAOSwgzFnmcB8/s-l1600.jpg"
+    },
+    {
+        "Title": "CDZ",
+        "Manufacturer": "SNK",
+        "ReleaseDate": "1993",
+        "BGColor": "#464742FF",
+        "TitleColor": "#a9a69cFF",
+        "SubTextColor": "#a9a69cFF",
+        "SubText": "CDZ",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Hit-Japan(eBay)|https://i.ebayimg.com/images/g/re0AAOSwQEliLtZL/s-l1600.jpg"
+    }
+]
