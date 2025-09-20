@@ -1,0 +1,54 @@
+[
+    {
+        "Title": "32X",
+        "Manufacturer": "SEGA",
+        "ReleaseDate": "1993",
+        "BGColor": "#0a070dFF",
+        "TitleColor": "#b5beb5FF",
+        "SubTextColor": "#b5beb5FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Sega Retro|https://segaretro.org/images/2/2a/32X_US.jpg"
+    },
+    {
+        "Title": "Super 32X",
+        "Manufacturer": "SEGA",
+        "ReleaseDate": "1993",
+        "BGColor": "#0a070dFF",
+        "TitleColor": "#dcce95FF",
+        "SubTextColor": "#b5beb5FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Retro Otaku|https://www.retro-otaku.com/wp-content/gallery/collections-sega-32x/img_1168.jpg"
+    },
+    {
+        "Title": "Mega Drive 32X",
+        "Manufacturer": "SEGA",
+        "ReleaseDate": "1993",
+        "BGColor": "#0a070dFF",
+        "TitleColor": "#fefbf5FF",
+        "SubTextColor": "#fefbf5FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "8-Bit Beyond|https://www.8bitbeyond.com/cdn/shop/products/sega-32x-console-745231_2048x.jpg?v=1642693478"
+    },
+    {
+        "Title": "Samsung 32X",
+        "Manufacturer": "SEGA",
+        "ReleaseDate": "1993",
+        "BGColor": "#0a070dFF",
+        "TitleColor": "#c31846FF",
+        "SubTextColor": "#ad835fFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "8-Bit Beyond|https://www.8bitbeyond.com/cdn/shop/products/sega-32x-console-745231_2048x.jpg?v=1642693478"
+    }
+]
