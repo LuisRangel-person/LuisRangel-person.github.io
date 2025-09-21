@@ -259,8 +259,8 @@
     "Title" : "Chiki Chiki Machine Mō Race"
   },
   {
-    "BGART" : "Chiki Chiki Machine Mō Race 2: In Space",
-    "BGART_SMALL" : "Chiki Chiki Machine Mō Race 2: In Space",
+    "BGART" : "https://www.retroplace.com/pics/3do/packshots/43481--chiki-chiki-machine-mou-race-2-in-space.png",
+    "BGART_SMALL" : "https://www.retroplace.com/pics/3do/packshots/43481--chiki-chiki-machine-mou-race-2-in-space.png",
     "Developer" : "Future Pirates",
     "JPN" : "August 11, 1995",
     "Publisher" : "Future Pirates",
@@ -475,8 +475,8 @@
     "Title" : "Emit Vol. 1: Toki no Maigo"
   },
   {
-    "BGART" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqNTmZYM3t3BKHGQ_JYNHgOAOMyKAoOsBRg&s",
-    "BGART_SMALL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqNTmZYM3t3BKHGQ_JYNHgOAOMyKAoOsBRg&s",
+    "BGART" : "https://archive.org/download/emit-vol.-2-inochigake-no-tabi-japan/Emit%20Vol.%202%20-%20Inochigake%20no%20Tabi%20%28Japan%29.png",
+    "BGART_SMALL" : "https://archive.org/download/emit-vol.-2-inochigake-no-tabi-japan/Emit%20Vol.%202%20-%20Inochigake%20no%20Tabi%20%28Japan%29.png",
     "Developer" : "Koei",
     "JPN" : "July 14, 1995",
     "Publisher" : "Koei",
@@ -1643,16 +1643,6 @@
     "PAL" : "1994",
     "Publisher" : "Sanctuary Woods",
     "Title" : "Shelley Duvall's It's a Bird's Life"
-  },
-  {
-    "BGART" : "https://cdn.mobygames.com/covers/4359770-shock-wave-operation-jumpgate-3do-front-cover.jpg",
-    "BGART_SMALL" : "https://cdn.mobygames.com/covers/4359770-shock-wave-operation-jumpgate-3do-front-cover.jpg",
-    "Developer" : "The Advanced Technology Group",
-    "JPN" : "September 16, 1994",
-    "NA" : "June 27, 1994",
-    "PAL" : "June 27, 1994",
-    "Publisher" : "Electronic Arts-Electronic Arts Victor (JP)",
-    "Title" : "Shock Wave: Operation JumpGate"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/4862-1.jpg",
