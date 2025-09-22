@@ -56,16 +56,16 @@
     "Title" : "a 1-2-3"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/119622-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/119622-1.jpg",
+    "BGART" : "REVIEW",
+    "BGART_SMALL" : "REVIEW",
     "Developer" : "Artdink",
     "JPN" : "1991-04",
     "Publisher" : "Artdink",
     "Title" : "A-Ressha de Ikō III"
   },
   {
-    "BGART" : "REVIEW",
-    "BGART_SMALL" : "REVIEW",
+    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/119622-1.jpg",
+    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/119622-1.jpg",
     "Developer" : "Artdink",
     "JPN" : "1993-12",
     "Publisher" : "Artdink",
