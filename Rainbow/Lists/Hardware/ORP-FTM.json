@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "FM Towns Marty",
+        "Manufacturer": "Fujitsu",
+        "ReleaseDate": "1993",
+        "BGColor": "#E5E5E5FF",
+        "TitleColor": "#AFB9CDFF",
+        "SubTextColor": "#969696FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "RARE",
+        "BGEffect": "None",
+        "Logo": "parknasty913|https://preview.redd.it/mbxf9bg2wcz61.jpg?width=1080&crop=smart&auto=webp&s=19f396552a178b70526fec3a1b7e3cb45783dee0"
+    },
+  {
+        "Title": "Towns Marty 2",
+        "Manufacturer": "Fujitsu",
+        "ReleaseDate": "1993",
+        "BGColor": "#6D6D57FF",
+        "TitleColor": "#FBFE03FF",
+        "SubTextColor": "#CAC5D0FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "RARE",
+        "BGEffect": "None",
+        "Logo": "JAMMArcade.net|https://www.jammarcade.net/images/2018/03/Marty_2.jpg"
+    },
+  {
+        "Title": "Car Marty",
+        "Manufacturer": "Fujitsu",
+        "ReleaseDate": "1993",
+        "BGColor": "#726D69FF",
+        "TitleColor": "#B6C2CEFF",
+        "SubTextColor": "#B6C2CEFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "RARE",
+        "BGEffect": "None",
+        "Logo": "The Retro Collective(YouTube)|https://supercarblondie.com/wp-content/uploads/How-a-1990s-Japanese-game-console-became-one-of-the-worlds-earliest-GPS-navigation-systems.png"
+    }
+]
