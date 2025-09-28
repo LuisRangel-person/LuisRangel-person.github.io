@@ -567,8 +567,8 @@
     "Title" : "Afraid Gear Another"
   },
   {
-    "BGART" : "Afro Ken: The Puzzle",
-    "BGART_SMALL" : "Afro Ken: The Puzzle",
+    "BGART" : "https://psxdatacenter.com/images/covers/J/S/SLPS-03307.jpg",
+    "BGART_SMALL" : "https://psxdatacenter.com/images/covers/J/S/SLPS-03307.jpg",
     "Developer" : "Axes Art Amuse",
     "JPN" : "October 25, 2001",
     "Publisher" : "Bandai",
@@ -5655,8 +5655,8 @@
     "Title" : "Dai-2-Ji Super Robot Taisen"
   },
   {
-    "BGART" : "https://www.retroplace.com/pics/ps/packshots/54717--dai-3-ji-super-robot-taisen.png",
-    "BGART_SMALL" : "https://www.retroplace.com/pics/ps/packshots/54717--dai-3-ji-super-robot-taisen.png",
+    "BGART" : "https://psxdatacenter.com/images/covers/J/S/SLPS-02530.jpg",
+    "BGART_SMALL" : "https://psxdatacenter.com/images/covers/J/S/SLPS-02530.jpg",
     "Developer" : "WinkySoft",
     "JPN" : "December 22, 1999",
     "Publisher" : "Banpresto",
@@ -6506,8 +6506,8 @@
     "Title" : "Die Hard Trilogy 2: Viva Las Vegas"
   },
   {
-    "BGART" : "https://www.retroplace.com/pics/ps/packshots/55512--diet-nyuumon-set-undou-kaishou.png",
-    "BGART_SMALL" : "https://www.retroplace.com/pics/ps/packshots/55512--diet-nyuumon-set-undou-kaishou.png",
+    "BGART" : "https://psxdatacenter.com/images/covers/J/D/SLPS-03372.jpg",
+    "BGART_SMALL" : "https://psxdatacenter.com/images/covers/J/D/SLPS-03372.jpg",
     "Developer" : "Twilight Express",
     "JPN" : "December 20, 2001",
     "Publisher" : "Twilight Express",
@@ -6933,8 +6933,8 @@
     "Title" : "Doki Oki"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/71559-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/71559-1.jpg",
+    "BGART" : "https://genkivideogames.com/wp-content/uploads/2024/09/scpm85006front.jpg",
+    "BGART_SMALL" : "https://genkivideogames.com/wp-content/uploads/2024/09/scpm85006front.jpg",
     "Developer" : "Sony",
     "JPN" : "February 21, 2000",
     "Publisher" : "Sony",
@@ -7104,8 +7104,8 @@
     "Title" : "Doukyuusei Mahjong"
   },
   {
-    "BGART" : "https://www.retroplace.com/pics/ps/packshots/55924--doubutsu-chara-navi-uranai-2-kosei-shinri-renai-uranai-puzzle.png",
-    "BGART_SMALL" : "https://www.retroplace.com/pics/ps/packshots/55924--doubutsu-chara-navi-uranai-2-kosei-shinri-renai-uranai-puzzle.png",
+    "BGART" : "https://psxdatacenter.com/images/covers/J/D/SLPS-03526.jpg",
+    "BGART_SMALL" : "https://psxdatacenter.com/images/covers/J/D/SLPS-03526.jpg",
     "Developer" : "Culture Brain",
     "JPN" : "September 18, 2003",
     "Publisher" : "Culture Brain",
@@ -10002,8 +10002,8 @@
     "Title" : "Gensō Suikogaiden Vol. 2: Crystal Valley no Kettou"
   },
   {
-    "BGART" : "https://www.retroplace.com/pics/ps/packshots/57040--gensou-maden-saiyuuki-harukanaru-nishi-e.png",
-    "BGART_SMALL" : "https://www.retroplace.com/pics/ps/packshots/57040--gensou-maden-saiyuuki-harukanaru-nishi-e.png",
+    "BGART" : "https://psxdatacenter.com/images/covers/J/G/SLPM-86986.jpg",
+    "BGART_SMALL" : "https://psxdatacenter.com/images/covers/J/G/SLPM-86986.jpg",
     "Developer" : "J-Wing",
     "JPN" : "December 26, 2002",
     "Publisher" : "J-Wing",
@@ -14450,8 +14450,8 @@
     "Title" : "Kisha de Go!"
   },
   {
-    "BGART" : "https://www.retroplace.com/pics/ps/packshots/59261--kishu-michi.png",
-    "BGART_SMALL" : "https://www.retroplace.com/pics/ps/packshots/59261--kishu-michi.png",
+    "BGART" : "https://i.ebayimg.com/images/g/oksAAOSwYjdnEFer/s-l400.jpg",
+    "BGART_SMALL" : "https://i.ebayimg.com/images/g/oksAAOSwYjdnEFer/s-l400.jpg",
     "Developer" : "SunSoft",
     "JPN" : "September 7, 2000",
     "Publisher" : "SunSoft",
@@ -18556,7 +18556,7 @@
     "NA" : "June 10, 1996",
     "PAL" : "August 17, 1996",
     "Publisher" : "Namco",
-    "Title" : "MCO Museum Vol. 1"
+    "Title" : "NAMCO Museum Vol. 1"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21249-1.jpg",
@@ -18566,7 +18566,7 @@
     "NA" : "October 10, 1996",
     "PAL" : "November 22, 1996",
     "Publisher" : "Namco",
-    "Title" : "MCO Museum Vol. 2"
+    "Title" : "NAMCO Museum Vol. 2"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/82064-1.jpg",
@@ -18576,7 +18576,7 @@
     "NA" : "February 5, 1997",
     "PAL" : "February 12, 1997",
     "Publisher" : "Namco",
-    "Title" : "MCO Museum Vol. 3"
+    "Title" : "NAMCO Museum Vol. 3"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21380-1.jpg",
@@ -18586,7 +18586,7 @@
     "NA" : "July 10, 1997",
     "PAL" : "August 18, 1997",
     "Publisher" : "Namco",
-    "Title" : "MCO Museum Vol. 4"
+    "Title" : "NAMCO Museum Vol. 4"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/21381-1.jpg",
@@ -18596,7 +18596,7 @@
     "NA" : "November 15, 1997",
     "PAL" : "February 26, 1998",
     "Publisher" : "Namco",
-    "Title" : "MCO Museum Vol. 5"
+    "Title" : "NAMCO Museum Vol. 5"
   },
   {
     "BGART" : "https://storage.googleapis.com/images.pricecharting.com/ba13ff7dd659f07318be495c61186e6c6a3aedcbd1a0b2c87800653a3ec9a398/1600.jpg",
@@ -18703,7 +18703,7 @@
     "Developer" : "Stormfront Studios",
     "NA" : "October 10, 1997",
     "Publisher" : "EA Sports",
-    "Title" : "SCAR 98"
+    "Title" : "NASCAR 98"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/572-1.jpg",
@@ -18711,7 +18711,7 @@
     "Developer" : "Stormfront Studios",
     "NA" : "September 22, 1998",
     "Publisher" : "EA Sports",
-    "Title" : "SCAR 99"
+    "Title" : "NASCAR 99"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/30578-1.jpg",
@@ -18727,7 +18727,7 @@
     "Developer" : "EA Black Box",
     "NA" : "October 30, 2000",
     "Publisher" : "EA Sports",
-    "Title" : "SCAR 2001"
+    "Title" : "NASCAR 2001"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/42021-1.jpg",
@@ -18751,7 +18751,7 @@
     "Developer" : "EA Sports",
     "NA" : "February 3, 2000",
     "Publisher" : "EA Sports",
-    "Title" : "SCAR Rumble"
+    "Title" : "NASCAR Rumble"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/27823-1.jpg",
@@ -18759,7 +18759,7 @@
     "Developer" : "EA Tiburon",
     "NA" : "October 7, 2001",
     "Publisher" : "Electronic Arts",
-    "Title" : "SCAR Thunder 2002"
+    "Title" : "NASCAR Thunder 2002"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/34826-1.jpg",
@@ -18767,7 +18767,7 @@
     "Developer" : "EA Sports",
     "NA" : "September 19, 2002",
     "Publisher" : "Electronic Arts",
-    "Title" : "SCAR Thunder 2003"
+    "Title" : "NASCAR Thunder 2003"
   },
   {
     "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/39666-1.jpg",
@@ -18775,7 +18775,7 @@
     "Developer" : "EA Sports",
     "NA" : "September 16, 2003",
     "Publisher" : "EA Sports",
-    "Title" : "SCAR Thunder 2004"
+    "Title" : "NASCAR Thunder 2004"
   },
   {
     "BGART" : "https://cdn11.bigcommerce.com/s-w6rhp43/images/stencil/1280x1280/products/7624/24699/310342_front__62922.1684967232.jpg?c=2",
@@ -23552,8 +23552,8 @@
     "Title" : "Rayman Junior: English"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/91838-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/91838-1.jpg",
+    "BGART" : "https://images.launchbox-app.com/57229214-0a89-4a70-9704-a527a266462f.jpg",
+    "BGART_SMALL" : "https://images.launchbox-app.com/57229214-0a89-4a70-9704-a527a266462f.jpg",
     "Developer" : "Aqua Pacific",
     "PAL" : "December 15, 2000",
     "Publisher" : "Ubisoft",
@@ -27366,7 +27366,7 @@
     "BGART_SMALL" : "https://psxdatacenter.com/images/covers/J/S/SLPS-00597.jpg",
     "Developer" : "Make",
     "JPN" : "June 20, 1997",
-    "Publisher" : "Shinko Music [ja]",
+    "Publisher" : "Shinko Music [ja]",
     "Title" : "Sold Out"
   },
   {
@@ -31129,8 +31129,8 @@
     "Title" : "True Pinball"
   },
   {
-    "BGART" : "https:\/\/cdn.thegamesdb.net\/images\/original\/boxart\/front\/86227-1.jpg",
-    "BGART_SMALL" : "https:\/\/cdn.thegamesdb.net\/images\/thumb\/boxart\/front\/86227-1.jpg",
+    "BGART" : "https://cdn.mobygames.com/covers/11075474-tsumu-playstation-front-cover.jpg",
+    "BGART_SMALL" : "https://cdn.mobygames.com/covers/11075474-tsumu-playstation-front-cover.jpg",
     "Developer" : "Hect",
     "JPN" : "December 10, 1998",
     "Publisher" : "Hect",
