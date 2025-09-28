@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "PC-FX",
+        "Manufacturer": "NEC",
+        "ReleaseDate": "1994",
+        "BGColor": "#CBCBCBFF",
+        "TitleColor": "#ABADB5FF",
+        "SubTextColor": "#ABADB5FF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Hit-Japan(eBay)|https://i.ebayimg.com/images/g/VeoAAOSwDQ5m6-3F/s-l1600.jpg"
+    },
+    {
+        "Title": "PC-FX GA",
+        "Manufacturer": "NEC",
+        "ReleaseDate": "1994",
+        "BGColor": "#2CC165FF",
+        "TitleColor": "#C6CEBEFF",
+        "SubTextColor": "#C6CEBEFF",
+        "SubText": "PC Expansion Card",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "Metal",
+        "Logo": "Black Squirrel(NECRetro)|https://necretro.org/images/5/50/PCFXGA.jpg"
+    },
+    {
+        "Title": "PC-FX GA DOS/V",
+        "Manufacturer": "NEC",
+        "ReleaseDate": "1994",
+        "BGColor": "#2CC165FF",
+        "TitleColor": "#C6CEBEFF",
+        "SubTextColor": "#C6CEBEFF",
+        "SubText": "PC Expansion Card",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "Metal",
+        "Logo": "Surugaya|https://u-mercari-images.mercdn.net/photos/m50408676238_3.jpg"
+    }
+]
