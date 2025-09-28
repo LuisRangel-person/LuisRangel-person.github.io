@@ -1,6 +1,6 @@
 [
   {
-    "Titles": "Baldies",
+    "Title": "Baldies",
     "Developer": "Creative Edge Software",
     "Publisher": "Atari Corporation",
     "NA": "December 1995",
@@ -10,7 +10,7 @@
     "BGART_SMALL": "https://cdn.thegamesdb.net/images/thumb/boxart/front/5252-1.jpg"
   },
   {
-    "Titles": "Battlemorph",
+    "Title": "Battlemorph",
     "Developer": "Attention to Detail",
     "Publisher": "Atari Corporation",
     "NA": "December 1995",
@@ -20,7 +20,7 @@
     "BGART_SMALL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Battlemorph_cover.jpg/250px-Battlemorph_cover.jpg"
   },
   {
-    "Titles": "Blue Lightning",
+    "Title": "Blue Lightning",
     "Developer": "Attention to Detail",
     "Publisher": "Atari Corporation",
     "NA": "September 21, 1995",
@@ -30,7 +30,7 @@
     "BGART_SMALL": "https://upload.wikimedia.org/wikipedia/en/4/42/Blue_Lightning_Jaguar_CD_cover_art.jpg"
   },
   {
-    "Titles": "Brain Dead 13",
+    "Title": "Brain Dead 13",
     "Developer": "ReadySoft",
     "Publisher": "ReadySoft",
     "NA": "March 15, 1996",
@@ -40,7 +40,7 @@
     "BGART_SMALL": "https://storage.googleapis.com/images.pricecharting.com/AMIfv97j_rOe1bODbwGBLViWOwDI0oxKavO7YQ25R-qY4p0fMWbjzMWbqUXjiPqujodcugHVB3OV6iEMzX0IUXIWzftgulcUG83yWKC76hC3gcIBfmJCQ_zUZ4_q8E9_Lcz2f4Itvf7j8TEnONtFs0WGtABPucfj2g/1600.jpg"
   },
   {
-    "Titles": "Dragon's Lair",
+    "Title": "Dragon's Lair",
     "Developer": "ReadySoft",
     "Publisher": "ReadySoft",
     "NA": "November 16, 1995",
@@ -50,7 +50,7 @@
     "BGART_SMALL": "https://www.lukiegames.com/assets/images/jag_cd_dragons_lair_p_zqxdau.jpg"
   },
   {
-    "Titles": "Highlander: The Last of the MacLeods",
+    "Title": "Highlander: The Last of the MacLeods",
     "Developer": "Lore Design Limited",
     "Publisher": "Atari Corporation",
     "NA": "October 30, 1995",
@@ -60,7 +60,7 @@
     "BGART_SMALL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Highlander_The_Last_of_the_MacLeods_Box_Art.jpg/250px-Highlander_The_Last_of_the_MacLeods_Box_Art.jpg"
   },
   {
-    "Titles": "Hover Strike: Unconquered Lands",
+    "Title": "Hover Strike: Unconquered Lands",
     "Developer": "Atari Corporation",
     "Publisher": "Atari Corporation",
     "NA": "October 23, 1995",
@@ -70,7 +70,7 @@
     "BGART_SMALL": "https://upload.wikimedia.org/wikipedia/en/6/60/Hover_Strike_-_Unconquered_Lands_front.jpg"
   },
   {
-    "Titles": "Iron Soldier 2",
+    "Title": "Iron Soldier 2",
     "Developer": "Eclipse Software Design",
     "Publisher": "Telegames",
     "NA": "April 23, 1997",
@@ -80,7 +80,7 @@
     "BGART_SMALL": "https://storage.googleapis.com/images.pricecharting.com/1efac61a87b38c22a315aa9e8fd9edb5ac1617c06cf9ef76cb8dbb7a95fc59a5/1600.jpg"
   },
   {
-    "Titles": "Myst",
+    "Title": "Myst",
     "Developer": "Cyan, Inc.",
     "Publisher": "Atari Corporation, Sunsoft",
     "NA": "December 15, 1995",
@@ -90,7 +90,7 @@
     "BGART_SMALL": "https://j2games.com/cdn/shop/products/677_front.jpg?v=1629392304"
   },
   {
-    "Titles": "Primal Rage",
+    "Title": "Primal Rage",
     "Developer": "Probe Entertainment",
     "Publisher": "Time Warner Interactive",
     "NA": "December 21, 1995",
@@ -100,7 +100,7 @@
     "BGART_SMALL": "https://infinityretro.com/wp-content/uploads/2014/07/Primal-Rage-Jaguar-CD-cover.png"
   },
   {
-    "Titles": "Space Ace",
+    "Title": "Space Ace",
     "Developer": "ReadySoft",
     "Publisher": "ReadySoft",
     "NA": "January 24, 1996",
@@ -110,7 +110,7 @@
     "BGART_SMALL": "https://ralphiesfunhouse.com/cdn/shop/files/48027--space-ace.jpg?v=1751064453"
   },
   {
-    "Titles": "Vid Grid",
+    "Title": "Vid Grid",
     "Developer": "High Voltage Software",
     "Publisher": "Atari Corporation",
     "NA": "September 21, 1995",
@@ -120,7 +120,7 @@
     "BGART_SMALL": "https://cdn.shopify.com/s/files/1/1592/0809/products/15654_5ff5f9e054bcf3.77175161_Jag_20CD_20vid_20grid_large_a05a43fd-cd92-4c99-baab-eb68f3e64560.jpg?v=1609957903"
   },
   {
-    "Titles": "World Tour Racing",
+    "Title": "World Tour Racing",
     "Developer": "Teque London",
     "Publisher": "Telegames",
     "NA": "June 4, 1997",
