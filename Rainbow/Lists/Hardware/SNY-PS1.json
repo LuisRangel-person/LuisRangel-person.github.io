@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "PlayStation",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1994,
+    "BGColor": "#A8AAB3FF",
+    "TitleColor": "#484B53FF",
+    "SubTextColor": "#5FB998FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Sony|https://gmedia.playstation.com/is/image/SIEPDC/ps1-console-image-block-01-en-02oct24?$1600px--t$"
+  },
+  {
+    "Title": "PSOne",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1994,
+    "BGColor": "#E3E6E8FF",
+    "TitleColor": "#8B9199FF",
+    "SubTextColor": "#8B9199FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PSone-Console-Set-NoLCD.png/2880px-PSone-Console-Set-NoLCD.png"
+  },
+  {
+    "Title": "Net Yaroze",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1994,
+    "BGColor": "#393B3AFF",
+    "TitleColor": "#B2B7BEFF",
+    "SubTextColor": "#5FB998FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Dev Kit",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "kirederf7(Reddit)|https://preview.redd.it/59tfjp2rsez51.jpg?width=640&crop=smart&auto=webp&s=b73d15eab43a93fc6ad33323a00eba6597e1c677"
+  },
+  {
+    "Title": "Debugging Station Blue",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1994,
+    "BGColor": "#1D4679FF",
+    "TitleColor": "#AFC7E1FF",
+    "SubTextColor": "#40D3D4FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Dev Kit",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "BnGamesReviews(Reddit)|https://external-preview.redd.it/E57fGLOhrP26LDPzyTg_kXxg9yqpaEeQhYkqq520oTM.jpg?width=1080&crop=smart&auto=webp&s=091d7e33556c3ad075c8cf04cefabdadf024852f"
+  },
+  {
+    "Title": "Debugging Station Teal",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1994,
+    "BGColor": "#066771FF",
+    "TitleColor": "#AFC7E1FF",
+    "SubTextColor": "#40D3D4FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Dev Kit",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "Boundish91(Reddit)|https://preview.redd.it/my-most-special-ps1-v0-1gjtspzob6qb1.jpg?width=1080&crop=smart&auto=webp&s=c0e8250c8c737029c91efeb89b8be9649dc0d5de"
+  }
+]
