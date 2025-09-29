@@ -1,0 +1,54 @@
+[
+    {
+        "Title": "R-Zone",
+        "Manufacturer": "Tiger",
+        "ReleaseDate": "1995",
+        "BGColor": "#090803FF",
+        "TitleColor": "#E5524CFF",
+        "SubTextColor": "#A7709AFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Mercari|https://u-mercari-images.mercdn.net/photos/m63653843527_1.jpg"
+    },
+    {
+        "Title": "Xtreme Pocket Game",
+        "Manufacturer": "Tiger",
+        "ReleaseDate": "1995",
+        "BGColor": "#090803FF",
+        "TitleColor": "#E5524CFF",
+        "SubTextColor": "#A7709AFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Evan Amos|https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiger-RZone-XPG-FL.jpg/1338px-Tiger-RZone-XPG-FL.jpg"
+    },
+    {
+        "Title": "SuperScreen",
+        "Manufacturer": "Tiger",
+        "ReleaseDate": "1995",
+        "BGColor": "#090803FF",
+        "TitleColor": "#E5524CFF",
+        "SubTextColor": "#A7709AFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "The Video Game Kraken|https://lh3.googleusercontent.com/proxy/OjdND2GgUxzKDT1zg15919Q564XTzVq_XCp-uOQQh5QlYvmjEtMNB_hd2qdrZ0rWnnAH_AXxfzS5hFnZhekrvkHvzlkUZ35YcPM9sx9DH9PC0CQtW60uMJe3Mpr9tIR-Y4qTXMuo_Ftk"
+    },
+    {
+        "Title": "DataZone",
+        "Manufacturer": "Tiger",
+        "ReleaseDate": "1995",
+        "BGColor": "#090803FF",
+        "TitleColor": "#E5524CFF",
+        "SubTextColor": "#A7709AFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "IT History Society|https://www.ithistory.org/sites/default/files/hardware/r-zone-datazone.jpg"
+    }
+]
