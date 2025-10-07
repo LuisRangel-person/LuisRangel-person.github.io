@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Pippin",
+        "Manufacturer": "Bandai",
+        "ReleaseDate": "1996",
+        "BGColor": "#FFFFFFFF",
+        "TitleColor": "#898C94FF",
+        "SubTextColor": "#04151EFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "Vectronics Collections|https://www.vectronicscollections.org/articles/images/pippin/pippin1.jpg"
+    },
+    {
+        "Title": "Katz Media Player 2000",
+        "Manufacturer": "Bandai",
+        "ReleaseDate": "1996",
+        "BGColor": "#2C2E27FF",
+        "TitleColor": "#EBF4FEFF",
+        "SubTextColor": "#EBF4FEFF",
+        "SubText": "Standard",
+        "Info": "",
+        "Extra": "",
+        "BGEffect": "None",
+        "Logo": "allaboutapple.com|https://upload.wikimedia.org/wikipedia/commons/8/8f/Pippinfront.jpg?20050406173915"
+    }
+]
