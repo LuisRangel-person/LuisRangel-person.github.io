@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "game.com",
+    "Manufacturer": "Tiger",
+    "ReleaseDate": 1997,
+    "BGColor": "#B0ACA3FF",
+    "TitleColor": "#3D3C3AFF",
+    "SubTextColor": "#307D93FF",
+    "dualToneColor": "#40403FFF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Dual",
+    "Logo": "direct-gaming(eBay)|https://i.ebayimg.com/images/g/FRgAAOSw2EJkHAOh/s-l1600.jpg"
+  },
+  {
+    "Title": "Pocket Pro",
+    "Manufacturer": "Tiger",
+    "ReleaseDate": 1997,
+    "BGColor": "#373637FF",
+    "TitleColor": "#E8E7E6FF",
+    "SubTextColor": "#336A84FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Pocket Pro",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "CGR Undertow(YouTube)|https://i.ytimg.com/vi/2LxT3WrPXmU/maxresdefault.jpg"
+  },
+  {
+    "Title": "Pro Green",
+    "Manufacturer": "Tiger",
+    "ReleaseDate": 1997,
+    "BGColor": "#007C00FF",
+    "TitleColor": "#C7C5C0FF",
+    "SubTextColor": "#336A84FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Pocket Pro",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "Mercari|https://static.mercdn.net/item/detail/orig/photos/m47784666893_1.jpg?1716155910"
+  },
+  {
+    "Title": "Pro Purple",
+    "Manufacturer": "Tiger",
+    "ReleaseDate": 1997,
+    "BGColor": "#62387EFF",
+    "TitleColor": "#C0B8B6FF",
+    "SubTextColor": "#8B55B0FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Pocket Pro",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "Last Dodo|https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2011/9/15/c/6/2/pdf_c62033f0-c1a9-012e-ad1b-0050569439b1.jpg"
+  }
+]
