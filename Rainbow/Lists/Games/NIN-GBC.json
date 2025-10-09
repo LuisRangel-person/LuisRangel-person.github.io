@@ -409,7 +409,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Bad Badtz-Maru Robo Battle (Japan).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2001-08-10",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Bad Batsumaru: Robo Battle"
   },
   {
@@ -601,7 +601,7 @@
   {
     "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced) (GB Compatible).png",
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced) (GB Compatible).png",
-    "Developer" : "Imagineer (Japanese company)Imagineer",
+    "Developer" : "Imagineer",
     "JPN" : "JP|2000-06-10",
     "Publisher" : "Imagineer",
     "Title" : "Bikkuriman 2000: Charging Card GB"
@@ -1241,8 +1241,8 @@
     "Title" : "Dancing Furby"
   },
   {
-    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Geheimnis der Happy Hippo-Insel, Das (Germany).png",
-    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Geheimnis der Happy Hippo-Insel, Das (Germany).png",
+    "BGART" : "https://static.wikia.nocookie.net/nintendo/images/6/68/Das_Geheimnis_der_Happy_Hippo-Insel_%28GBC%29_%28EU%29.jpg/revision/latest?cb=20230225013248&path-prefix=en",
+    "BGART_SMALL" : "https://static.wikia.nocookie.net/nintendo/images/6/68/Das_Geheimnis_der_Happy_Hippo-Insel_%28GBC%29_%28EU%29.jpg/revision/latest?cb=20230225013248&path-prefix=en",
     "Developer" : "Kritzelkratz 3000",
     "PAL" : "DE|2001-05-17",
     "Publisher" : "JoWooD Productions",
@@ -1294,7 +1294,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2000-07-19",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Dear Daniel no Sweet Adventure: Kitty-chan o Sagashite"
   },
   {
@@ -1319,7 +1319,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Dejiko no Mahjong Party (Japan).png",
     "Developer" : "Broccoli",
     "JPN" : "JP|2000-12-08",
-    "Publisher" : "King Records (developer)King Records",
+    "Publisher" : "King Records",
     "Title" : "Dejiko no Mahjong Party"
   },
   {
@@ -1790,7 +1790,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Elie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2000-01-08",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Elie no Atelier GB"
   },
   {
@@ -1903,7 +1903,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|1998-12-11",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou"
   },
   {
@@ -2156,7 +2156,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Gekisou Dangun Racer - Onsoku Buster Dangun Dan (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-10-12",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Gessou! Dangun Racer Onsoku Buster: Dangun Tama"
   },
   {
@@ -2562,7 +2562,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Hello Kitty no Happy House (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2002-03-02",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Hello Kitty no Happy House"
   },
   {
@@ -2570,7 +2570,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "Atelier Double",
     "JPN" : "JP|1999-04-28",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Hello Kitty no Magical Museum"
   },
   {
@@ -2578,7 +2578,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2000-07-19",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Hello Kitty no Sweet Adventure: Daniel-kun ni Aitai"
   },
   {
@@ -2586,7 +2586,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Hello Kitty to Dear Daniel no Dream Adventure (Japan).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2001-04-14",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Hello Kitty to Dear Daniel no Dream Adventure"
   },
   {
@@ -2620,7 +2620,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Hero Hero-kun (Japan).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2001-02-09",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Hero Hero-kun"
   },
   {
@@ -2777,7 +2777,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Ide Yousuke no Mahjong Kyoushitsu GB (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2000-06-30",
-    "Publisher" : "Athena (game developer)Athena",
+    "Publisher" : "Athena",
     "Title" : "Ide Yosuke no Mahjong Kyoushitsu GB"
   },
   {
@@ -3096,7 +3096,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Kanji de Puzzle (Japan) (GB Compatible).png",
     "Developer" : "",
     "JPN" : "JP|2000-04-28",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Kanji de Puzzle"
   },
   {
@@ -3225,7 +3225,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Kidou Senkan Nadesico - Ruri Ruri Mahjong (Japan).png",
     "Developer" : "Studio Saizensen",
     "JPN" : "JP|1999-12-24",
-    "Publisher" : "King Records (developer)King Records",
+    "Publisher" : "King Records",
     "Title" : "Kidou Senkan Nadesico: Ruri Ruri Mahjong"
   },
   {
@@ -3387,7 +3387,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Koushien Pocket (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "Magical CompanyMagical Company (Mahou)",
     "JPN" : "JP|1999-03-12",
-    "Publisher" : "<>Magical Company (Mahou)",
+    "Publisher" : "Magical Company",
     "Title" : "Koushien Pocket"
   },
   {
@@ -3646,7 +3646,7 @@
     "JPN" : "JP|2001-12-14|NA, EU|2000-06-24",
     "NA" : "JP|2001-12-14|NA, EU|2000-06-24",
     "PAL" : "JP|2001-12-14|NA, EU|2000-06-24",
-    "Publisher" : "Infogrames<sup> NA\/EU<\/sup><br \/>Syscom<sup> JP<\/sup>",
+    "Publisher" : "Infogrames",
     "Title" : "Looney Tunes Collector: Alert!"
   },
   {
@@ -3822,7 +3822,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Marie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2000-01-08",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Marie no Atelier GB"
   },
   {
@@ -3946,7 +3946,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 2 - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|1999-07-23",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 2: Kabuto Version"
   },
   {
@@ -3954,7 +3954,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 2 - Kuwagata Version (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|1999-07-23",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 2: Kuwagata Version"
   },
   {
@@ -3962,7 +3962,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 2 - Parts Collection (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "",
     "JPN" : "JP|1999-10-29",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 2: Parts Collection"
   },
   {
@@ -3970,7 +3970,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 3 - Kabuto Version (Japan).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|2000-07-23",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 3: Kabuto Version"
   },
   {
@@ -3978,7 +3978,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 3 - Kuwagata Version (Japan).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|2000-07-23",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 3: Kuwagata Version"
   },
   {
@@ -3986,7 +3986,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 3 - Parts Collection - Z kara no Chousenjou (Japan).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|2000-11-24",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 3: Parts Collection"
   },
   {
@@ -3994,7 +3994,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 4 - Kabuto Version (Japan).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|2001-03-23",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 4: Kabuto Version"
   },
   {
@@ -4002,7 +4002,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 4 - Kuwagata Version (Japan).png",
     "Developer" : "Natsume Co., Ltd.",
     "JPN" : "JP|2001-03-23",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 4: Kuwagata Version"
   },
   {
@@ -4010,7 +4010,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 5 - Susutake Mura no Tenkousei - Kabuto (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-12-14",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 5 - Susutake Mura no Tenkousei: Kabuto Version"
   },
   {
@@ -4018,7 +4018,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot 5 - Susutake Mura no Tenkousei - Kuwagata (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-12-14",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot 5 - Susutake Mura no Tenkousei: Kuwagata Version"
   },
   {
@@ -4026,7 +4026,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot Cardrobottle - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2000-03-10",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot Card Robottle: Kabuto Version"
   },
   {
@@ -4034,7 +4034,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Medarot Cardrobottle - Kuwagata Version (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|2000-03-10",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Medarot Card Robottle: Kuwagata Version"
   },
   {
@@ -4254,7 +4254,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible).png",
     "Developer" : "",
     "JPN" : "JP|1999-12-10",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Minna no Shougi: Shokyuu Hen"
   },
   {
@@ -4507,7 +4507,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Cooking Series 1 - Oishii Cake-ya-san (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2000-12-15",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Cooking Series 1: Oishii Cake Okusan"
   },
   {
@@ -4515,7 +4515,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Cooking Series 2 - Oishii Panya-san (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-04-20",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Cooking Series 2: Oishii Panya-San"
   },
   {
@@ -4523,7 +4523,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Cooking Series 3 - Tanoshii Obentou (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-06-29",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Cooking Series 3: Tanoshii Obentou"
   },
   {
@@ -4531,7 +4531,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Cooking Series 4 - Tanoshii Dessert (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-11-16",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Cooking Series 4: Tanoshii Dessert"
   },
   {
@@ -4539,7 +4539,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Cooking Series 5 - Cake o Tsukurou (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2002-04-05",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Cooking Series 5: Komugi-Chan no Cake o Tsukurou!"
   },
   {
@@ -4547,7 +4547,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Pet Series 1 - Kawaii Hamster (Japan) (GB Compatible).png",
     "Developer" : "",
     "JPN" : "JP|2000-01-28",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Pet Series 1: Kawaii Hamster"
   },
   {
@@ -4555,7 +4555,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Pet Series 2 - Kawaii Usagi (Japan) (GB Compatible).png",
     "Developer" : "",
     "JPN" : "JP|2000-03-24",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Pet Series 2: Kawaii Usagi"
   },
   {
@@ -4563,7 +4563,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Pet Series 3 - Kawaii Koinu (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2000-08-11",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Pet Series 3: Kawaii Koinu"
   },
   {
@@ -4571,7 +4571,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Pet Series 4 - Kawaii Koneko (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-02-16",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Pet Series 4: Kawaii Koneko"
   },
   {
@@ -4579,7 +4579,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Nakayoshi Pet Series 5 - Kawaii Hamster 2 (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-04-27",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Nakayoshi Pet Series 5: Kawaii Hamster 2"
   },
   {
@@ -4883,7 +4883,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Ojarumaru - Mangan Jinja no Ennichi de Ojaru! (Japan) (GB Compatible).png",
     "Developer" : "",
     "JPN" : "JP|2000-06-30",
-    "Publisher" : "MTO (video game company)MTO",
+    "Publisher" : "MTO",
     "Title" : "Ojarumaru: Mitsunegai Jinja no Ennichi de Ojaru!"
   },
   {
@@ -5064,7 +5064,7 @@
   {
     "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Pocket Bowling (USA) (GB Compatible).png",
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Pocket Bowling (USA) (GB Compatible).png",
-    "Developer" : "Athena (game developer)Athena",
+    "Developer" : "Athena",
     "JPN" : "JP|1998-10-23|NA|1999-08-15",
     "NA" : "JP|1998-10-23|NA|1999-08-15",
     "Publisher" : "Jaleco",
@@ -5147,7 +5147,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Pocket Lure Boy (Japan).png",
     "Developer" : "Kaga Tech",
     "JPN" : "JP|1999-07-23",
-    "Publisher" : "King Records (developer)King Records",
+    "Publisher" : "King Records",
     "Title" : "Pocket Lure Boy"
   },
   {
@@ -5193,7 +5193,7 @@
   {
     "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Pocket Racing (Europe).png",
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Pocket Racing (Europe).png",
-    "Developer" : "MTO (video game company)MTO",
+    "Developer" : "MTO",
     "JPN" : "JP|1999-10-15|EU|2000",
     "PAL" : "JP|1999-10-15|EU|2000",
     "Publisher" : "Virgin Interactive",
@@ -5582,7 +5582,7 @@
   {
     "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible).png",
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible).png",
-    "Developer" : "Imagineer (Japanese company)Imagineer",
+    "Developer" : "Imagineer",
     "NA" : "NA, EU|1999-04",
     "PAL" : "NA, EU|1999-04",
     "Publisher" : "Sunsoft",
@@ -6025,7 +6025,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Sanrio Timenet - Kako Hen (Japan) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|1998-11-27",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Sanrio Timenet: Kako Hen"
   },
   {
@@ -6033,7 +6033,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).png",
     "Developer" : "TOSE",
     "JPN" : "JP|1998-11-27",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Sanrio Timenet: Mirai Hen"
   },
   {
@@ -6153,7 +6153,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Shaman King Card Game - Chou Senjiryakketsu - Funbari Hen (Japan).png",
     "Developer" : "Studio Saizensen",
     "JPN" : "JP|2001-12-21",
-    "Publisher" : "King Records (developer)King Records",
+    "Publisher" : "King Records",
     "Title" : "Shaman King Chou Senjiryakketsu: Funbari Hen"
   },
   {
@@ -6161,7 +6161,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Shaman King Card Game - Chou Senjiryakketsu - Meramera Hen (Japan).png",
     "Developer" : "Studio Saizensen",
     "JPN" : "JP|2001-12-21",
-    "Publisher" : "King Records (developer)King Records",
+    "Publisher" : "King Records",
     "Title" : "Shaman King Chou Senjiryakketsu: Meramera Hen"
   },
   {
@@ -6235,7 +6235,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Shinseiki Evangelion - Mahjong Hokan Keikaku (Japan).png",
     "Developer" : "Studio Saizensen",
     "JPN" : "JP|2000-09-29",
-    "Publisher" : "King Records (developer)King Records",
+    "Publisher" : "King Records",
     "Title" : "Shin Seiki Evangelion: Mahjong Hokan Keikaku"
   },
   {
@@ -6259,7 +6259,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1).png",
     "Developer" : "",
     "JPN" : "JP|2001-02-09",
-    "Publisher" : "Athena (game developer)Athena",
+    "Publisher" : "Athena",
     "Title" : "Shoubushi Densetsu Tetsuya: Shinjuku Tenun-hen"
   },
   {
@@ -6388,7 +6388,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Space-Net - Cosmo Blue (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-03-16",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Space-Net: Cosmo Blue"
   },
   {
@@ -6396,7 +6396,7 @@
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Space-Net - Cosmo Red (Japan).png",
     "Developer" : "",
     "JPN" : "JP|2001-03-16",
-    "Publisher" : "Imagineer (Japanese company)Imagineer",
+    "Publisher" : "Imagineer",
     "Title" : "Space-Net: Cosmo Red"
   },
   {
@@ -6708,7 +6708,7 @@
   {
     "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Taisen Tsume Shougi (Japan) (NP) (GB Compatible).png",
     "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Taisen Tsume Shougi (Japan) (NP) (GB Compatible).png",
-    "Developer" : "Athena (game developer)Athena",
+    "Developer" : "Athena",
     "JPN" : "JP|2000-07-01",
     "Publisher" : "Athena",
     "Title" : "Taisen Tsume Shougi"
@@ -7072,7 +7072,7 @@
     "Developer" : "Planet Interactive",
     "PAL" : "EU|2001-06-15",
     "Publisher" : "Infogrames",
-    "Title" : "Tootuff•Titeuf<sup> FR<\/sup>"
+    "Title" : "Tootuff"
   },
   {
     "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Nintendo_-_Game_Boy_Color\/refs\/heads\/master\/Named_Boxarts\/Top Gear Pocket (USA) (Rumble Version).png",
