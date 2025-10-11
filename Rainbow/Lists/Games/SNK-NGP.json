@@ -1,0 +1,74 @@
+[
+  {
+    "Title": "Baseball Stars",
+    "Developer": "Saurus-SNK",
+    "Publisher": "SNK",
+    "BGART": "https://cdn.mobygames.com/covers/1116402-baseball-stars-neo-geo-pocket-front-cover.jpg",
+    "BGART_SMALL": "https://cdn.mobygames.com/covers/1116402-baseball-stars-neo-geo-pocket-front-cover.jpg",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "King of Fighters R-1",
+    "Developer": "SNK",
+    "Publisher": "SNK",
+    "BGART": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/King_of_Fighters_R-1_Coverart.png/250px-King_of_Fighters_R-1_Coverart.png",
+    "BGART_SMALL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/King_of_Fighters_R-1_Coverart.png/250px-King_of_Fighters_R-1_Coverart.png",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Melon-chan's Growth Diary",
+    "Developer": "ADK",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/8/86/Melonchan_front.jpg/revision/latest?cb=20191027122054",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/8/86/Melonchan_front.jpg/revision/latest?cb=20191027122054",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Neo Cherry Master",
+    "Developer": "DYNA",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/c/c2/Neo_Cherry_Master_NGP.jpg/revision/latest?cb=20191026222228",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/c/c2/Neo_Cherry_Master_NGP.jpg/revision/latest?cb=20191026222228",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Neo Geo Cup '98 Plus",
+    "Developer": "SNK",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/0/0a/Neo_Geo_Cup_98_NGP.jpg/revision/latest?cb=20191026222637",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/0/0a/Neo_Geo_Cup_98_NGP.jpg/revision/latest?cb=20191026222637",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Pocket Tennis",
+    "Developer": "Yumekobo",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/5/5f/Pocket_Tenis_NGP.jpg/revision/latest?cb=20191026223044",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/5/5f/Pocket_Tenis_NGP.jpg/revision/latest?cb=20191026223044",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Puzzle Link",
+    "Developer": "Yumekobo",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/1/16/Puzzle_Link_NGP.jpg/revision/latest?cb=20191026223614",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/1/16/Puzzle_Link_NGP.jpg/revision/latest?cb=20191026223614",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Samurai Shodown!",
+    "Developer": "Saurus-SNK",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/4/4e/SamuraiShodown_ngp.jpg/revision/latest?cb=20190630184941",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/4/4e/SamuraiShodown_ngp.jpg/revision/latest?cb=20190630184941",
+    "JPN": "A1998"
+  },
+  {
+    "Title": "Shōgi no Tatsujin: Master of Syougi",
+    "Developer": "ADK",
+    "Publisher": "SNK",
+    "BGART": "https://static.wikia.nocookie.net/snk/images/2/2a/Master_of_Syougi_NGP.jpg/revision/latest?cb=20191026221813",
+    "BGART_SMALL": "https://static.wikia.nocookie.net/snk/images/2/2a/Master_of_Syougi_NGP.jpg/revision/latest?cb=20191026221813",
+    "JPN": "A1998"
+  }
+]
