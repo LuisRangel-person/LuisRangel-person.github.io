@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "White",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1999,
+    "BGColor": "#F2F3F3FF",
+    "TitleColor": "#6B7C95FF",
+    "SubTextColor": "#6B7C95FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "ururu2019(eBay)|https://i.ebayimg.com/images/g/YgMAAOSw2EhjgFAr/s-l960.jpg"
+  },
+  {
+    "Title": "Black",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1999,
+    "BGColor": "#404040FF",
+    "TitleColor": "#E0E1E3FF",
+    "SubTextColor": "#E0E1E3FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Hit-Japan(eBay)|https://i.ebayimg.com/images/g/3tgAAeSwni5ode4h/s-l1600.jpg"
+  },
+  {
+    "Title": "Clear",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1999,
+    "BGColor": "#6F7063FF",
+    "TitleColor": "#D3D5D0FF",
+    "SubTextColor": "#D3D5D0FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "Emily’s Retro Japan(eBay)|https://i.ebayimg.com/images/g/fkUAAOSwq5lnjNdd/s-l1600.jpg"
+  },
+  {
+    "Title": "Pink",
+    "Manufacturer": "Sony",
+    "ReleaseDate": 1999,
+    "BGColor": "#F0448FFF",
+    "TitleColor": "#E8E8E8FF",
+    "SubTextColor": "#E8E8E8FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "Trans",
+    "Logo": "RETROG_yamatoku-classic(eBay)|https://i.ebayimg.com/images/g/5SYAAeSw0vpo1d89/s-l1600.jpg"
+  }
+]
