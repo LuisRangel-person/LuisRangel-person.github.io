@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "64DD",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": 1998,
+    "BGColor": "#323237FF",
+    "TitleColor": "#F1F1F3FF",
+    "SubTextColor": "#F1F1F3FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "readytoeat.com|https://i.ebayimg.com/images/g/C2AAAeSw7Spomfqc/s-l1200.jpg"
+  },
+  {
+    "Title": "64DD Dev Kit",
+    "Manufacturer": "Nintendo",
+    "ReleaseDate": 1998,
+    "BGColor": "#323237FF",
+    "TitleColor": "#194F9AFF",
+    "SubTextColor": "#F1F1F3FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "Mo_The_Pro(reddit)|https://preview.redd.it/my-nintendo-64dd-development-kit-v0-sixt312t4nyd1.jpg?width=1080&crop=smart&auto=webp&s=a1023edfc6a7126ef1002edfaac36a07ee944882"
+  }
+]
