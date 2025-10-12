@@ -1,0 +1,874 @@
+[
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Anchorz Field (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Anchorz Field (Japan).png",
+    "Developer" : "Sammy Corporation",
+    "JPN" : "June 24, 1999",
+    "Publisher" : "Sammy Corporation",
+    "Title" : "Anchorz Field"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Armored Unit (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Armored Unit (Japan).png",
+    "Developer" : "Sammy Corporation",
+    "JPN" : "November 18, 1999",
+    "Publisher" : "Sammy Corporation",
+    "Title" : "Armored Unit"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Bakusou Dekotora Densetsu (1999-12-22)(Human)[SWJ-KGT003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Bakusou Dekotora Densetsu (1999-12-22)(Human)[SWJ-KGT003].png",
+    "Developer" : "KID",
+    "JPN" : "December 29, 1999",
+    "Publisher" : "Kaga Tech",
+    "Title" : "Bakusou Dekotora Densetsu for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/beatmania for WonderSwan (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/beatmania for WonderSwan (Japan).png",
+    "Developer" : "Konami",
+    "JPN" : "April 28, 1999",
+    "Publisher" : "Konami",
+    "Title" : "Beatmania for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Buffers Evolution (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Buffers Evolution (Japan).png",
+    "Developer" : "Koto Laboratory",
+    "JPN" : "December 9, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Buffers Evolution"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (1999-12-02)(Bandai)[SWJ-BAN01A].png",
+    "Developer" : "SIMS Co., Ltd.",
+    "JPN" : "December 2, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Cardcaptor Sakura: Sakura to Fushigi na Clow Card"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chaos Gear - Michibikareshi Mono (1999-05-27)(Bandai)[SWJ-BAN00B].png",
+    "Developer" : "",
+    "JPN" : "June 10, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Chaos Gear ~Michibika reshi mono~"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png",
+    "Developer" : "TOSE",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Chocobo no Fushigi na Dungeon for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chou Aniki - Otoko no Tamafuda (2000-02-10)(NCS)[SWJ-BAN023].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chou Aniki - Otoko no Tamafuda (2000-02-10)(NCS)[SWJ-BAN023].png",
+    "Developer" : "CP.BRAiN",
+    "JPN" : "February 10, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Chō Aniki: Otoko No Tamafuda"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (1999-12-16)(Kobunsha)[SWJ-KBS002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (1999-12-16)(Kobunsha)[SWJ-KBS002].png",
+    "Developer" : "Kobunsha",
+    "JPN" : "December 16, 1999",
+    "Publisher" : "Kobunsha",
+    "Title" : "Chou Denki Card Battle \"Yōfu Makai\" Kikuchi Hideyuki"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Clock Tower (1999-12-09)(Human)[o][SWJ-KGT002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Clock Tower (1999-12-09)(Human)[o][SWJ-KGT002].png",
+    "Developer" : "",
+    "JPN" : "December 9, 1999",
+    "Publisher" : "Kaga Tech",
+    "Title" : "Clock Tower for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Crazy Climber (1999-07-29)(Nihon Bussan)[o][SWJ-NHB001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Crazy Climber (1999-07-29)(Nihon Bussan)[o][SWJ-NHB001].png",
+    "Developer" : "Nihon Bussan",
+    "JPN" : "July 29, 1999",
+    "Publisher" : "Nihon Bussan",
+    "Title" : "Crazy Climber"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Densha de Go! (Japan) (Rev 1).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Densha de Go! (Japan) (Rev 1).png",
+    "Developer" : "Taito",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Taito",
+    "Title" : "Densha de Go!"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Densha de Go! 2 (1999-10-07)(Taito)[SWJ-CFT001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Densha de Go! 2 (1999-10-07)(Taito)[SWJ-CFT001].png",
+    "Developer" : "Taito",
+    "JPN" : "October 7, 1999",
+    "Publisher" : "Cyber Front",
+    "Title" : "Densha de Go! 2"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon Adventure - Anode Tamer (1999)(Bandai)[SWJ-BAN01C].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon Adventure - Anode Tamer (1999)(Bandai)[SWJ-BAN01C].png",
+    "Developer" : "SIMS Co., Ltd.",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Digimon Adventure: Anode Tamer"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon Adventure - Cathode Tamer (2000-01-20)(Bandai)[SWJ-BAN01D].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon Adventure - Cathode Tamer (2000-01-20)(Bandai)[SWJ-BAN01D].png",
+    "Developer" : "",
+    "JPN" : "January 20, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Digimon Adventure: Cathode Tamer"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[SWJ-BAN032].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon Adventure 02 - Tag Tamers (2000)(Bandai)[SWJ-BAN032].png",
+    "Developer" : "SIMS Co., Ltd.",
+    "JPN" : "August 3, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Digimon Adventure 02: Tag Tamers"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon - Ver. WonderSwan (2000)(Bandai)(AS).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digimon - Ver. WonderSwan (2000)(Bandai)(AS).png",
+    "Developer" : "SIMS Co., Ltd.",
+    "JPN" : "March 25, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Digital Monster Ver.WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digital Partner (2000-05-05)(Bandai)[SWJ-BAN02C].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Digital Partner (2000-05-05)(Bandai)[SWJ-BAN02C].png",
+    "Developer" : "",
+    "JPN" : "May 25, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Digital Partner"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Dokodemo Hamster (2000-01-06)(Interbec)[SWJ-BEC003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Dokodemo Hamster (2000-01-06)(Interbec)[SWJ-BEC003].png",
+    "Developer" : "Beck",
+    "JPN" : "January 6, 2000",
+    "Publisher" : "Beck",
+    "Title" : "Dokodemo Hamster"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[f EEPROM][SWJ-BAN01E].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/D's Garage 21 Koubo Game - Tane wo Maku Tori (1999-05-02)(Bandai)[f EEPROM][SWJ-BAN01E].png",
+    "Developer" : "Avit, Inc.",
+    "JPN" : "December 22, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "D's Garage21 Kōbo Game: Tane o maku tori"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Engacho! (1999-10-28)(Nihon System)[f EEPROM][SWJ-NAP001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Engacho! (1999-10-28)(Nihon System)[f EEPROM][SWJ-NAP001].png",
+    "Developer" : "Nihon Application",
+    "JPN" : "October 28, 1999",
+    "Publisher" : "Nihon Application",
+    "Title" : "Engacho! for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[f EEPROM][SWJ-BEC002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Fever - Sankyo Koushiki Pachinko Simulation (1999-12-09)(Interbec)[f EEPROM][SWJ-BEC002].png",
+    "Developer" : "Beck",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Beck",
+    "Title" : "Fever Sankyo Koushiki Pachinko Simulation for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Final Lap 2000 (2000-03-23)(Bandai)[f EEPROM][SWJ-BAN026].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Final Lap 2000 (2000-03-23)(Bandai)[f EEPROM][SWJ-BAN026].png",
+    "Developer" : "Soft Machine",
+    "JPN" : "March 23, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Final Lap 2000"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Fire Pro Wrestling (2000-08-21)(Naxat)[SWJ-KGT007].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Fire Pro Wrestling (2000-08-21)(Naxat)[SWJ-KGT007].png",
+    "Developer" : "S-Plan Corporation",
+    "JPN" : "August 31, 2000",
+    "Publisher" : "Kaga Tech",
+    "Title" : "Fire Pro Wrestling for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Fishing Freaks - Bass Rise (2000-02-24)(Interbec)[SWJ-BEC004].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Fishing Freaks - Bass Rise (2000-02-24)(Interbec)[SWJ-BEC004].png",
+    "Developer" : "",
+    "JPN" : "February 24, 2000",
+    "Publisher" : "Beck",
+    "Title" : "Fishing Freaks: Bass Rise for Wonder Swan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[f EEPROM][SWJ-BAN02B].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/From TV Animation One Piece - Mezase Kaizoku Ou! (2000-07-19)(Bandai)[f EEPROM][SWJ-BAN02B].png",
+    "Developer" : "Soft Machine",
+    "JPN" : "July 19, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "From the TV Animation:One Piece ~Mezase Kaizokuou!~"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Ganso Jajamaru-kun (1999-04-15)(Jaleco)[SWJ-JLC001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Ganso Jajamaru-kun (1999-04-15)(Jaleco)[SWJ-JLC001].png",
+    "Developer" : "Jaleco",
+    "JPN" : "April 15, 1999",
+    "Publisher" : "Jaleco",
+    "Title" : "Ganso JaJaMaru-kun"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Glocal Hexcite (2000-06-29)(Gajin)[o][SWJ-KGT008].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Glocal Hexcite (2000-06-29)(Gajin)[o][SWJ-KGT008].png",
+    "Developer" : "Success",
+    "JPN" : "June 29, 2000",
+    "Publisher" : "Success",
+    "Title" : "Glocal Hexcite"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Gomoku Narabe & Reversi - Touryuumon (2000-01-13)(Sammy)[b trimmed][SWJ-SUM006].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Gomoku Narabe & Reversi - Touryuumon (2000-01-13)(Sammy)[b trimmed][SWJ-SUM006].png",
+    "Developer" : "Sammy Corporation",
+    "JPN" : "January 13, 2000",
+    "Publisher" : "Sammy Corporation",
+    "Title" : "Gomokunarabe & Reversi Tōryūmon"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Goraku Ou Tango! (1999-04-01)(Mebius)[f SRAM Sekret][SWJ-PAW001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Goraku Ou Tango! (1999-04-01)(Mebius)[f SRAM Sekret][SWJ-PAW001].png",
+    "Developer" : "",
+    "JPN" : "April 1, 1999",
+    "Publisher" : "Mobius",
+    "Title" : "Gorakuou Tango!"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/GunPey (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/GunPey (Japan).png",
+    "Developer" : "Koto Laboratory",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Gunpey"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Hanafuda Shiyouyo (2000-02-17)(Success)[o][SWJ-KGT005].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Hanafuda Shiyouyo (2000-02-17)(Success)[o][SWJ-KGT005].png",
+    "Developer" : "",
+    "JPN" : "February 17, 2000",
+    "Publisher" : "Success",
+    "Title" : "Hanafuda Shiyouyo"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Harobots (1999)(Sunrise)[SWJ-SRV001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Harobots (1999)(Sunrise)[SWJ-SRV001].png",
+    "Developer" : "",
+    "JPN" : "October 7, 1999",
+    "Publisher" : "Sunrise Interactive",
+    "Title" : "Harobots"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1).png",
+    "Developer" : "Yoshidayama-Workshop Co., Ltd",
+    "JPN" : "June 1, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Hunter × Hunter: Ishi o Tsugu Mono"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (1999-09-30)(Banpresto)[SWJ-BPR002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (1999-09-30)(Banpresto)[SWJ-BPR002].png",
+    "Developer" : "Banpresto",
+    "JPN" : "September 30, 1999",
+    "Publisher" : "Banpresto",
+    "Title" : "Kakutō Ryōri Densetsu: Bistro Recipe -Wonder Battle Hen-"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[SWJ-BAN008].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kaze no Klonoa - Moonlight Museum (1999-05-20)(Bandai)[SWJ-BAN008].png",
+    "Developer" : "Namco",
+    "JPN" : "May 20, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Kaze no Klonoa: Moonlight Museum"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Keiba Yosou Shien Soft - Yosou Shinkaron (1999-09-14)(Media Entertainment)[o][SWJ-MDE001].png",
+    "Developer" : "Beck",
+    "JPN" : "September 14, 1999",
+    "Publisher" : "Beck",
+    "Title" : "Keiba Yosō Shien Soft: Yosō Shinkaron"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kiss Yori... - Seaside Serenade (1999-12-02)(Kid)[SWJ-KDX001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kiss Yori... - Seaside Serenade (1999-12-02)(Kid)[SWJ-KDX001].png",
+    "Developer" : "KID",
+    "JPN" : "December 2, 1999",
+    "Publisher" : "KID",
+    "Title" : "Kiss Yori... -Seaside Serenade-"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kosodate Quiz Dokodemo - My Angel (1999-04-15)(Namco)[SWJ-BAN007].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kosodate Quiz Dokodemo - My Angel (1999-04-15)(Namco)[SWJ-BAN007].png",
+    "Developer" : "",
+    "JPN" : "April 15, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Kosodate Quiz Dokodemo My Angel"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kyousouba Ikusei Simulation - Keiba (1999-11-18)(Interbec)[SWJ-BEC001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Kyousouba Ikusei Simulation - Keiba (1999-11-18)(Interbec)[SWJ-BEC001].png",
+    "Developer" : "Beck",
+    "JPN" : "November 18, 1999",
+    "Publisher" : "Beck",
+    "Title" : "Kyousouba Ikusei Simulation: Keiba"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Langrisser Millennium WS - The Last Century (2000-03-09)(NCS)[SWJ-BAN024].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Langrisser Millennium WS - The Last Century (2000-03-09)(NCS)[SWJ-BAN024].png",
+    "Developer" : "CP.BRAiN",
+    "JPN" : "March 1, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Langrisser Millennium WS: The Last Century"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Last Stand (1999-05-27)(Bandai)[SWJ-BAN009].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Last Stand (1999-05-27)(Bandai)[SWJ-BAN009].png",
+    "Developer" : "Soft Machine",
+    "JPN" : "May 27, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Last Stand"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Lode Runner for WonderSwan (2000-04-20)(Banpresto)[o][SWJ-BPR004].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Lode Runner for WonderSwan (2000-04-20)(Banpresto)[o][SWJ-BPR004].png",
+    "Developer" : "Aisystem Tokyo",
+    "JPN" : "April 20, 2000",
+    "Publisher" : "Banpresto",
+    "Title" : "Lode Runner for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Macross - True Love Song (2000-03-23)(Layup - Upstar)[SWJ-LAY001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Macross - True Love Song (2000-03-23)(Layup - Upstar)[SWJ-LAY001].png",
+    "Developer" : "Lay-Up",
+    "JPN" : "March 23, 2000",
+    "Publisher" : "Lay-Up",
+    "Title" : "Macross: True Love Song"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Magical Drop for WonderSwan (1999-10-14)(Data East)[SWJ-DTE002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Magical Drop for WonderSwan (1999-10-14)(Data East)[SWJ-DTE002].png",
+    "Developer" : "Gai Brain Y K",
+    "JPN" : "October 14, 1999",
+    "Publisher" : "Data East",
+    "Title" : "Magical Drop for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Mahjong Touryuumon (Japan) (Rev 1).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Mahjong Touryuumon (Japan) (Rev 1).png",
+    "Developer" : "",
+    "JPN" : "March 11, 1999",
+    "Publisher" : "Sammy Corporation",
+    "Title" : "Mahjong Tōryūmon"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Makaimura for WonderSwan (1999-07-22)(Bandai)[SWJ-BAN011].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Makaimura for WonderSwan (1999-07-22)(Bandai)[SWJ-BAN011].png",
+    "Developer" : "Team OX (Marubatsu-gumi, Ltd)",
+    "JPN" : "July 22, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Makaimura for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Medarot Perfect Edition - Kabuto Version (1999-05-04)(Imagineer)[SWJ-MGA001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Medarot Perfect Edition - Kabuto Version (1999-05-04)(Imagineer)[SWJ-MGA001].png",
+    "Developer" : "",
+    "JPN" : "May 4, 1999",
+    "Publisher" : "Imagineer",
+    "Title" : "Medarot Perfect Edition (Kabuto Version)"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Medarot Perfect Edition - Kuwagata Version (1999-05-04)(Imagineer)[SWJ-MGA002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Medarot Perfect Edition - Kuwagata Version (1999-05-04)(Imagineer)[SWJ-MGA002].png",
+    "Developer" : "",
+    "JPN" : "May 4, 1999",
+    "Publisher" : "Imagineer",
+    "Title" : "Medarot Perfect Edition (Kuwagata Version)"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Meitantei Conan - Majutsushi no Chousenjou! (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Meitantei Conan - Majutsushi no Chousenjou! (Japan).png",
+    "Developer" : "Tomcat System",
+    "JPN" : "August 5, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Meitantei Conan: Majutsushi No Chousenjou"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).png",
+    "Developer" : "Tomcat System",
+    "JPN" : "July 27, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Meitantei Conan: Nishi No Meitantei Saidai No Kiki!?"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Metakomi Theraphy - Nee Kiite! (2000-03-23)(Media Enterprise)[SWJ-KGT006].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Metakomi Theraphy - Nee Kiite! (2000-03-23)(Media Enterprise)[SWJ-KGT006].png",
+    "Developer" : "Media Entertainment",
+    "JPN" : "March 1, 2000",
+    "Publisher" : "Media Entertainment",
+    "Title" : "Metakomi Therapy: Nee Kiite!"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Mingle Magnet (1999-11-02)(HAL)[SWJ-HAL002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Mingle Magnet (1999-11-02)(HAL)[SWJ-HAL002].png",
+    "Developer" : "HAL Corporation",
+    "JPN" : "November 2, 1999",
+    "Publisher" : "HAL Corporation",
+    "Title" : "Mingle Magnet"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Mobile Suit Gundam MSVS (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Mobile Suit Gundam MSVS (Japan).png",
+    "Developer" : "",
+    "JPN" : "August 26, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Mobile Suit Gundam MSVS"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Moero!! Pro Yakyuu Rookies (2000-03-30)(Jaleco)[SWJ-JLC002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Moero!! Pro Yakyuu Rookies (2000-03-30)(Jaleco)[SWJ-JLC002].png",
+    "Developer" : "TOSE",
+    "JPN" : "March 30, 2000",
+    "Publisher" : "Jaleco",
+    "Title" : "Moero!! Pro Yakyuu Rookies"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Morita Shougi for WonderSwan (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Morita Shougi for WonderSwan (Japan).png",
+    "Developer" : "Yuki Enterprise",
+    "JPN" : "December 22, 1999",
+    "Publisher" : "Yuki Enterprise",
+    "Title" : "Morita Shogi for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nazo Ou Pocket (1999-11-18)(Bandai Visual)[SWJ-BVL001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nazo Ou Pocket (1999-11-18)(Bandai Visual)[SWJ-BVL001].png",
+    "Developer" : "Avit, Inc.",
+    "JPN" : "November 18, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Nazo-Oh Pocket"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Neon Genesis Evangelion - Shito Ikusei (1999-07-22)(Bandai)[SWJ-BAN00E].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Neon Genesis Evangelion - Shito Ikusei (1999-07-22)(Bandai)[SWJ-BAN00E].png",
+    "Developer" : "Gainax",
+    "JPN" : "July 22, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Neon Genesis Evangelion: Shito Ikusei"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nice On (Japan) (Rev 1).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nice On (Japan) (Rev 1).png",
+    "Developer" : "Aisystem Tokyo",
+    "JPN" : "April 8, 1999",
+    "Publisher" : "Sammy Corporation",
+    "Title" : "Nice On"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nippon Pro Mahjong Renmei Kounin Tetsuman (1999-07-15)(Naxat)[SWJ-KGT001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nippon Pro Mahjong Renmei Kounin Tetsuman (1999-07-15)(Naxat)[SWJ-KGT001].png",
+    "Developer" : "Chat Noir \/ Naxart",
+    "JPN" : "July 15, 1999",
+    "Publisher" : "Kaga Tech",
+    "Title" : "Nihon Pro Mahjong Renmei Kōnin Tetsuman"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nobunaga no Yabou for WonderSwan (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Nobunaga no Yabou for WonderSwan (Japan).png",
+    "Developer" : "Koei",
+    "JPN" : "March 11, 1999",
+    "Publisher" : "Koei",
+    "Title" : "Nobunaga no Yabō for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[f EEPROM][SWJ-SUN004].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Ou-chan no Oekaki Logic (2000-01-06)(Sun Soft)[f EEPROM][SWJ-SUN004].png",
+    "Developer" : "Santaclaus",
+    "JPN" : "January 6, 2000",
+    "Publisher" : "Sunsoft",
+    "Title" : "O-Chan no Oekaki Logic"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Pocket Fighter (2000-04-06)(Bandai)[SWJ-BAN00A].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Pocket Fighter (2000-04-06)(Bandai)[SWJ-BAN00A].png",
+    "Developer" : "Soft Machine",
+    "JPN" : "April 6, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Pocket Fighter"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).png",
+    "Developer" : "Athena",
+    "JPN" : "October 7, 1999",
+    "Publisher" : "Athena",
+    "Title" : "Pro Mahjong Kyoku for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Puyo Puyo Tsuu (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Puyo Puyo Tsuu (Japan).png",
+    "Developer" : "Compile",
+    "JPN" : "March 11, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Puyo Puyo 2"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Puzzle Bobble (1999-07-01)(Sunsoft)[f EEPROM][u][SWJ-SUN003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Puzzle Bobble (1999-07-01)(Sunsoft)[f EEPROM][u][SWJ-SUN003].png",
+    "Developer" : "Yoshidayama-Workshop Co., Ltd",
+    "JPN" : "July 1, 1999",
+    "Publisher" : "Sunsoft",
+    "Title" : "Puzzle Bobble"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Rainbow Islands - Putty's Party (2000-06-29)(Mega House)[SWJ-MGH003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Rainbow Islands - Putty's Party (2000-06-29)(Mega House)[SWJ-MGH003].png",
+    "Developer" : "Digitalware",
+    "JPN" : "June 29, 2000",
+    "Publisher" : "Megahouse",
+    "Title" : "Rainbow Islands: Putty's Party"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Ring Infinity (2000-08-10)(Bandai)[f EEPROM][SWJ-KDK001 or SWJ-KDK002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Ring Infinity (2000-08-10)(Bandai)[f EEPROM][SWJ-KDK001 or SWJ-KDK002].png",
+    "Developer" : "Kadokawa Shoten",
+    "JPN" : "August 10, 2000",
+    "Publisher" : "Kadokawa Shoten",
+    "Title" : "Ring: Infinity"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Robot Works (2000-12-07)(Bandai)[WonderBorg][SWJ-BAN033].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Robot Works (2000-12-07)(Bandai)[WonderBorg][SWJ-BAN033].png",
+    "Developer" : "",
+    "JPN" : "August 4, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Robot Works"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Rockman & Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[f SRAM Sekret][t +5 Sekret][SWJ-BAN013].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Rockman & Forte - Mirai Kara no Chousensha (1999-10-28)(Bandai)[f SRAM Sekret][t +5 Sekret][SWJ-BAN013].png",
+    "Developer" : "Layup Co., Ltd.",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Rockman & Forte Mirai kara no Chōsensha"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sangokushi for WonderSwan (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sangokushi for WonderSwan (Japan).png",
+    "Developer" : "",
+    "JPN" : "April 1, 1999",
+    "Publisher" : "Koei",
+    "Title" : "Sangokushi for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sangokushi II for WonderSwan (2000-04-06)(Koei)[b][SWJ-KEX004].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sangokushi II for WonderSwan (2000-04-06)(Koei)[b][SWJ-KEX004].png",
+    "Developer" : "Koei",
+    "JPN" : "April 6, 2000",
+    "Publisher" : "Koei",
+    "Title" : "Sangokushi II"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/SD Gundam - Emotional Jam Rev 3 (1999)(Bandai)[SWJ-BAN006].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/SD Gundam - Emotional Jam Rev 3 (1999)(Bandai)[SWJ-BAN006].png",
+    "Developer" : "",
+    "JPN" : "May 27, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "SD Gundam: Emotional Jam"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/SD Gundam Gashapon Senki - Episode 1 (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/SD Gundam Gashapon Senki - Episode 1 (Japan).png",
+    "Developer" : "Graphic Research Co., Ltd",
+    "JPN" : "December 29, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "SD Gundam: Gashapon Senki -Episode One-"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/SD Gundam G Generation - Gather Beat (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/SD Gundam G Generation - Gather Beat (Japan).png",
+    "Developer" : "Banpresto",
+    "JPN" : "July 13, 2000",
+    "Publisher" : "Banpresto",
+    "Title" : "SD Gundam: G Generation Gather Beat"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (2000-02-24)(Bandai)[SWJ-BAN023].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (2000-02-24)(Bandai)[SWJ-BAN023].png",
+    "Developer" : "Graphic Research Co., Ltd",
+    "JPN" : "February 24, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Senkaiden: TV Animation Senkaiden Houshin Engi Yori"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sennou Millennium (2000-03-16)(Bandai)[f EEPROM][SWJ-BAN025].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sennou Millennium (2000-03-16)(Bandai)[f EEPROM][SWJ-BAN025].png",
+    "Developer" : "Kouyousha Ltd",
+    "JPN" : "March 16, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Sen-Know Millennium"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Shanghai Pocket (1999-04-01)(Sun Soft)[SWJ-SUN001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Shanghai Pocket (1999-04-01)(Sun Soft)[SWJ-SUN001].png",
+    "Developer" : "",
+    "JPN" : "April 1, 1999",
+    "Publisher" : "Sunsoft",
+    "Title" : "Shanghai Pocket"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[SWJ-TMY001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Shin Nippon Pro Wrestling Toukon Retsuden (1999-03-04)(Tomy)[SWJ-TMY001].png",
+    "Developer" : "TOSE",
+    "JPN" : "March 4, 1999",
+    "Publisher" : "Tomy",
+    "Title" : "Shin Nihon Pro Wrestling: Tōkon Retsuden"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Shougi Touryuumon (1999-10-28)(Sammy)[o][SWJ-SUM005].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Shougi Touryuumon (1999-10-28)(Sammy)[o][SWJ-SUM005].png",
+    "Developer" : "Sammy Corporation",
+    "JPN" : "October 28, 1999",
+    "Publisher" : "Sammy Corporation",
+    "Title" : "Shōgi Tōryūmon"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Side Pocket (1999-11-25)(Data East)[SWJ-DTE001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Side Pocket (1999-11-25)(Data East)[SWJ-DTE001].png",
+    "Developer" : "Data East",
+    "JPN" : "November 25, 1999",
+    "Publisher" : "Data East",
+    "Title" : "Side Pocket for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Slither Link (2000-04-20)(Bandai)[f EEPROM][o][SWJ-BAN029].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Slither Link (2000-04-20)(Bandai)[f EEPROM][o][SWJ-BAN029].png",
+    "Developer" : "Tomcat System",
+    "JPN" : "April 20, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Slither Link"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Soccer Yarou! - Challenge the World (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Soccer Yarou! - Challenge the World (Japan).png",
+    "Developer" : "",
+    "JPN" : "August 12, 1999",
+    "Publisher" : "Coconuts Japan",
+    "Title" : "Soccer Yarou!: Challenge the World"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sotsugyou for WonderSwan (1999-12-16)(Bandai Visual)[SWJ-BVL002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Sotsugyou for WonderSwan (1999-12-16)(Bandai Visual)[SWJ-BVL002].png",
+    "Developer" : "",
+    "JPN" : "December 16, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Sotsugyō for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Space Invaders (1999-05-13)(Sun Soft)[SWJ-SUN002].png",
+    "Developer" : "",
+    "JPN" : "May 13, 1999",
+    "Publisher" : "Sunsoft",
+    "Title" : "Space Invaders"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact (1999)(Banpresto)[SWJ-BPR001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact (1999)(Banpresto)[SWJ-BPR001].png",
+    "Developer" : "TOSE",
+    "JPN" : "April 28, 1999",
+    "Publisher" : "Banpresto",
+    "Title" : "Super Robot Taisen Compact"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact 2 - Dai-1-Bu - Chijou Gekidou Hen (2000-03-23)(Banpresto)[SWJ-BPR003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact 2 - Dai-1-Bu - Chijou Gekidou Hen (2000-03-23)(Banpresto)[SWJ-BPR003].png",
+    "Developer" : "TOSE",
+    "JPN" : "March 30, 2000",
+    "Publisher" : "Banpresto",
+    "Title" : "Super Robot Taisen Compact 2 Dai1bu: Chijō Hadō Hen"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).png",
+    "Developer" : "TOSE",
+    "JPN" : "June 29, 2000",
+    "Publisher" : "Banpresto",
+    "Title" : "Super Robot Taisen Compact 2 Dai2bu: Uchuu Gekishin Hen"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact 2 - Dai-3-Bu - Ginga Kessen Hen (2001-01-28)(Banpresto)[SWJ-BPR007].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Super Robot Taisen Compact 2 - Dai-3-Bu - Ginga Kessen Hen (2001-01-28)(Banpresto)[SWJ-BPR007].png",
+    "Developer" : "TOSE",
+    "JPN" : "January 18, 2001",
+    "Publisher" : "Banpresto",
+    "Title" : "Super Robot Taisen Compact 2 Dai3bu: Ginga Kessen-hen"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Taikyoku Igo - Heisei Kiin (2000-02-24)(Kaga Tech)[SWJ-KGT004].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Taikyoku Igo - Heisei Kiin (2000-02-24)(Kaga Tech)[SWJ-KGT004].png",
+    "Developer" : "Success",
+    "JPN" : "February 24, 2000",
+    "Publisher" : "Success",
+    "Title" : "Taikyoku Igo Heisei Kiin"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tanjou Debut for WonderSwan (2000-02-24)(Bandai Visual)[SWJ-BVL003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tanjou Debut for WonderSwan (2000-02-24)(Bandai Visual)[SWJ-BVL003].png",
+    "Developer" : "",
+    "JPN" : "February 24, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Tanjo: Debut for WonderSwan"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tare Panda no GunPey (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01F].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tare Panda no GunPey (1999-12-09)(Bandai)[f EEPROM][SWJ-BAN01F].png",
+    "Developer" : "Koto Laboratory",
+    "JPN" : "December 9, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Tarepanda no Gunpey"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tekken Card Challenge (1999-06-17)(Namco)[SWJ-BAN00D].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tekken Card Challenge (1999-06-17)(Namco)[SWJ-BAN00D].png",
+    "Developer" : "Namco",
+    "JPN" : "June 17, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Tekken Card Challenge"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Terrors (1999-08-05)(Bandai)[SWJ-BAN014 or SWJ-BAN018].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Terrors (1999-08-05)(Bandai)[SWJ-BAN014 or SWJ-BAN018].png",
+    "Developer" : "",
+    "JPN" : "August 5, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Terrors"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tetsujin 28 Gou (1999-12-22)(Mega House)[f EEPROM][SWJ-MGH001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tetsujin 28 Gou (1999-12-22)(Mega House)[f EEPROM][SWJ-MGH001].png",
+    "Developer" : "Megahouse",
+    "JPN" : "December 22, 1999",
+    "Publisher" : "Megahouse",
+    "Title" : "Tetsujin 28-go"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).png",
+    "Developer" : "Alpha Unit",
+    "JPN" : "April 27, 2000",
+    "Publisher" : "Banpresto",
+    "Title" : "Time Bokan Series: Bokan Densetsu: Buta mo Odaterya Doronboo"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tokyo Majin Gakuen - Fuju Houroku (2000-10-12)(Asmik Ace)[SWJ-AAE001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Tokyo Majin Gakuen - Fuju Houroku (2000-10-12)(Asmik Ace)[SWJ-AAE001].png",
+    "Developer" : "",
+    "JPN" : "October 12, 2000",
+    "Publisher" : "Asmik Ace",
+    "Title" : "Tokyo Majin Gakuen: Fuju Hōroku"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[o][SWJ-BTM001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Trump Collection - Bottom-Up Teki Trump Seikatsu (1999-07-01)(Bottom Up)[o][SWJ-BTM001].png",
+    "Developer" : "Bottom Up",
+    "JPN" : "July 1, 1999",
+    "Publisher" : "Bottom Up",
+    "Title" : "Trump Collection: Bottom Up Teki Trump Seikatsu"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (2000-09-28)(Bottom Up)[SWJ-BTM002].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (2000-09-28)(Bottom Up)[SWJ-BTM002].png",
+    "Developer" : "Bottom Up",
+    "JPN" : "September 28, 2000",
+    "Publisher" : "Bottom Up",
+    "Title" : "Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Turntablist - DJ Battle (1999-11-25)(Bandai)[f EEPROM][SWJ-BAN017].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Turntablist - DJ Battle (1999-11-25)(Bandai)[f EEPROM][SWJ-BAN017].png",
+    "Developer" : "Vestax",
+    "JPN" : "November 25, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Turntablist: DJ Battle"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Umizuri ni Ikou! (1999-04-01)(Coconuts Japan)[SWJ-CCJ001].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Umizuri ni Ikou! (1999-04-01)(Coconuts Japan)[SWJ-CCJ001].png",
+    "Developer" : "",
+    "JPN" : "April 1, 1999",
+    "Publisher" : "Coconuts Japan",
+    "Title" : "Umitsuri ni ikou!"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).png",
+    "Developer" : "Omega Micott",
+    "JPN" : "February 3, 2000",
+    "Publisher" : "Omega Micott",
+    "Title" : "Uzumaki: Denshi Kaiki Hen"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Uzumaki - Noroi Simulation (Japan).png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Uzumaki - Noroi Simulation (Japan).png",
+    "Developer" : "Omega Micott",
+    "JPN" : "March 4, 2000",
+    "Publisher" : "Omega Micott",
+    "Title" : "Uzumaki: Noroi Simulation"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Vaitz Blade (1999-06-24)(Bandai)[SWJ-BAN00C].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Vaitz Blade (1999-06-24)(Bandai)[SWJ-BAN00C].png",
+    "Developer" : "",
+    "JPN" : "June 24, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Vaitz Blade"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Wasabi Produce - Street Dancer (2000-04-27)(Bandai)[SWJ-BAN028].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Wasabi Produce - Street Dancer (2000-04-27)(Bandai)[SWJ-BAN028].png",
+    "Developer" : "",
+    "JPN" : "April 27, 2000",
+    "Publisher" : "Bandai",
+    "Title" : "Wasabi Produce - Street Dancer"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Wonder Stadium (1999-03-11)(Namco)[SWJ-BAN003].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Wonder Stadium (1999-03-11)(Namco)[SWJ-BAN003].png",
+    "Developer" : "TOSE",
+    "JPN" : "March 11, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Wonder Stadium"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Wonder Stadium '99 (1999-09-30)(Bandai)[SWJ-BAN019].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/Wonder Stadium '99 (1999-09-30)(Bandai)[SWJ-BAN019].png",
+    "Developer" : "Namco",
+    "JPN" : "September 30, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "Wonder Stadium '99"
+  },
+  {
+    "BGART" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/WonderSwan Handy Sonar Rev 1 (1999)(Bandai)[SWJ-BAN00F].png",
+    "BGART_SMALL" : "https:\/\/raw.githubusercontent.com\/libretro-thumbnails\/Bandai_-_WonderSwan\/aa3cfe8a087b33ae0864f22745f3f49827a3583e\/Named_Boxarts\/WonderSwan Handy Sonar Rev 1 (1999)(Bandai)[SWJ-BAN00F].png",
+    "Developer" : "",
+    "JPN" : "May 13, 1999",
+    "Publisher" : "Bandai",
+    "Title" : "WonderSwan Handy Sonar"
+  }
+]
