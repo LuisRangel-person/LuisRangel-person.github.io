@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "M2",
+    "Manufacturer": "Panasonic",
+    "ReleaseDate": 1996,
+    "BGColor": "#29221AFF",
+    "TitleColor": "#F2E2C7FF",
+    "SubTextColor": "#E68082FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "Otaku no Senpai(eBay)|https://i.ebayimg.com/images/g/6AYAAeSw4Qhn3K0J/s-l960.jpg"
+  },
+  {
+    "Title": "White",
+    "Manufacturer": "Panasonic",
+    "ReleaseDate": 1996,
+    "BGColor": "#DADEDDFF",
+    "TitleColor": "#29221AFF",
+    "SubTextColor": "#E68082FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "Video Game Console Library|https://lh3.googleusercontent.com/proxy/fRusmHcZ6vda-c_ByoOGuhDjkc3-5hEauq2WymUb8s-3ZDdMLNzlSuQ6OeWwadQ0_sIdh4anP_vRxaPyGC77JDcYxLCxtQmINhg5SsGWyBrFccVSWD6v8_EovC4ZKgduqxv-vvAL-qWGYkplDw1a_2s"
+  },
+  {
+    "Title": "FZ-35S",
+    "Manufacturer": "Panasonic",
+    "ReleaseDate": 1996,
+    "BGColor": "#28160AFF",
+    "TitleColor": "#EFEBEEFF",
+    "SubTextColor": "#82C51CFF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "DEV",
+    "BGEffect": "None",
+    "Logo": "Nantopaint.com|https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0405/users/7ea6f3c7045a27fdf9225599621b627a78f80b92/i-img1200x933-1684373004ctjbiw26655.jpg"
+  }
+]
