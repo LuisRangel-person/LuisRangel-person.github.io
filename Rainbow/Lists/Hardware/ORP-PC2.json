@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "Basic Blue",
+    "Manufacturer": "Benesee",
+    "ReleaseDate": 2000,
+    "BGColor": "#242547FF",
+    "TitleColor": "#D6CEC4FF",
+    "SubTextColor": "#D6CEC4FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Allergo|https://a.allegroimg.com/s1024/0c426f/ca1aabc84f1b892304aa1a07c8fa"
+  },
+  {
+    "Title": "Lime",
+    "Manufacturer": "Benesee",
+    "ReleaseDate": 2000,
+    "BGColor": "#EAEAEAFF",
+    "TitleColor": "#78A05BFF",
+    "SubTextColor": "#78A05BFF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Yup(YouTube)|https://i.ytimg.com/vi/zfIQZoT4Xg8/maxresdefault.jpg"
+  },
+  {
+    "Title": "Orange",
+    "Manufacturer": "Benesee",
+    "ReleaseDate": 2000,
+    "BGColor": "#EAEAEAFF",
+    "TitleColor": "#AE5006FF",
+    "SubTextColor": "#AE5006FF",
+    "dualToneColor": "#000000FF",
+    "SubText": "Standard",
+    "Info": "",
+    "Extra": "",
+    "BGEffect": "None",
+    "Logo": "Allergo|https://a.allegroimg.com/s1024/0cd3a0/b8546d5f4a11b01b418624c7a457"
+  }
+]
