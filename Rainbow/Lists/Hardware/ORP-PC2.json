@@ -1,7 +1,7 @@
 [
   {
     "Title": "Basic Blue",
-    "Manufacturer": "Benesee",
+    "Manufacturer": "Benesse",
     "ReleaseDate": 2000,
     "BGColor": "#242547FF",
     "TitleColor": "#D6CEC4FF",
@@ -15,7 +15,7 @@
   },
   {
     "Title": "Lime",
-    "Manufacturer": "Benesee",
+    "Manufacturer": "Benesse",
     "ReleaseDate": 2000,
     "BGColor": "#EAEAEAFF",
     "TitleColor": "#78A05BFF",
@@ -29,7 +29,7 @@
   },
   {
     "Title": "Orange",
-    "Manufacturer": "Benesee",
+    "Manufacturer": "Benesse",
     "ReleaseDate": 2000,
     "BGColor": "#EAEAEAFF",
     "TitleColor": "#AE5006FF",
